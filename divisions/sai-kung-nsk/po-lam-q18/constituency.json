@@ -1,0 +1,45 @@
+{
+  "id": "HK-NSK-Q18",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "寶林",
+    "en": "Po Lam",
+    "slug": "po-lam-q18"
+  },
+  "code": {
+    "id": "HK-NSK-Q18",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NSK",
+    "level": 1,
+    "name": {
+      "local": "西貢區",
+      "en": "Sai Kung",
+      "slug": "sai-kung-nsk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.326",
+    "lon": "114.254"
+  },
+  "metadata": {},
+  "source": {}
+}

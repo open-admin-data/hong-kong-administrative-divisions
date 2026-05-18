@@ -1,0 +1,21 @@
+# 幸福 (Fortune)
+
+[Home](../../../) &gt; [Sham Shui Po](../) > **Fortune**
+
+幸福 (Fortune) is a constituency in Hong Kong, under Sham Shui Po.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | HK-KSS-F11 |
+| Coordinates | 22.336, 114.152 |
+| Parent | Sham Shui Po |
+
+## Data Files
+
+- [constituency.json](constituency.json) — Constituency metadata
+
+---
+
+<- Back to [Sham Shui Po](../)

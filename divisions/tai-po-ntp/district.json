@@ -1,0 +1,29 @@
+{
+  "id": "HK-NTP",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "大埔",
+    "en": "Tai Po",
+    "slug": "tai-po-ntp"
+  },
+  "code": {
+    "id": "HK-NTP",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.44",
+    "lon": "114.165"
+  },
+  "metadata": {},
+  "source": {}
+}

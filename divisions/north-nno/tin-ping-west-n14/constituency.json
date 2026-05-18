@@ -1,0 +1,45 @@
+{
+  "id": "HK-NNO-N14",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "天平西",
+    "en": "Tin Ping West",
+    "slug": "tin-ping-west-n14"
+  },
+  "code": {
+    "id": "HK-NNO-N14",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NNO",
+    "level": 1,
+    "name": {
+      "local": "北區",
+      "en": "North",
+      "slug": "north-nno"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.506",
+    "lon": "114.133"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "HK-KWT-H24",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "池彩",
+      "en": "Chi Choi",
+      "slug": "chi-choi-h24"
+    },
+    "code": {
+      "id": "HK-KWT-H24",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.339",
+      "lon": "114.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "正愛",
+      "en": "Ching Oi",
+      "slug": "ching-oi-h17"
+    },
+    "code": {
+      "id": "HK-KWT-H17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.353",
+      "lon": "114.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "正安",
+      "en": "Ching On",
+      "slug": "ching-on-h18"
+    },
+    "code": {
+      "id": "HK-KWT-H18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.354",
+      "lon": "114.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H25",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "彩虹",
+      "en": "Choi Hung",
+      "slug": "choi-hung-h25"
+    },
+    "code": {
+      "id": "HK-KWT-H25",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "114.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H21",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "彩雲東",
+      "en": "Choi Wan East",
+      "slug": "choi-wan-east-h21"
+    },
+    "code": {
+      "id": "HK-KWT-H21",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "114.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H22",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "彩雲南",
+      "en": "Choi Wan South",
+      "slug": "choi-wan-south-h22"
+    },
+    "code": {
+      "id": "HK-KWT-H22",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.334",
+      "lon": "114.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H23",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "彩雲西",
+      "en": "Choi Wan West",
+      "slug": "choi-wan-west-h23"
+    },
+    "code": {
+      "id": "HK-KWT-H23",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "114.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "竹園北",
+      "en": "Chuk Yuen North",
+      "slug": "chuk-yuen-north-h15"
+    },
+    "code": {
+      "id": "HK-KWT-H15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.348",
+      "lon": "114.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "竹園南",
+      "en": "Chuk Yuen South",
+      "slug": "chuk-yuen-south-h14"
+    },
+    "code": {
+      "id": "HK-KWT-H14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.344",
+      "lon": "114.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "鳳德",
+      "en": "Fung Tak",
+      "slug": "fung-tak-h05"
+    },
+    "code": {
+      "id": "HK-KWT-H05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.345",
+      "lon": "114.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "鳳凰",
+      "en": "Fung Wong",
+      "slug": "fung-wong-h04"
+    },
+    "code": {
+      "id": "HK-KWT-H04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.344",
+      "lon": "114.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H20",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "瓊富",
+      "en": "King Fu",
+      "slug": "king-fu-h20"
+    },
+    "code": {
+      "id": "HK-KWT-H20",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.341",
+      "lon": "114.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "樂富",
+      "en": "Lok Fu",
+      "slug": "lok-fu-h10"
+    },
+    "code": {
+      "id": "HK-KWT-H10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.336",
+      "lon": "114.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "龍下",
+      "en": "Lung Ha",
+      "slug": "lung-ha-h02"
+    },
+    "code": {
+      "id": "HK-KWT-H02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.337",
+      "lon": "114.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "龍上",
+      "en": "Lung Sheung",
+      "slug": "lung-sheung-h03"
+    },
+    "code": {
+      "id": "HK-KWT-H03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.342",
+      "lon": "114.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "龍星",
+      "en": "Lung Sing",
+      "slug": "lung-sing-h06"
+    },
+    "code": {
+      "id": "HK-KWT-H06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.34",
+      "lon": "114.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "龍趣",
+      "en": "Lung Tsui",
+      "slug": "lung-tsui-h01"
+    },
+    "code": {
+      "id": "HK-KWT-H01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.341",
+      "lon": "114.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "新蒲崗",
+      "en": "San Po Kong",
+      "slug": "san-po-kong-h07"
+    },
+    "code": {
+      "id": "HK-KWT-H07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.336",
+      "lon": "114.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "天強",
+      "en": "Tin Keung",
+      "slug": "tin-keung-h12"
+    },
+    "code": {
+      "id": "HK-KWT-H12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.342",
+      "lon": "114.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "翠竹及鵬程",
+      "en": "Tsui Chuk & Pang Ching",
+      "slug": "tsui-chuk-pang-ching-h13"
+    },
+    "code": {
+      "id": "HK-KWT-H13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.348",
+      "lon": "114.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "慈雲東",
+      "en": "Tsz Wan East",
+      "slug": "tsz-wan-east-h19"
+    },
+    "code": {
+      "id": "HK-KWT-H19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.347",
+      "lon": "114.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "慈雲西",
+      "en": "Tsz Wan West",
+      "slug": "tsz-wan-west-h16"
+    },
+    "code": {
+      "id": "HK-KWT-H16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.347",
+      "lon": "114.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "東美",
+      "en": "Tung Mei",
+      "slug": "tung-mei-h09"
+    },
+    "code": {
+      "id": "HK-KWT-H09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "114.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "東頭",
+      "en": "Tung Tau",
+      "slug": "tung-tau-h08"
+    },
+    "code": {
+      "id": "HK-KWT-H08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.334",
+      "lon": "114.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KWT-H11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "橫頭磡",
+      "en": "Wang Tau Hom",
+      "slug": "wang-tau-hom-h11"
+    },
+    "code": {
+      "id": "HK-KWT-H11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KWT",
+        "level": 1,
+        "name": {
+          "local": "黃大仙",
+          "en": "Wong Tai Sin",
+          "slug": "wong-tai-sin-kwt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.341",
+      "lon": "114.188"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

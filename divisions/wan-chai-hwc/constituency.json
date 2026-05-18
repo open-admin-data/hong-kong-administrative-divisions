@@ -1,0 +1,587 @@
+[
+  {
+    "id": "HK-HWC-B09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "樂活",
+      "en": "Broadwood",
+      "slug": "broadwood-b09"
+    },
+    "code": {
+      "id": "HK-HWC-B09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.273",
+      "lon": "114.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "鵝頸",
+      "en": "Canal Road",
+      "slug": "canal-road-b03"
+    },
+    "code": {
+      "id": "HK-HWC-B03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.28",
+      "lon": "114.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "銅鑼灣",
+      "en": "Causeway Bay",
+      "slug": "causeway-bay-b04"
+    },
+    "code": {
+      "id": "HK-HWC-B04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.28",
+      "lon": "114.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "跑馬地",
+      "en": "Happy Valley",
+      "slug": "happy-valley-b10"
+    },
+    "code": {
+      "id": "HK-HWC-B10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.271",
+      "lon": "114.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "軒尼詩",
+      "en": "Hennessy",
+      "slug": "hennessy-b01"
+    },
+    "code": {
+      "id": "HK-HWC-B01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.277",
+      "lon": "114.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "渣甸山",
+      "en": "Jardine's Lookout",
+      "slug": "jardines-lookout-b08"
+    },
+    "code": {
+      "id": "HK-HWC-B08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.269",
+      "lon": "114.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "愛群",
+      "en": "Oi Kwan",
+      "slug": "oi-kwan-b02"
+    },
+    "code": {
+      "id": "HK-HWC-B02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.277",
+      "lon": "114.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "修頓",
+      "en": "Southorn",
+      "slug": "southorn-b12"
+    },
+    "code": {
+      "id": "HK-HWC-B12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.272",
+      "lon": "114.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "司徒拔道",
+      "en": "Stubbs Road",
+      "slug": "stubbs-road-b11"
+    },
+    "code": {
+      "id": "HK-HWC-B11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.263",
+      "lon": "114.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大佛口",
+      "en": "Tai Fat Hau",
+      "slug": "tai-fat-hau-b13"
+    },
+    "code": {
+      "id": "HK-HWC-B13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.277",
+      "lon": "114.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大坑",
+      "en": "Tai Hang",
+      "slug": "tai-hang-b07"
+    },
+    "code": {
+      "id": "HK-HWC-B07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.277",
+      "lon": "114.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "天后",
+      "en": "Tin Hau",
+      "slug": "tin-hau-b06"
+    },
+    "code": {
+      "id": "HK-HWC-B06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.281",
+      "lon": "114.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HWC-B05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "維園",
+      "en": "Victoria Park",
+      "slug": "victoria-park-b05"
+    },
+    "code": {
+      "id": "HK-HWC-B05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HWC",
+        "level": 1,
+        "name": {
+          "local": "灣仔",
+          "en": "Wan Chai",
+          "slug": "wan-chai-hwc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.284",
+      "lon": "114.187"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

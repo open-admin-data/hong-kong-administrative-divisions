@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKC-G24",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "愛民",
+    "en": "Oi Man",
+    "slug": "oi-man-g24"
+  },
+  "code": {
+    "id": "HK-KKC-G24",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKC",
+    "level": 1,
+    "name": {
+      "local": "九龍城",
+      "en": "Kowloon City",
+      "slug": "kowloon-city-kkc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.312",
+    "lon": "114.181"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,59 @@
+# Islands — Hong Kong Administrative Divisions
+
+> 10 constituencys
+> Code: HK-NIS
+> Coordinates: 22.264, 113.96
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 長洲 (Cheung Chau)
+
+Code: HK-NIS-T10, Coordinates: 22.204, 114.031
+
+
+### 愉景灣 (Discovery Bay)
+
+Code: HK-NIS-T07, Coordinates: 22.296, 114.017
+
+
+### 南丫及蒲台 (Lamma &amp; Po Toi)
+
+Code: HK-NIS-T09, Coordinates: 22.21, 114.132
+
+
+### 大嶼山 (Lantau)
+
+Code: HK-NIS-T01, Coordinates: 22.287, 113.965
+
+
+### 滿逸 (Mun Yat)
+
+Code: HK-NIS-T02, Coordinates: 22.277, 113.932
+
+
+### 坪洲及喜靈洲 (Peng Chau &amp; Hei Ling Chau)
+
+Code: HK-NIS-T08, Coordinates: 22.288, 114.024
+
+
+### 東涌中 (Tung Chung Central)
+
+Code: HK-NIS-T05, Coordinates: 22.292, 113.948
+
+
+### 東涌北 (Tung Chung North)
+
+Code: HK-NIS-T06, Coordinates: 22.293, 113.935
+
+
+### 東涌南 (Tung Chung South)
+
+Code: HK-NIS-T04, Coordinates: 22.29, 113.941
+
+
+### 逸東邨北 (Yat Tung Estate North)
+
+Code: HK-NIS-T03, Coordinates: 22.282, 113.936
+
+

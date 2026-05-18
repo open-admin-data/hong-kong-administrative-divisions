@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTW-K06",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "祈德尊",
+    "en": "Clague Garden",
+    "slug": "clague-garden-k06"
+  },
+  "code": {
+    "id": "HK-NTW-K06",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTW",
+    "level": 1,
+    "name": {
+      "local": "荃灣",
+      "en": "Tsuen Wan",
+      "slug": "tsuen-wan-ntw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.372",
+    "lon": "114.112"
+  },
+  "metadata": {},
+  "source": {}
+}

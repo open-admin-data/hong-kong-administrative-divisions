@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M36",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "新田",
+    "en": "San Tin",
+    "slug": "san-tin-m36"
+  },
+  "code": {
+    "id": "HK-NYL-M36",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.481",
+    "lon": "114.064"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "HK-KYT",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "油尖旺",
+    "en": "Yau Tsim Mong",
+    "slug": "yau-tsim-mong-kyt"
+  },
+  "code": {
+    "id": "HK-KYT",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.313",
+    "lon": "114.169"
+  },
+  "metadata": {},
+  "source": {}
+}

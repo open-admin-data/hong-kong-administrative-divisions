@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTM-L18",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "蝴蝶",
+    "en": "Butterfly",
+    "slug": "butterfly-l18"
+  },
+  "code": {
+    "id": "HK-NTM-L18",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTM",
+    "level": 1,
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.376",
+    "lon": "113.963"
+  },
+  "metadata": {},
+  "source": {}
+}

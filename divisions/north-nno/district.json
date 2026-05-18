@@ -1,0 +1,29 @@
+{
+  "id": "HK-NNO",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "北區",
+    "en": "North",
+    "slug": "north-nno"
+  },
+  "code": {
+    "id": "HK-NNO",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.495",
+    "lon": "114.138"
+  },
+  "metadata": {},
+  "source": {}
+}

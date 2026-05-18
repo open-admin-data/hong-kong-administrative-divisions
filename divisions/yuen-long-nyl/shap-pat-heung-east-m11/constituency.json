@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M11",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "十八鄉東",
+    "en": "Shap Pat Heung East",
+    "slug": "shap-pat-heung-east-m11"
+  },
+  "code": {
+    "id": "HK-NYL-M11",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.43",
+    "lon": "114.037"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M34",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "屏山北",
+    "en": "Ping Shan North",
+    "slug": "ping-shan-north-m34"
+  },
+  "code": {
+    "id": "HK-NYL-M34",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.465",
+    "lon": "114.01"
+  },
+  "metadata": {},
+  "source": {}
+}

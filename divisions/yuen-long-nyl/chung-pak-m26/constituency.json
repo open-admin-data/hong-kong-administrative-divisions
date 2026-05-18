@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M26",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "頌栢",
+    "en": "Chung Pak",
+    "slug": "chung-pak-m26"
+  },
+  "code": {
+    "id": "HK-NYL-M26",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.459",
+    "lon": "114.001"
+  },
+  "metadata": {},
+  "source": {}
+}

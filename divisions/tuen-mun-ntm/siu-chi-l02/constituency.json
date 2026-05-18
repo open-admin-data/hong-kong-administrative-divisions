@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTM-L02",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "兆置",
+    "en": "Siu Chi",
+    "slug": "siu-chi-l02"
+  },
+  "code": {
+    "id": "HK-NTM-L02",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTM",
+    "level": 1,
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.387",
+    "lon": "113.98"
+  },
+  "metadata": {},
+  "source": {}
+}

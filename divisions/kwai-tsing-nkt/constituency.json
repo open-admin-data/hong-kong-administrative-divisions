@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "HK-NKT-S25",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "長青",
+      "en": "Cheung Ching",
+      "slug": "cheung-ching-s25"
+    },
+    "code": {
+      "id": "HK-NKT-S25",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.347",
+      "lon": "114.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S29",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "長亨",
+      "en": "Cheung Hang",
+      "slug": "cheung-hang-s29"
+    },
+    "code": {
+      "id": "HK-NKT-S29",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.357",
+      "lon": "114.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S26",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "長康",
+      "en": "Cheung Hong",
+      "slug": "cheung-hong-s26"
+    },
+    "code": {
+      "id": "HK-NKT-S26",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.349",
+      "lon": "114.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S31",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "長安",
+      "en": "Cheung On",
+      "slug": "cheung-on-s31"
+    },
+    "code": {
+      "id": "HK-NKT-S31",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.361",
+      "lon": "114.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S30",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "青發",
+      "en": "Ching Fat",
+      "slug": "ching-fat-s30"
+    },
+    "code": {
+      "id": "HK-NKT-S30",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.362",
+      "lon": "114.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "祖堯",
+      "en": "Cho Yiu",
+      "slug": "cho-yiu-s18"
+    },
+    "code": {
+      "id": "HK-NKT-S18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.346",
+      "lon": "114.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S24",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "翠怡",
+      "en": "Greenfield",
+      "slug": "greenfield-s24"
+    },
+    "code": {
+      "id": "HK-NKT-S24",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.353",
+      "lon": "114.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "興芳",
+      "en": "Hing Fong",
+      "slug": "hing-fong-s15"
+    },
+    "code": {
+      "id": "HK-NKT-S15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.355",
+      "lon": "114.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "葵涌邨北",
+      "en": "Kwai Chung Estate North",
+      "slug": "kwai-chung-estate-north-s07"
+    },
+    "code": {
+      "id": "HK-NKT-S07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.369",
+      "lon": "114.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "葵涌邨南",
+      "en": "Kwai Chung Estate South",
+      "slug": "kwai-chung-estate-south-s06"
+    },
+    "code": {
+      "id": "HK-NKT-S06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.366",
+      "lon": "114.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "葵芳",
+      "en": "Kwai Fong",
+      "slug": "kwai-fong-s14"
+    },
+    "code": {
+      "id": "HK-NKT-S14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.361",
+      "lon": "114.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "葵興",
+      "en": "Kwai Hing",
+      "slug": "kwai-hing-s01"
+    },
+    "code": {
+      "id": "HK-NKT-S01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.367",
+      "lon": "114.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "葵聯",
+      "en": "Kwai Luen",
+      "slug": "kwai-luen-s02"
+    },
+    "code": {
+      "id": "HK-NKT-S02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.363",
+      "lon": "114.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "葵盛東邨",
+      "en": "Kwai Shing East Estate",
+      "slug": "kwai-shing-east-estate-s03"
+    },
+    "code": {
+      "id": "HK-NKT-S03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.364",
+      "lon": "114.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S20",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "葵盛西邨",
+      "en": "Kwai Shing West Estate",
+      "slug": "kwai-shing-west-estate-s20"
+    },
+    "code": {
+      "id": "HK-NKT-S20",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.359",
+      "lon": "114.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荔景",
+      "en": "Lai King",
+      "slug": "lai-king-s19"
+    },
+    "code": {
+      "id": "HK-NKT-S19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.342",
+      "lon": "114.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荔華",
+      "en": "Lai Wah",
+      "slug": "lai-wah-s17"
+    },
+    "code": {
+      "id": "HK-NKT-S17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.353",
+      "lon": "114.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "下大窩口",
+      "en": "Lower Tai Wo Hau",
+      "slug": "lower-tai-wo-hau-s05"
+    },
+    "code": {
+      "id": "HK-NKT-S05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.368",
+      "lon": "114.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S21",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "安灝",
+      "en": "On Ho",
+      "slug": "on-ho-s21"
+    },
+    "code": {
+      "id": "HK-NKT-S21",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.361",
+      "lon": "114.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "安蔭",
+      "en": "On Yam",
+      "slug": "on-yam-s11"
+    },
+    "code": {
+      "id": "HK-NKT-S11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.376",
+      "lon": "114.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "石籬北",
+      "en": "Shek Lei North",
+      "slug": "shek-lei-north-s12"
+    },
+    "code": {
+      "id": "HK-NKT-S12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.366",
+      "lon": "114.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "石籬南",
+      "en": "Shek Lei South",
+      "slug": "shek-lei-south-s13"
+    },
+    "code": {
+      "id": "HK-NKT-S13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.365",
+      "lon": "114.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "石蔭",
+      "en": "Shek Yam",
+      "slug": "shek-yam-s08"
+    },
+    "code": {
+      "id": "HK-NKT-S08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.373",
+      "lon": "114.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S27",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "盛康",
+      "en": "Shing Hong",
+      "slug": "shing-hong-s27"
+    },
+    "code": {
+      "id": "HK-NKT-S27",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.35",
+      "lon": "114.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大白田東",
+      "en": "Tai Pak Tin East",
+      "slug": "tai-pak-tin-east-s10"
+    },
+    "code": {
+      "id": "HK-NKT-S10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.369",
+      "lon": "114.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大白田西",
+      "en": "Tai Pak Tin West",
+      "slug": "tai-pak-tin-west-s09"
+    },
+    "code": {
+      "id": "HK-NKT-S09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.367",
+      "lon": "114.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S23",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "青衣邨",
+      "en": "Tsing Yi Estate",
+      "slug": "tsing-yi-estate-s23"
+    },
+    "code": {
+      "id": "HK-NKT-S23",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.354",
+      "lon": "114.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S28",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "青衣南",
+      "en": "Tsing Yi South",
+      "slug": "tsing-yi-south-s28"
+    },
+    "code": {
+      "id": "HK-NKT-S28",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.349",
+      "lon": "114.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "上大窩口",
+      "en": "Upper Tai Wo Hau",
+      "slug": "upper-tai-wo-hau-s04"
+    },
+    "code": {
+      "id": "HK-NKT-S04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.367",
+      "lon": "114.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "華麗",
+      "en": "Wah Lai",
+      "slug": "wah-lai-s16"
+    },
+    "code": {
+      "id": "HK-NKT-S16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.355",
+      "lon": "114.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NKT-S22",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "偉盈",
+      "en": "Wai Ying",
+      "slug": "wai-ying-s22"
+    },
+    "code": {
+      "id": "HK-NKT-S22",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NKT",
+        "level": 1,
+        "name": {
+          "local": "葵青",
+          "en": "Kwai Tsing",
+          "slug": "kwai-tsing-nkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.357",
+      "lon": "114.104"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

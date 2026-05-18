@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J29",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "翠屏",
+    "en": "Tsui Ping",
+    "slug": "tsui-ping-j29"
+  },
+  "code": {
+    "id": "HK-KKT-J29",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.314",
+    "lon": "114.233"
+  },
+  "metadata": {},
+  "source": {}
+}

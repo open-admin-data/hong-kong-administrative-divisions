@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "HK-NTM-L18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "蝴蝶",
+      "en": "Butterfly",
+      "slug": "butterfly-l18"
+    },
+    "code": {
+      "id": "HK-NTM-L18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.376",
+      "lon": "113.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富新",
+      "en": "Fu Sun",
+      "slug": "fu-sun-l19"
+    },
+    "code": {
+      "id": "HK-NTM-L19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.381",
+      "lon": "113.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L30",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富泰",
+      "en": "Fu Tai",
+      "slug": "fu-tai-l30"
+    },
+    "code": {
+      "id": "HK-NTM-L30",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.415",
+      "lon": "113.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "恒褔",
+      "en": "Hanford",
+      "slug": "hanford-l14"
+    },
+    "code": {
+      "id": "HK-NTM-L14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.376",
+      "lon": "113.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "興澤",
+      "en": "Hing Tsak",
+      "slug": "hing-tsak-l10"
+    },
+    "code": {
+      "id": "HK-NTM-L10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.405",
+      "lon": "113.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L26",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "建生",
+      "en": "Kin Sang",
+      "slug": "kin-sang-l26"
+    },
+    "code": {
+      "id": "HK-NTM-L26",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.407",
+      "lon": "113.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "景興",
+      "en": "King Hing",
+      "slug": "king-hing-l09"
+    },
+    "code": {
+      "id": "HK-NTM-L09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.403",
+      "lon": "113.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L23",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "良景",
+      "en": "Leung King",
+      "slug": "leung-king-l23"
+    },
+    "code": {
+      "id": "HK-NTM-L23",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.407",
+      "lon": "113.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L20",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "樂翠",
+      "en": "Lok Tsui",
+      "slug": "lok-tsui-l20"
+    },
+    "code": {
+      "id": "HK-NTM-L20",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.39",
+      "lon": "113.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L21",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "龍門",
+      "en": "Lung Mun",
+      "slug": "lung-mun-l21"
+    },
+    "code": {
+      "id": "HK-NTM-L21",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.39",
+      "lon": "113.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "安定",
+      "en": "On Ting",
+      "slug": "on-ting-l03"
+    },
+    "code": {
+      "id": "HK-NTM-L03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.385",
+      "lon": "113.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L25",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "寶田",
+      "en": "Po Tin",
+      "slug": "po-tin-l25"
+    },
+    "code": {
+      "id": "HK-NTM-L25",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.419",
+      "lon": "113.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L31",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "景峰",
+      "en": "Prime View",
+      "slug": "prime-view-l31"
+    },
+    "code": {
+      "id": "HK-NTM-L31",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.41",
+      "lon": "113.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "三聖",
+      "en": "Sam Shing",
+      "slug": "sam-shing-l13"
+    },
+    "code": {
+      "id": "HK-NTM-L13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.382",
+      "lon": "114.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "新墟",
+      "en": "San Hui",
+      "slug": "san-hui-l11"
+    },
+    "code": {
+      "id": "HK-NTM-L11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.401",
+      "lon": "113.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L22",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "新景",
+      "en": "San King",
+      "slug": "san-king-l22"
+    },
+    "code": {
+      "id": "HK-NTM-L22",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.403",
+      "lon": "113.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "山景",
+      "en": "Shan King",
+      "slug": "shan-king-l08"
+    },
+    "code": {
+      "id": "HK-NTM-L08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.397",
+      "lon": "113.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "兆置",
+      "en": "Siu Chi",
+      "slug": "siu-chi-l02"
+    },
+    "code": {
+      "id": "HK-NTM-L02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.387",
+      "lon": "113.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "兆禧",
+      "en": "Siu Hei",
+      "slug": "siu-hei-l16"
+    },
+    "code": {
+      "id": "HK-NTM-L16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.372",
+      "lon": "113.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L27",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "兆康",
+      "en": "Siu Hong",
+      "slug": "siu-hong-l27"
+    },
+    "code": {
+      "id": "HK-NTM-L27",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.41",
+      "lon": "113.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "兆翠",
+      "en": "Siu Tsui",
+      "slug": "siu-tsui-l04"
+    },
+    "code": {
+      "id": "HK-NTM-L04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.384",
+      "lon": "113.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "掃管笏",
+      "en": "So Kwun Wat",
+      "slug": "so-kwun-wat-l12"
+    },
+    "code": {
+      "id": "HK-NTM-L12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.382",
+      "lon": "114.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L24",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "田景",
+      "en": "Tin King",
+      "slug": "tin-king-l24"
+    },
+    "code": {
+      "id": "HK-NTM-L24",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.406",
+      "lon": "113.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "翠興",
+      "en": "Tsui Hing",
+      "slug": "tsui-hing-l07"
+    },
+    "code": {
+      "id": "HK-NTM-L07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.399",
+      "lon": "113.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L29",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "屯門鄉郊",
+      "en": "Tuen Mun Rural",
+      "slug": "tuen-mun-rural-l29"
+    },
+    "code": {
+      "id": "HK-NTM-L29",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.421",
+      "lon": "113.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "屯門市中心",
+      "en": "Tuen Mun Town Centre",
+      "slug": "tuen-mun-town-centre-l01"
+    },
+    "code": {
+      "id": "HK-NTM-L01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.393",
+      "lon": "113.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "湖景",
+      "en": "Wu King",
+      "slug": "wu-king-l17"
+    },
+    "code": {
+      "id": "HK-NTM-L17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.376",
+      "lon": "113.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L28",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "欣田",
+      "en": "Yan Tin",
+      "slug": "yan-tin-l28"
+    },
+    "code": {
+      "id": "HK-NTM-L28",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.421",
+      "lon": "113.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "友愛北",
+      "en": "Yau Oi North",
+      "slug": "yau-oi-north-l06"
+    },
+    "code": {
+      "id": "HK-NTM-L06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.384",
+      "lon": "113.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "友愛南",
+      "en": "Yau Oi South",
+      "slug": "yau-oi-south-l05"
+    },
+    "code": {
+      "id": "HK-NTM-L05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.387",
+      "lon": "113.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTM-L15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "悅湖",
+      "en": "Yuet Wu",
+      "slug": "yuet-wu-l15"
+    },
+    "code": {
+      "id": "HK-NTM-L15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTM",
+        "level": 1,
+        "name": {
+          "local": "屯門",
+          "en": "Tuen Mun",
+          "slug": "tuen-mun-ntm"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.376",
+      "lon": "113.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

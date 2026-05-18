@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "HK-NSK-Q06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "彩健",
+      "en": "Choi Kin",
+      "slug": "choi-kin-q06"
+    },
+    "code": {
+      "id": "HK-NSK-Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.306",
+      "lon": "114.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "都善",
+      "en": "Do Shin",
+      "slug": "do-shin-q08"
+    },
+    "code": {
+      "id": "HK-NSK-Q08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.303",
+      "lon": "114.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富君",
+      "en": "Fu Kwan",
+      "slug": "fu-kwan-q12"
+    },
+    "code": {
+      "id": "HK-NSK-Q12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.309",
+      "lon": "114.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q24",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富藍",
+      "en": "Fu Nam",
+      "slug": "fu-nam-q24"
+    },
+    "code": {
+      "id": "HK-NSK-Q24",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.317",
+      "lon": "114.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "坑口東",
+      "en": "Hang Hau East",
+      "slug": "hang-hau-east-q04"
+    },
+    "code": {
+      "id": "HK-NSK-Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.323",
+      "lon": "114.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "坑口西",
+      "en": "Hang Hau West",
+      "slug": "hang-hau-west-q05"
+    },
+    "code": {
+      "id": "HK-NSK-Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.327",
+      "lon": "114.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q23",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "厚德",
+      "en": "Hau Tak",
+      "slug": "hau-tak-q23"
+    },
+    "code": {
+      "id": "HK-NSK-Q23",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.317",
+      "lon": "114.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "海晉",
+      "en": "Hoi Chun",
+      "slug": "hoi-chun-q10"
+    },
+    "code": {
+      "id": "HK-NSK-Q10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.304",
+      "lon": "114.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "康景",
+      "en": "Hong King",
+      "slug": "hong-king-q16"
+    },
+    "code": {
+      "id": "HK-NSK-Q16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.321",
+      "lon": "114.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "健明",
+      "en": "Kin Ming",
+      "slug": "kin-ming-q07"
+    },
+    "code": {
+      "id": "HK-NSK-Q07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.306",
+      "lon": "114.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q22",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "景林",
+      "en": "King Lam",
+      "slug": "king-lam-q22"
+    },
+    "code": {
+      "id": "HK-NSK-Q22",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.32",
+      "lon": "114.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q27",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "軍寶",
+      "en": "Kwan Po",
+      "slug": "kwan-po-q27"
+    },
+    "code": {
+      "id": "HK-NSK-Q27",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.312",
+      "lon": "114.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "廣明",
+      "en": "Kwong Ming",
+      "slug": "kwong-ming-q15"
+    },
+    "code": {
+      "id": "HK-NSK-Q15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.313",
+      "lon": "114.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q26",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "南安",
+      "en": "Nam On",
+      "slug": "nam-on-q26"
+    },
+    "code": {
+      "id": "HK-NSK-Q26",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.316",
+      "lon": "114.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "澳唐",
+      "en": "O Tong",
+      "slug": "o-tong-q13"
+    },
+    "code": {
+      "id": "HK-NSK-Q13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.308",
+      "lon": "114.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "白沙灣",
+      "en": "Pak Sha Wan",
+      "slug": "pak-sha-wan-q02"
+    },
+    "code": {
+      "id": "HK-NSK-Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.368",
+      "lon": "114.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "寶林",
+      "en": "Po Lam",
+      "slug": "po-lam-q18"
+    },
+    "code": {
+      "id": "HK-NSK-Q18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.326",
+      "lon": "114.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "寶怡",
+      "en": "Po Yee",
+      "slug": "po-yee-q11"
+    },
+    "code": {
+      "id": "HK-NSK-Q11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.306",
+      "lon": "114.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "西貢市中心",
+      "en": "Sai Kung Central",
+      "slug": "sai-kung-central-q01"
+    },
+    "code": {
+      "id": "HK-NSK-Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.381",
+      "lon": "114.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "西貢離島",
+      "en": "Sai Kung Islands",
+      "slug": "sai-kung-islands-q03"
+    },
+    "code": {
+      "id": "HK-NSK-Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.399",
+      "lon": "114.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "尚德",
+      "en": "Sheung Tak",
+      "slug": "sheung-tak-q14"
+    },
+    "code": {
+      "id": "HK-NSK-Q14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.311",
+      "lon": "114.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q25",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "德明",
+      "en": "Tak Ming",
+      "slug": "tak-ming-q25"
+    },
+    "code": {
+      "id": "HK-NSK-Q25",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.315",
+      "lon": "114.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "翠林",
+      "en": "Tsui Lam",
+      "slug": "tsui-lam-q17"
+    },
+    "code": {
+      "id": "HK-NSK-Q17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.321",
+      "lon": "114.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "維景",
+      "en": "Wai King",
+      "slug": "wai-king-q09"
+    },
+    "code": {
+      "id": "HK-NSK-Q09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.296",
+      "lon": "114.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q20",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "慧茵",
+      "en": "Wai Yan",
+      "slug": "wai-yan-q20"
+    },
+    "code": {
+      "id": "HK-NSK-Q20",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.323",
+      "lon": "114.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q21",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "運亨",
+      "en": "Wan Hang",
+      "slug": "wan-hang-q21"
+    },
+    "code": {
+      "id": "HK-NSK-Q21",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.321",
+      "lon": "114.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q28",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "環保北",
+      "en": "Wan Po North",
+      "slug": "wan-po-north-q28"
+    },
+    "code": {
+      "id": "HK-NSK-Q28",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.303",
+      "lon": "114.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q29",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "環保南",
+      "en": "Wan Po South",
+      "slug": "wan-po-south-q29"
+    },
+    "code": {
+      "id": "HK-NSK-Q29",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.296",
+      "lon": "114.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NSK-Q19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "欣英",
+      "en": "Yan Ying",
+      "slug": "yan-ying-q19"
+    },
+    "code": {
+      "id": "HK-NSK-Q19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NSK",
+        "level": 1,
+        "name": {
+          "local": "西貢區",
+          "en": "Sai Kung",
+          "slug": "sai-kung-nsk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.324",
+      "lon": "114.258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

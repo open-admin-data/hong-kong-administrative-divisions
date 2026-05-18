@@ -1,0 +1,45 @@
+{
+  "id": "HK-HEA-C11",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "小西灣",
+    "en": "Siu Sai Wan",
+    "slug": "siu-sai-wan-c11"
+  },
+  "code": {
+    "id": "HK-HEA-C11",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HEA",
+    "level": 1,
+    "name": {
+      "local": "東區",
+      "en": "Eastern",
+      "slug": "eastern-hea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HEA",
+      "level": 1,
+      "name": {
+        "local": "東區",
+        "en": "Eastern",
+        "slug": "eastern-hea"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.264",
+    "lon": "114.248"
+  },
+  "metadata": {},
+  "source": {}
+}

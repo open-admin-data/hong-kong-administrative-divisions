@@ -1,0 +1,45 @@
+{
+  "id": "HK-NIS-T08",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "坪洲及喜靈洲",
+    "en": "Peng Chau & Hei Ling Chau",
+    "slug": "peng-chau-hei-ling-chau-t08"
+  },
+  "code": {
+    "id": "HK-NIS-T08",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NIS",
+    "level": 1,
+    "name": {
+      "local": "離島",
+      "en": "Islands",
+      "slug": "islands-nis"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NIS",
+      "level": 1,
+      "name": {
+        "local": "離島",
+        "en": "Islands",
+        "slug": "islands-nis"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.288",
+    "lon": "114.024"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,5678 @@
+[
+  {
+    "id": "HK-HCW",
+    "name": {
+      "local": "中西區",
+      "en": "Central and Western",
+      "slug": "central-and-western-hcw"
+    },
+    "code": {
+      "id": "HK-HCW",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-HCW-A01",
+        "name": {
+          "local": "中環",
+          "en": "Chung Wan",
+          "slug": "chung-wan-a01"
+        },
+        "code": {
+          "id": "HK-HCW-A01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A02",
+        "name": {
+          "local": "半山東",
+          "en": "Mid Levels East",
+          "slug": "mid-levels-east-a02"
+        },
+        "code": {
+          "id": "HK-HCW-A02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A03",
+        "name": {
+          "local": "衛城",
+          "en": "Castle Road",
+          "slug": "castle-road-a03"
+        },
+        "code": {
+          "id": "HK-HCW-A03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A04",
+        "name": {
+          "local": "山頂",
+          "en": "Peak",
+          "slug": "peak-a04"
+        },
+        "code": {
+          "id": "HK-HCW-A04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A05",
+        "name": {
+          "local": "大學",
+          "en": "University",
+          "slug": "university-a05"
+        },
+        "code": {
+          "id": "HK-HCW-A05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A06",
+        "name": {
+          "local": "觀龍",
+          "en": "Kwun Lung",
+          "slug": "kwun-lung-a06"
+        },
+        "code": {
+          "id": "HK-HCW-A06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A07",
+        "name": {
+          "local": "堅摩",
+          "en": "Kennedy Town & Mount Davis",
+          "slug": "kennedy-town-mount-davis-a07"
+        },
+        "code": {
+          "id": "HK-HCW-A07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A08",
+        "name": {
+          "local": "西環",
+          "en": "Sai Wan",
+          "slug": "sai-wan-a08"
+        },
+        "code": {
+          "id": "HK-HCW-A08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A09",
+        "name": {
+          "local": "寶翠",
+          "en": "Belcher",
+          "slug": "belcher-a09"
+        },
+        "code": {
+          "id": "HK-HCW-A09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A10",
+        "name": {
+          "local": "石塘咀",
+          "en": "Shek Tong Tsui",
+          "slug": "shek-tong-tsui-a10"
+        },
+        "code": {
+          "id": "HK-HCW-A10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A11",
+        "name": {
+          "local": "西營盤",
+          "en": "Sai Ying Pun",
+          "slug": "sai-ying-pun-a11"
+        },
+        "code": {
+          "id": "HK-HCW-A11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A12",
+        "name": {
+          "local": "上環",
+          "en": "Sheung Wan",
+          "slug": "sheung-wan-a12"
+        },
+        "code": {
+          "id": "HK-HCW-A12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A13",
+        "name": {
+          "local": "東華",
+          "en": "Tung Wah",
+          "slug": "tung-wah-a13"
+        },
+        "code": {
+          "id": "HK-HCW-A13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A14",
+        "name": {
+          "local": "正街",
+          "en": "Centre Street",
+          "slug": "centre-street-a14"
+        },
+        "code": {
+          "id": "HK-HCW-A14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HCW-A15",
+        "name": {
+          "local": "水街",
+          "en": "Water Street",
+          "slug": "water-street-a15"
+        },
+        "code": {
+          "id": "HK-HCW-A15",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-HEA",
+    "name": {
+      "local": "東區",
+      "en": "Eastern",
+      "slug": "eastern-hea"
+    },
+    "code": {
+      "id": "HK-HEA",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-HEA-C01",
+        "name": {
+          "local": "太古城西",
+          "en": "Tai Koo Shing West",
+          "slug": "tai-koo-shing-west-c01"
+        },
+        "code": {
+          "id": "HK-HEA-C01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C02",
+        "name": {
+          "local": "太古城東",
+          "en": "Tai Koo Shing East",
+          "slug": "tai-koo-shing-east-c02"
+        },
+        "code": {
+          "id": "HK-HEA-C02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C03",
+        "name": {
+          "local": "鯉景灣",
+          "en": "Lei King Wan",
+          "slug": "lei-king-wan-c03"
+        },
+        "code": {
+          "id": "HK-HEA-C03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C04",
+        "name": {
+          "local": "西灣河",
+          "en": "Sai Wan Ho",
+          "slug": "sai-wan-ho-c04"
+        },
+        "code": {
+          "id": "HK-HEA-C04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C05",
+        "name": {
+          "local": "愛秩序灣",
+          "en": "Aldrich Bay",
+          "slug": "aldrich-bay-c05"
+        },
+        "code": {
+          "id": "HK-HEA-C05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C06",
+        "name": {
+          "local": "筲箕灣",
+          "en": "Shaukeiwan",
+          "slug": "shaukeiwan-c06"
+        },
+        "code": {
+          "id": "HK-HEA-C06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C07",
+        "name": {
+          "local": "阿公岩",
+          "en": "A Kung Ngam",
+          "slug": "a-kung-ngam-c07"
+        },
+        "code": {
+          "id": "HK-HEA-C07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C08",
+        "name": {
+          "local": "杏花邨",
+          "en": "Heng Fa Chuen",
+          "slug": "heng-fa-chuen-c08"
+        },
+        "code": {
+          "id": "HK-HEA-C08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C09",
+        "name": {
+          "local": "翠灣",
+          "en": "Tsui Wan",
+          "slug": "tsui-wan-c09"
+        },
+        "code": {
+          "id": "HK-HEA-C09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C10",
+        "name": {
+          "local": "欣藍",
+          "en": "Yan Lam",
+          "slug": "yan-lam-c10"
+        },
+        "code": {
+          "id": "HK-HEA-C10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C11",
+        "name": {
+          "local": "小西灣",
+          "en": "Siu Sai Wan",
+          "slug": "siu-sai-wan-c11"
+        },
+        "code": {
+          "id": "HK-HEA-C11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C12",
+        "name": {
+          "local": "景怡",
+          "en": "King Yee",
+          "slug": "king-yee-c12"
+        },
+        "code": {
+          "id": "HK-HEA-C12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C13",
+        "name": {
+          "local": "環翠",
+          "en": "Wan Tsui",
+          "slug": "wan-tsui-c13"
+        },
+        "code": {
+          "id": "HK-HEA-C13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C14",
+        "name": {
+          "local": "翡翠",
+          "en": "Fei Tsui",
+          "slug": "fei-tsui-c14"
+        },
+        "code": {
+          "id": "HK-HEA-C14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C15",
+        "name": {
+          "local": "柏架山",
+          "en": "Mount Parker",
+          "slug": "mount-parker-c15"
+        },
+        "code": {
+          "id": "HK-HEA-C15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C16",
+        "name": {
+          "local": "寶馬山",
+          "en": "Braemar Hill",
+          "slug": "braemar-hill-c16"
+        },
+        "code": {
+          "id": "HK-HEA-C16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C17",
+        "name": {
+          "local": "炮台山",
+          "en": "Fortress Hill",
+          "slug": "fortress-hill-c17"
+        },
+        "code": {
+          "id": "HK-HEA-C17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C18",
+        "name": {
+          "local": "城市花園",
+          "en": "City Garden",
+          "slug": "city-garden-c18"
+        },
+        "code": {
+          "id": "HK-HEA-C18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C19",
+        "name": {
+          "local": "和富",
+          "en": "Provident",
+          "slug": "provident-c19"
+        },
+        "code": {
+          "id": "HK-HEA-C19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C20",
+        "name": {
+          "local": "堡壘",
+          "en": "Fort Street",
+          "slug": "fort-street-c20"
+        },
+        "code": {
+          "id": "HK-HEA-C20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C21",
+        "name": {
+          "local": "錦屏",
+          "en": "Kam Ping",
+          "slug": "kam-ping-c21"
+        },
+        "code": {
+          "id": "HK-HEA-C21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C22",
+        "name": {
+          "local": "丹拿",
+          "en": "Tanner",
+          "slug": "tanner-c22"
+        },
+        "code": {
+          "id": "HK-HEA-C22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C23",
+        "name": {
+          "local": "健康村",
+          "en": "Healthy Village",
+          "slug": "healthy-village-c23"
+        },
+        "code": {
+          "id": "HK-HEA-C23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C24",
+        "name": {
+          "local": "鰂魚涌",
+          "en": "Quarry Bay",
+          "slug": "quarry-bay-c24"
+        },
+        "code": {
+          "id": "HK-HEA-C24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C25",
+        "name": {
+          "local": "南豐",
+          "en": "Nam Fung",
+          "slug": "nam-fung-c25"
+        },
+        "code": {
+          "id": "HK-HEA-C25",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C26",
+        "name": {
+          "local": "康怡",
+          "en": "Kornhill",
+          "slug": "kornhill-c26"
+        },
+        "code": {
+          "id": "HK-HEA-C26",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C27",
+        "name": {
+          "local": "康山",
+          "en": "Kornhill Garden",
+          "slug": "kornhill-garden-c27"
+        },
+        "code": {
+          "id": "HK-HEA-C27",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C28",
+        "name": {
+          "local": "興東",
+          "en": "Hing Tung",
+          "slug": "hing-tung-c28"
+        },
+        "code": {
+          "id": "HK-HEA-C28",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C29",
+        "name": {
+          "local": "下耀東",
+          "en": "Lower Yiu Tung",
+          "slug": "lower-yiu-tung-c29"
+        },
+        "code": {
+          "id": "HK-HEA-C29",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C30",
+        "name": {
+          "local": "上耀東",
+          "en": "Upper Yiu Tung",
+          "slug": "upper-yiu-tung-c30"
+        },
+        "code": {
+          "id": "HK-HEA-C30",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C31",
+        "name": {
+          "local": "興民",
+          "en": "Hing Man",
+          "slug": "hing-man-c31"
+        },
+        "code": {
+          "id": "HK-HEA-C31",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C32",
+        "name": {
+          "local": "樂康",
+          "en": "Lok Hong",
+          "slug": "lok-hong-c32"
+        },
+        "code": {
+          "id": "HK-HEA-C32",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C33",
+        "name": {
+          "local": "翠德",
+          "en": "Tsui Tak",
+          "slug": "tsui-tak-c33"
+        },
+        "code": {
+          "id": "HK-HEA-C33",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C34",
+        "name": {
+          "local": "漁灣",
+          "en": "Yue Wan",
+          "slug": "yue-wan-c34"
+        },
+        "code": {
+          "id": "HK-HEA-C34",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HEA-C35",
+        "name": {
+          "local": "佳曉",
+          "en": "Kai Hiu",
+          "slug": "kai-hiu-c35"
+        },
+        "code": {
+          "id": "HK-HEA-C35",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-NIS",
+    "name": {
+      "local": "離島",
+      "en": "Islands",
+      "slug": "islands-nis"
+    },
+    "code": {
+      "id": "HK-NIS",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-NIS-T01",
+        "name": {
+          "local": "大嶼山",
+          "en": "Lantau",
+          "slug": "lantau-t01"
+        },
+        "code": {
+          "id": "HK-NIS-T01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NIS-T02",
+        "name": {
+          "local": "滿逸",
+          "en": "Mun Yat",
+          "slug": "mun-yat-t02"
+        },
+        "code": {
+          "id": "HK-NIS-T02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NIS-T03",
+        "name": {
+          "local": "逸東邨北",
+          "en": "Yat Tung Estate North",
+          "slug": "yat-tung-estate-north-t03"
+        },
+        "code": {
+          "id": "HK-NIS-T03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NIS-T04",
+        "name": {
+          "local": "東涌南",
+          "en": "Tung Chung South",
+          "slug": "tung-chung-south-t04"
+        },
+        "code": {
+          "id": "HK-NIS-T04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NIS-T05",
+        "name": {
+          "local": "東涌中",
+          "en": "Tung Chung Central",
+          "slug": "tung-chung-central-t05"
+        },
+        "code": {
+          "id": "HK-NIS-T05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NIS-T06",
+        "name": {
+          "local": "東涌北",
+          "en": "Tung Chung North",
+          "slug": "tung-chung-north-t06"
+        },
+        "code": {
+          "id": "HK-NIS-T06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NIS-T07",
+        "name": {
+          "local": "愉景灣",
+          "en": "Discovery Bay",
+          "slug": "discovery-bay-t07"
+        },
+        "code": {
+          "id": "HK-NIS-T07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NIS-T08",
+        "name": {
+          "local": "坪洲及喜靈洲",
+          "en": "Peng Chau & Hei Ling Chau",
+          "slug": "peng-chau-hei-ling-chau-t08"
+        },
+        "code": {
+          "id": "HK-NIS-T08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NIS-T09",
+        "name": {
+          "local": "南丫及蒲台",
+          "en": "Lamma & Po Toi",
+          "slug": "lamma-po-toi-t09"
+        },
+        "code": {
+          "id": "HK-NIS-T09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NIS-T10",
+        "name": {
+          "local": "長洲",
+          "en": "Cheung Chau",
+          "slug": "cheung-chau-t10"
+        },
+        "code": {
+          "id": "HK-NIS-T10",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-KKC",
+    "name": {
+      "local": "九龍城",
+      "en": "Kowloon City",
+      "slug": "kowloon-city-kkc"
+    },
+    "code": {
+      "id": "HK-KKC",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-KKC-G01",
+        "name": {
+          "local": "馬頭圍",
+          "en": "Ma Tau Wai",
+          "slug": "ma-tau-wai-g01"
+        },
+        "code": {
+          "id": "HK-KKC-G01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G02",
+        "name": {
+          "local": "宋皇臺",
+          "en": "Sung Wong Toi",
+          "slug": "sung-wong-toi-g02"
+        },
+        "code": {
+          "id": "HK-KKC-G02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G03",
+        "name": {
+          "local": "馬坑涌",
+          "en": "Ma Hang Chung",
+          "slug": "ma-hang-chung-g03"
+        },
+        "code": {
+          "id": "HK-KKC-G03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G04",
+        "name": {
+          "local": "馬頭角",
+          "en": "Ma Tau Kok",
+          "slug": "ma-tau-kok-g04"
+        },
+        "code": {
+          "id": "HK-KKC-G04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G05",
+        "name": {
+          "local": "樂民",
+          "en": "Lok Man",
+          "slug": "lok-man-g05"
+        },
+        "code": {
+          "id": "HK-KKC-G05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G06",
+        "name": {
+          "local": "常樂",
+          "en": "Sheung Lok",
+          "slug": "sheung-lok-g06"
+        },
+        "code": {
+          "id": "HK-KKC-G06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G07",
+        "name": {
+          "local": "何文田",
+          "en": "Ho Man Tin",
+          "slug": "ho-man-tin-g07"
+        },
+        "code": {
+          "id": "HK-KKC-G07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G08",
+        "name": {
+          "local": "嘉道理",
+          "en": "Kadoorie",
+          "slug": "kadoorie-g08"
+        },
+        "code": {
+          "id": "HK-KKC-G08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G09",
+        "name": {
+          "local": "太子",
+          "en": "Prince",
+          "slug": "prince-g09"
+        },
+        "code": {
+          "id": "HK-KKC-G09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G10",
+        "name": {
+          "local": "九龍塘",
+          "en": "Kowloon Tong",
+          "slug": "kowloon-tong-g10"
+        },
+        "code": {
+          "id": "HK-KKC-G10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G11",
+        "name": {
+          "local": "龍城",
+          "en": "Lung Shing",
+          "slug": "lung-shing-g11"
+        },
+        "code": {
+          "id": "HK-KKC-G11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G12",
+        "name": {
+          "local": "啟德北",
+          "en": "Kai Tak North",
+          "slug": "kai-tak-north-g12"
+        },
+        "code": {
+          "id": "HK-KKC-G12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G13",
+        "name": {
+          "local": "啟德東",
+          "en": "Kai Tak East",
+          "slug": "kai-tak-east-g13"
+        },
+        "code": {
+          "id": "HK-KKC-G13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G14",
+        "name": {
+          "local": "啟德中及南",
+          "en": "Kai Tak Central & South",
+          "slug": "kai-tak-central-south-g14"
+        },
+        "code": {
+          "id": "HK-KKC-G14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G15",
+        "name": {
+          "local": "海心",
+          "en": "Hoi Sham",
+          "slug": "hoi-sham-g15"
+        },
+        "code": {
+          "id": "HK-KKC-G15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G16",
+        "name": {
+          "local": "土瓜灣北",
+          "en": "To Kwa Wan North",
+          "slug": "to-kwa-wan-north-g16"
+        },
+        "code": {
+          "id": "HK-KKC-G16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G17",
+        "name": {
+          "local": "土瓜灣南",
+          "en": "To Kwa Wan South",
+          "slug": "to-kwa-wan-south-g17"
+        },
+        "code": {
+          "id": "HK-KKC-G17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G18",
+        "name": {
+          "local": "鶴園海逸",
+          "en": "Hok Yuen Laguna Verde",
+          "slug": "hok-yuen-laguna-verde-g18"
+        },
+        "code": {
+          "id": "HK-KKC-G18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G19",
+        "name": {
+          "local": "黃埔東",
+          "en": "Whampoa East",
+          "slug": "whampoa-east-g19"
+        },
+        "code": {
+          "id": "HK-KKC-G19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G20",
+        "name": {
+          "local": "黃埔西",
+          "en": "Whampoa West",
+          "slug": "whampoa-west-g20"
+        },
+        "code": {
+          "id": "HK-KKC-G20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G21",
+        "name": {
+          "local": "紅磡灣",
+          "en": "Hung Hom Bay",
+          "slug": "hung-hom-bay-g21"
+        },
+        "code": {
+          "id": "HK-KKC-G21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G22",
+        "name": {
+          "local": "紅磡",
+          "en": "Hung Hom",
+          "slug": "hung-hom-g22"
+        },
+        "code": {
+          "id": "HK-KKC-G22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G23",
+        "name": {
+          "local": "家維",
+          "en": "Ka Wai",
+          "slug": "ka-wai-g23"
+        },
+        "code": {
+          "id": "HK-KKC-G23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G24",
+        "name": {
+          "local": "愛民",
+          "en": "Oi Man",
+          "slug": "oi-man-g24"
+        },
+        "code": {
+          "id": "HK-KKC-G24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKC-G25",
+        "name": {
+          "local": "愛俊",
+          "en": "Oi Chun",
+          "slug": "oi-chun-g25"
+        },
+        "code": {
+          "id": "HK-KKC-G25",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-NKT",
+    "name": {
+      "local": "葵青",
+      "en": "Kwai Tsing",
+      "slug": "kwai-tsing-nkt"
+    },
+    "code": {
+      "id": "HK-NKT",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-NKT-S01",
+        "name": {
+          "local": "葵興",
+          "en": "Kwai Hing",
+          "slug": "kwai-hing-s01"
+        },
+        "code": {
+          "id": "HK-NKT-S01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S02",
+        "name": {
+          "local": "葵聯",
+          "en": "Kwai Luen",
+          "slug": "kwai-luen-s02"
+        },
+        "code": {
+          "id": "HK-NKT-S02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S03",
+        "name": {
+          "local": "葵盛東邨",
+          "en": "Kwai Shing East Estate",
+          "slug": "kwai-shing-east-estate-s03"
+        },
+        "code": {
+          "id": "HK-NKT-S03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S04",
+        "name": {
+          "local": "上大窩口",
+          "en": "Upper Tai Wo Hau",
+          "slug": "upper-tai-wo-hau-s04"
+        },
+        "code": {
+          "id": "HK-NKT-S04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S05",
+        "name": {
+          "local": "下大窩口",
+          "en": "Lower Tai Wo Hau",
+          "slug": "lower-tai-wo-hau-s05"
+        },
+        "code": {
+          "id": "HK-NKT-S05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S06",
+        "name": {
+          "local": "葵涌邨南",
+          "en": "Kwai Chung Estate South",
+          "slug": "kwai-chung-estate-south-s06"
+        },
+        "code": {
+          "id": "HK-NKT-S06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S07",
+        "name": {
+          "local": "葵涌邨北",
+          "en": "Kwai Chung Estate North",
+          "slug": "kwai-chung-estate-north-s07"
+        },
+        "code": {
+          "id": "HK-NKT-S07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S08",
+        "name": {
+          "local": "石蔭",
+          "en": "Shek Yam",
+          "slug": "shek-yam-s08"
+        },
+        "code": {
+          "id": "HK-NKT-S08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S09",
+        "name": {
+          "local": "大白田西",
+          "en": "Tai Pak Tin West",
+          "slug": "tai-pak-tin-west-s09"
+        },
+        "code": {
+          "id": "HK-NKT-S09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S10",
+        "name": {
+          "local": "大白田東",
+          "en": "Tai Pak Tin East",
+          "slug": "tai-pak-tin-east-s10"
+        },
+        "code": {
+          "id": "HK-NKT-S10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S11",
+        "name": {
+          "local": "安蔭",
+          "en": "On Yam",
+          "slug": "on-yam-s11"
+        },
+        "code": {
+          "id": "HK-NKT-S11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S12",
+        "name": {
+          "local": "石籬北",
+          "en": "Shek Lei North",
+          "slug": "shek-lei-north-s12"
+        },
+        "code": {
+          "id": "HK-NKT-S12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S13",
+        "name": {
+          "local": "石籬南",
+          "en": "Shek Lei South",
+          "slug": "shek-lei-south-s13"
+        },
+        "code": {
+          "id": "HK-NKT-S13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S14",
+        "name": {
+          "local": "葵芳",
+          "en": "Kwai Fong",
+          "slug": "kwai-fong-s14"
+        },
+        "code": {
+          "id": "HK-NKT-S14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S15",
+        "name": {
+          "local": "興芳",
+          "en": "Hing Fong",
+          "slug": "hing-fong-s15"
+        },
+        "code": {
+          "id": "HK-NKT-S15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S16",
+        "name": {
+          "local": "華麗",
+          "en": "Wah Lai",
+          "slug": "wah-lai-s16"
+        },
+        "code": {
+          "id": "HK-NKT-S16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S17",
+        "name": {
+          "local": "荔華",
+          "en": "Lai Wah",
+          "slug": "lai-wah-s17"
+        },
+        "code": {
+          "id": "HK-NKT-S17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S18",
+        "name": {
+          "local": "祖堯",
+          "en": "Cho Yiu",
+          "slug": "cho-yiu-s18"
+        },
+        "code": {
+          "id": "HK-NKT-S18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S19",
+        "name": {
+          "local": "荔景",
+          "en": "Lai King",
+          "slug": "lai-king-s19"
+        },
+        "code": {
+          "id": "HK-NKT-S19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S20",
+        "name": {
+          "local": "葵盛西邨",
+          "en": "Kwai Shing West Estate",
+          "slug": "kwai-shing-west-estate-s20"
+        },
+        "code": {
+          "id": "HK-NKT-S20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S21",
+        "name": {
+          "local": "安灝",
+          "en": "On Ho",
+          "slug": "on-ho-s21"
+        },
+        "code": {
+          "id": "HK-NKT-S21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S22",
+        "name": {
+          "local": "偉盈",
+          "en": "Wai Ying",
+          "slug": "wai-ying-s22"
+        },
+        "code": {
+          "id": "HK-NKT-S22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S23",
+        "name": {
+          "local": "青衣邨",
+          "en": "Tsing Yi Estate",
+          "slug": "tsing-yi-estate-s23"
+        },
+        "code": {
+          "id": "HK-NKT-S23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S24",
+        "name": {
+          "local": "翠怡",
+          "en": "Greenfield",
+          "slug": "greenfield-s24"
+        },
+        "code": {
+          "id": "HK-NKT-S24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S25",
+        "name": {
+          "local": "長青",
+          "en": "Cheung Ching",
+          "slug": "cheung-ching-s25"
+        },
+        "code": {
+          "id": "HK-NKT-S25",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S26",
+        "name": {
+          "local": "長康",
+          "en": "Cheung Hong",
+          "slug": "cheung-hong-s26"
+        },
+        "code": {
+          "id": "HK-NKT-S26",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S27",
+        "name": {
+          "local": "盛康",
+          "en": "Shing Hong",
+          "slug": "shing-hong-s27"
+        },
+        "code": {
+          "id": "HK-NKT-S27",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S28",
+        "name": {
+          "local": "青衣南",
+          "en": "Tsing Yi South",
+          "slug": "tsing-yi-south-s28"
+        },
+        "code": {
+          "id": "HK-NKT-S28",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S29",
+        "name": {
+          "local": "長亨",
+          "en": "Cheung Hang",
+          "slug": "cheung-hang-s29"
+        },
+        "code": {
+          "id": "HK-NKT-S29",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S30",
+        "name": {
+          "local": "青發",
+          "en": "Ching Fat",
+          "slug": "ching-fat-s30"
+        },
+        "code": {
+          "id": "HK-NKT-S30",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NKT-S31",
+        "name": {
+          "local": "長安",
+          "en": "Cheung On",
+          "slug": "cheung-on-s31"
+        },
+        "code": {
+          "id": "HK-NKT-S31",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-KKT",
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    },
+    "code": {
+      "id": "HK-KKT",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-KKT-J01",
+        "name": {
+          "local": "觀塘中心",
+          "en": "Kwun Tong Central",
+          "slug": "kwun-tong-central-j01"
+        },
+        "code": {
+          "id": "HK-KKT-J01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J02",
+        "name": {
+          "local": "九龍灣",
+          "en": "Kowloon Bay",
+          "slug": "kowloon-bay-j02"
+        },
+        "code": {
+          "id": "HK-KKT-J02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J03",
+        "name": {
+          "local": "啟業",
+          "en": "Kai Yip",
+          "slug": "kai-yip-j03"
+        },
+        "code": {
+          "id": "HK-KKT-J03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J04",
+        "name": {
+          "local": "麗晶",
+          "en": "Lai Ching",
+          "slug": "lai-ching-j04"
+        },
+        "code": {
+          "id": "HK-KKT-J04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J05",
+        "name": {
+          "local": "坪石",
+          "en": "Ping Shek",
+          "slug": "ping-shek-j05"
+        },
+        "code": {
+          "id": "HK-KKT-J05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J06",
+        "name": {
+          "local": "彩德",
+          "en": "Choi Tak",
+          "slug": "choi-tak-j06"
+        },
+        "code": {
+          "id": "HK-KKT-J06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J07",
+        "name": {
+          "local": "佐敦谷",
+          "en": "Jordan Valley",
+          "slug": "jordan-valley-j07"
+        },
+        "code": {
+          "id": "HK-KKT-J07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J08",
+        "name": {
+          "local": "順天",
+          "en": "Shun Tin",
+          "slug": "shun-tin-j08"
+        },
+        "code": {
+          "id": "HK-KKT-J08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J09",
+        "name": {
+          "local": "雙順",
+          "en": "Sheung Shun",
+          "slug": "sheung-shun-j09"
+        },
+        "code": {
+          "id": "HK-KKT-J09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J10",
+        "name": {
+          "local": "安利",
+          "en": "On Lee",
+          "slug": "on-lee-j10"
+        },
+        "code": {
+          "id": "HK-KKT-J10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J11",
+        "name": {
+          "local": "觀塘安泰",
+          "en": "Kwun Tong On Tai",
+          "slug": "kwun-tong-on-tai-j11"
+        },
+        "code": {
+          "id": "HK-KKT-J11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J12",
+        "name": {
+          "local": "秀茂坪北",
+          "en": "Sau Mau Ping North",
+          "slug": "sau-mau-ping-north-j12"
+        },
+        "code": {
+          "id": "HK-KKT-J12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J13",
+        "name": {
+          "local": "秀茂坪中",
+          "en": "Sau Mau Ping Central",
+          "slug": "sau-mau-ping-central-j13"
+        },
+        "code": {
+          "id": "HK-KKT-J13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J14",
+        "name": {
+          "local": "安達",
+          "en": "On Tat",
+          "slug": "on-tat-j14"
+        },
+        "code": {
+          "id": "HK-KKT-J14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J15",
+        "name": {
+          "local": "秀茂坪南",
+          "en": "Sau Mau Ping South",
+          "slug": "sau-mau-ping-south-j15"
+        },
+        "code": {
+          "id": "HK-KKT-J15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J16",
+        "name": {
+          "local": "寶達",
+          "en": "Po Tat",
+          "slug": "po-tat-j16"
+        },
+        "code": {
+          "id": "HK-KKT-J16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J17",
+        "name": {
+          "local": "廣德",
+          "en": "Kwong Tak",
+          "slug": "kwong-tak-j17"
+        },
+        "code": {
+          "id": "HK-KKT-J17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J18",
+        "name": {
+          "local": "興田",
+          "en": "Hing Tin",
+          "slug": "hing-tin-j18"
+        },
+        "code": {
+          "id": "HK-KKT-J18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J19",
+        "name": {
+          "local": "藍田",
+          "en": "Lam Tin",
+          "slug": "lam-tin-j19"
+        },
+        "code": {
+          "id": "HK-KKT-J19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J20",
+        "name": {
+          "local": "平田",
+          "en": "Ping Tin",
+          "slug": "ping-tin-j20"
+        },
+        "code": {
+          "id": "HK-KKT-J20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J21",
+        "name": {
+          "local": "栢雅",
+          "en": "Pak Nga",
+          "slug": "pak-nga-j21"
+        },
+        "code": {
+          "id": "HK-KKT-J21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J22",
+        "name": {
+          "local": "俊翔",
+          "en": "Chun Cheung",
+          "slug": "chun-cheung-j22"
+        },
+        "code": {
+          "id": "HK-KKT-J22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J23",
+        "name": {
+          "local": "油塘東",
+          "en": "Yau Tong East",
+          "slug": "yau-tong-east-j23"
+        },
+        "code": {
+          "id": "HK-KKT-J23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J24",
+        "name": {
+          "local": "油翠",
+          "en": "Yau Chui",
+          "slug": "yau-chui-j24"
+        },
+        "code": {
+          "id": "HK-KKT-J24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J25",
+        "name": {
+          "local": "油麗",
+          "en": "Yau Lai",
+          "slug": "yau-lai-j25"
+        },
+        "code": {
+          "id": "HK-KKT-J25",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J26",
+        "name": {
+          "local": "油塘西",
+          "en": "Yau Tong West",
+          "slug": "yau-tong-west-j26"
+        },
+        "code": {
+          "id": "HK-KKT-J26",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J27",
+        "name": {
+          "local": "麗港城",
+          "en": "Laguna City",
+          "slug": "laguna-city-j27"
+        },
+        "code": {
+          "id": "HK-KKT-J27",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J28",
+        "name": {
+          "local": "景田",
+          "en": "King Tin",
+          "slug": "king-tin-j28"
+        },
+        "code": {
+          "id": "HK-KKT-J28",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J29",
+        "name": {
+          "local": "翠屏",
+          "en": "Tsui Ping",
+          "slug": "tsui-ping-j29"
+        },
+        "code": {
+          "id": "HK-KKT-J29",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J30",
+        "name": {
+          "local": "曉麗",
+          "en": "Hiu Lai",
+          "slug": "hiu-lai-j30"
+        },
+        "code": {
+          "id": "HK-KKT-J30",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J31",
+        "name": {
+          "local": "寶樂",
+          "en": "Po Lok",
+          "slug": "po-lok-j31"
+        },
+        "code": {
+          "id": "HK-KKT-J31",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J32",
+        "name": {
+          "local": "月華",
+          "en": "Yuet Wah",
+          "slug": "yuet-wah-j32"
+        },
+        "code": {
+          "id": "HK-KKT-J32",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J33",
+        "name": {
+          "local": "協康",
+          "en": "Hip Hong",
+          "slug": "hip-hong-j33"
+        },
+        "code": {
+          "id": "HK-KKT-J33",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J34",
+        "name": {
+          "local": "樂華南",
+          "en": "Lok Wah South",
+          "slug": "lok-wah-south-j34"
+        },
+        "code": {
+          "id": "HK-KKT-J34",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J35",
+        "name": {
+          "local": "樂華北",
+          "en": "Lok Wah North",
+          "slug": "lok-wah-north-j35"
+        },
+        "code": {
+          "id": "HK-KKT-J35",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J36",
+        "name": {
+          "local": "康樂",
+          "en": "Hong Lok",
+          "slug": "hong-lok-j36"
+        },
+        "code": {
+          "id": "HK-KKT-J36",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J37",
+        "name": {
+          "local": "定安",
+          "en": "Ting On",
+          "slug": "ting-on-j37"
+        },
+        "code": {
+          "id": "HK-KKT-J37",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J38",
+        "name": {
+          "local": "牛頭角上邨",
+          "en": "Upper Ngau Tau Kok Estate",
+          "slug": "upper-ngau-tau-kok-estate-j38"
+        },
+        "code": {
+          "id": "HK-KKT-J38",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J39",
+        "name": {
+          "local": "牛頭角下邨",
+          "en": "Lower Ngau Tau Kok Estate",
+          "slug": "lower-ngau-tau-kok-estate-j39"
+        },
+        "code": {
+          "id": "HK-KKT-J39",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KKT-J40",
+        "name": {
+          "local": "淘大",
+          "en": "To Tai",
+          "slug": "to-tai-j40"
+        },
+        "code": {
+          "id": "HK-KKT-J40",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-NNO",
+    "name": {
+      "local": "北區",
+      "en": "North",
+      "slug": "north-nno"
+    },
+    "code": {
+      "id": "HK-NNO",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-NNO-N01",
+        "name": {
+          "local": "聯和墟",
+          "en": "Luen Wo Hui",
+          "slug": "luen-wo-hui-n01"
+        },
+        "code": {
+          "id": "HK-NNO-N01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N02",
+        "name": {
+          "local": "粉嶺市",
+          "en": "Fanling Town",
+          "slug": "fanling-town-n02"
+        },
+        "code": {
+          "id": "HK-NNO-N02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N03",
+        "name": {
+          "local": "祥華",
+          "en": "Cheung Wah",
+          "slug": "cheung-wah-n03"
+        },
+        "code": {
+          "id": "HK-NNO-N03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N04",
+        "name": {
+          "local": "華都",
+          "en": "Wah Do",
+          "slug": "wah-do-n04"
+        },
+        "code": {
+          "id": "HK-NNO-N04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N05",
+        "name": {
+          "local": "華明",
+          "en": "Wah Ming",
+          "slug": "wah-ming-n05"
+        },
+        "code": {
+          "id": "HK-NNO-N05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N06",
+        "name": {
+          "local": "欣盛",
+          "en": "Yan Shing",
+          "slug": "yan-shing-n06"
+        },
+        "code": {
+          "id": "HK-NNO-N06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N07",
+        "name": {
+          "local": "粉嶺南",
+          "en": "Fanling South",
+          "slug": "fanling-south-n07"
+        },
+        "code": {
+          "id": "HK-NNO-N07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N08",
+        "name": {
+          "local": "盛福",
+          "en": "Shing Fuk",
+          "slug": "shing-fuk-n08"
+        },
+        "code": {
+          "id": "HK-NNO-N08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N09",
+        "name": {
+          "local": "清河",
+          "en": "Ching Ho",
+          "slug": "ching-ho-n09"
+        },
+        "code": {
+          "id": "HK-NNO-N09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N10",
+        "name": {
+          "local": "御太",
+          "en": "Yu Tai",
+          "slug": "yu-tai-n10"
+        },
+        "code": {
+          "id": "HK-NNO-N10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N11",
+        "name": {
+          "local": "上水鄉郊",
+          "en": "Sheung Shui Rural",
+          "slug": "sheung-shui-rural-n11"
+        },
+        "code": {
+          "id": "HK-NNO-N11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N12",
+        "name": {
+          "local": "彩園",
+          "en": "Choi Yuen",
+          "slug": "choi-yuen-n12"
+        },
+        "code": {
+          "id": "HK-NNO-N12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N13",
+        "name": {
+          "local": "石湖墟",
+          "en": "Shek Wu Hui",
+          "slug": "shek-wu-hui-n13"
+        },
+        "code": {
+          "id": "HK-NNO-N13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N14",
+        "name": {
+          "local": "天平西",
+          "en": "Tin Ping West",
+          "slug": "tin-ping-west-n14"
+        },
+        "code": {
+          "id": "HK-NNO-N14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N15",
+        "name": {
+          "local": "鳳翠",
+          "en": "Fung Tsui",
+          "slug": "fung-tsui-n15"
+        },
+        "code": {
+          "id": "HK-NNO-N15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N16",
+        "name": {
+          "local": "沙打",
+          "en": "Sha Ta",
+          "slug": "sha-ta-n16"
+        },
+        "code": {
+          "id": "HK-NNO-N16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N17",
+        "name": {
+          "local": "天平東",
+          "en": "Tin Ping East",
+          "slug": "tin-ping-east-n17"
+        },
+        "code": {
+          "id": "HK-NNO-N17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NNO-N18",
+        "name": {
+          "local": "皇后山",
+          "en": "Queen's Hill",
+          "slug": "queens-hill-n18"
+        },
+        "code": {
+          "id": "HK-NNO-N18",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-NSK",
+    "name": {
+      "local": "西貢區",
+      "en": "Sai Kung",
+      "slug": "sai-kung-nsk"
+    },
+    "code": {
+      "id": "HK-NSK",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-NSK-Q01",
+        "name": {
+          "local": "西貢市中心",
+          "en": "Sai Kung Central",
+          "slug": "sai-kung-central-q01"
+        },
+        "code": {
+          "id": "HK-NSK-Q01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q02",
+        "name": {
+          "local": "白沙灣",
+          "en": "Pak Sha Wan",
+          "slug": "pak-sha-wan-q02"
+        },
+        "code": {
+          "id": "HK-NSK-Q02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q03",
+        "name": {
+          "local": "西貢離島",
+          "en": "Sai Kung Islands",
+          "slug": "sai-kung-islands-q03"
+        },
+        "code": {
+          "id": "HK-NSK-Q03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q04",
+        "name": {
+          "local": "坑口東",
+          "en": "Hang Hau East",
+          "slug": "hang-hau-east-q04"
+        },
+        "code": {
+          "id": "HK-NSK-Q04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q05",
+        "name": {
+          "local": "坑口西",
+          "en": "Hang Hau West",
+          "slug": "hang-hau-west-q05"
+        },
+        "code": {
+          "id": "HK-NSK-Q05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q06",
+        "name": {
+          "local": "彩健",
+          "en": "Choi Kin",
+          "slug": "choi-kin-q06"
+        },
+        "code": {
+          "id": "HK-NSK-Q06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q07",
+        "name": {
+          "local": "健明",
+          "en": "Kin Ming",
+          "slug": "kin-ming-q07"
+        },
+        "code": {
+          "id": "HK-NSK-Q07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q08",
+        "name": {
+          "local": "都善",
+          "en": "Do Shin",
+          "slug": "do-shin-q08"
+        },
+        "code": {
+          "id": "HK-NSK-Q08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q09",
+        "name": {
+          "local": "維景",
+          "en": "Wai King",
+          "slug": "wai-king-q09"
+        },
+        "code": {
+          "id": "HK-NSK-Q09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q10",
+        "name": {
+          "local": "海晉",
+          "en": "Hoi Chun",
+          "slug": "hoi-chun-q10"
+        },
+        "code": {
+          "id": "HK-NSK-Q10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q11",
+        "name": {
+          "local": "寶怡",
+          "en": "Po Yee",
+          "slug": "po-yee-q11"
+        },
+        "code": {
+          "id": "HK-NSK-Q11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q12",
+        "name": {
+          "local": "富君",
+          "en": "Fu Kwan",
+          "slug": "fu-kwan-q12"
+        },
+        "code": {
+          "id": "HK-NSK-Q12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q13",
+        "name": {
+          "local": "澳唐",
+          "en": "O Tong",
+          "slug": "o-tong-q13"
+        },
+        "code": {
+          "id": "HK-NSK-Q13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q14",
+        "name": {
+          "local": "尚德",
+          "en": "Sheung Tak",
+          "slug": "sheung-tak-q14"
+        },
+        "code": {
+          "id": "HK-NSK-Q14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q15",
+        "name": {
+          "local": "廣明",
+          "en": "Kwong Ming",
+          "slug": "kwong-ming-q15"
+        },
+        "code": {
+          "id": "HK-NSK-Q15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q16",
+        "name": {
+          "local": "康景",
+          "en": "Hong King",
+          "slug": "hong-king-q16"
+        },
+        "code": {
+          "id": "HK-NSK-Q16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q17",
+        "name": {
+          "local": "翠林",
+          "en": "Tsui Lam",
+          "slug": "tsui-lam-q17"
+        },
+        "code": {
+          "id": "HK-NSK-Q17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q18",
+        "name": {
+          "local": "寶林",
+          "en": "Po Lam",
+          "slug": "po-lam-q18"
+        },
+        "code": {
+          "id": "HK-NSK-Q18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q19",
+        "name": {
+          "local": "欣英",
+          "en": "Yan Ying",
+          "slug": "yan-ying-q19"
+        },
+        "code": {
+          "id": "HK-NSK-Q19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q20",
+        "name": {
+          "local": "慧茵",
+          "en": "Wai Yan",
+          "slug": "wai-yan-q20"
+        },
+        "code": {
+          "id": "HK-NSK-Q20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q21",
+        "name": {
+          "local": "運亨",
+          "en": "Wan Hang",
+          "slug": "wan-hang-q21"
+        },
+        "code": {
+          "id": "HK-NSK-Q21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q22",
+        "name": {
+          "local": "景林",
+          "en": "King Lam",
+          "slug": "king-lam-q22"
+        },
+        "code": {
+          "id": "HK-NSK-Q22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q23",
+        "name": {
+          "local": "厚德",
+          "en": "Hau Tak",
+          "slug": "hau-tak-q23"
+        },
+        "code": {
+          "id": "HK-NSK-Q23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q24",
+        "name": {
+          "local": "富藍",
+          "en": "Fu Nam",
+          "slug": "fu-nam-q24"
+        },
+        "code": {
+          "id": "HK-NSK-Q24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q25",
+        "name": {
+          "local": "德明",
+          "en": "Tak Ming",
+          "slug": "tak-ming-q25"
+        },
+        "code": {
+          "id": "HK-NSK-Q25",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q26",
+        "name": {
+          "local": "南安",
+          "en": "Nam On",
+          "slug": "nam-on-q26"
+        },
+        "code": {
+          "id": "HK-NSK-Q26",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q27",
+        "name": {
+          "local": "軍寶",
+          "en": "Kwan Po",
+          "slug": "kwan-po-q27"
+        },
+        "code": {
+          "id": "HK-NSK-Q27",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q28",
+        "name": {
+          "local": "環保北",
+          "en": "Wan Po North",
+          "slug": "wan-po-north-q28"
+        },
+        "code": {
+          "id": "HK-NSK-Q28",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NSK-Q29",
+        "name": {
+          "local": "環保南",
+          "en": "Wan Po South",
+          "slug": "wan-po-south-q29"
+        },
+        "code": {
+          "id": "HK-NSK-Q29",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-NST",
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    },
+    "code": {
+      "id": "HK-NST",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-NST-R01",
+        "name": {
+          "local": "沙田市中心",
+          "en": "Sha Tin Town Centre",
+          "slug": "sha-tin-town-centre-r01"
+        },
+        "code": {
+          "id": "HK-NST-R01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R02",
+        "name": {
+          "local": "瀝源",
+          "en": "Lek Yuen",
+          "slug": "lek-yuen-r02"
+        },
+        "code": {
+          "id": "HK-NST-R02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R03",
+        "name": {
+          "local": "禾輋邨",
+          "en": "Wo Che Estate",
+          "slug": "wo-che-estate-r03"
+        },
+        "code": {
+          "id": "HK-NST-R03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R04",
+        "name": {
+          "local": "第一城",
+          "en": "City One",
+          "slug": "city-one-r04"
+        },
+        "code": {
+          "id": "HK-NST-R04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R05",
+        "name": {
+          "local": "愉城",
+          "en": "Yue Shing",
+          "slug": "yue-shing-r05"
+        },
+        "code": {
+          "id": "HK-NST-R05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R06",
+        "name": {
+          "local": "王屋",
+          "en": "Wong Uk",
+          "slug": "wong-uk-r06"
+        },
+        "code": {
+          "id": "HK-NST-R06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R07",
+        "name": {
+          "local": "沙角",
+          "en": "Sha Kok",
+          "slug": "sha-kok-r07"
+        },
+        "code": {
+          "id": "HK-NST-R07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R08",
+        "name": {
+          "local": "博康",
+          "en": "Pok Hong",
+          "slug": "pok-hong-r08"
+        },
+        "code": {
+          "id": "HK-NST-R08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R09",
+        "name": {
+          "local": "水泉澳",
+          "en": "Shui Chuen O",
+          "slug": "shui-chuen-o-r09"
+        },
+        "code": {
+          "id": "HK-NST-R09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R10",
+        "name": {
+          "local": "乙泉",
+          "en": "Jat Chuen",
+          "slug": "jat-chuen-r10"
+        },
+        "code": {
+          "id": "HK-NST-R10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R11",
+        "name": {
+          "local": "秦豐",
+          "en": "Chun Fung",
+          "slug": "chun-fung-r11"
+        },
+        "code": {
+          "id": "HK-NST-R11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R12",
+        "name": {
+          "local": "新田圍",
+          "en": "Sun Tin Wai",
+          "slug": "sun-tin-wai-r12"
+        },
+        "code": {
+          "id": "HK-NST-R12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R13",
+        "name": {
+          "local": "翠田",
+          "en": "Chui Tin",
+          "slug": "chui-tin-r13"
+        },
+        "code": {
+          "id": "HK-NST-R13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R14",
+        "name": {
+          "local": "顯嘉",
+          "en": "Hin Ka",
+          "slug": "hin-ka-r14"
+        },
+        "code": {
+          "id": "HK-NST-R14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R15",
+        "name": {
+          "local": "下城門",
+          "en": "Lower Shing Mun",
+          "slug": "lower-shing-mun-r15"
+        },
+        "code": {
+          "id": "HK-NST-R15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R16",
+        "name": {
+          "local": "雲城",
+          "en": "Wan Shing",
+          "slug": "wan-shing-r16"
+        },
+        "code": {
+          "id": "HK-NST-R16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R17",
+        "name": {
+          "local": "徑口",
+          "en": "Keng Hau",
+          "slug": "keng-hau-r17"
+        },
+        "code": {
+          "id": "HK-NST-R17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R18",
+        "name": {
+          "local": "田心",
+          "en": "Tin Sum",
+          "slug": "tin-sum-r18"
+        },
+        "code": {
+          "id": "HK-NST-R18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R19",
+        "name": {
+          "local": "翠嘉",
+          "en": "Chui Ka",
+          "slug": "chui-ka-r19"
+        },
+        "code": {
+          "id": "HK-NST-R19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R20",
+        "name": {
+          "local": "大圍",
+          "en": "Tai Wai",
+          "slug": "tai-wai-r20"
+        },
+        "code": {
+          "id": "HK-NST-R20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R21",
+        "name": {
+          "local": "松田",
+          "en": "Chung Tin",
+          "slug": "chung-tin-r21"
+        },
+        "code": {
+          "id": "HK-NST-R21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R22",
+        "name": {
+          "local": "穗禾",
+          "en": "Sui Wo",
+          "slug": "sui-wo-r22"
+        },
+        "code": {
+          "id": "HK-NST-R22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R23",
+        "name": {
+          "local": "火炭",
+          "en": "Fo Tan",
+          "slug": "fo-tan-r23"
+        },
+        "code": {
+          "id": "HK-NST-R23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R24",
+        "name": {
+          "local": "駿馬",
+          "en": "Chun Ma",
+          "slug": "chun-ma-r24"
+        },
+        "code": {
+          "id": "HK-NST-R24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R25",
+        "name": {
+          "local": "海嵐",
+          "en": "Hoi Nam",
+          "slug": "hoi-nam-r25"
+        },
+        "code": {
+          "id": "HK-NST-R25",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R26",
+        "name": {
+          "local": "頌安",
+          "en": "Chung On",
+          "slug": "chung-on-r26"
+        },
+        "code": {
+          "id": "HK-NST-R26",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R27",
+        "name": {
+          "local": "錦濤",
+          "en": "Kam To",
+          "slug": "kam-to-r27"
+        },
+        "code": {
+          "id": "HK-NST-R27",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R28",
+        "name": {
+          "local": "馬鞍山市中心",
+          "en": "Ma On Shan Town Centre",
+          "slug": "ma-on-shan-town-centre-r28"
+        },
+        "code": {
+          "id": "HK-NST-R28",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R29",
+        "name": {
+          "local": "烏溪沙",
+          "en": "Wu Kai Sha",
+          "slug": "wu-kai-sha-r29"
+        },
+        "code": {
+          "id": "HK-NST-R29",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R30",
+        "name": {
+          "local": "利安",
+          "en": "Lee On",
+          "slug": "lee-on-r30"
+        },
+        "code": {
+          "id": "HK-NST-R30",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R31",
+        "name": {
+          "local": "富龍",
+          "en": "Fu Lung",
+          "slug": "fu-lung-r31"
+        },
+        "code": {
+          "id": "HK-NST-R31",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R32",
+        "name": {
+          "local": "錦英",
+          "en": "Kam Ying",
+          "slug": "kam-ying-r32"
+        },
+        "code": {
+          "id": "HK-NST-R32",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R33",
+        "name": {
+          "local": "耀安",
+          "en": "Yiu On",
+          "slug": "yiu-on-r33"
+        },
+        "code": {
+          "id": "HK-NST-R33",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R34",
+        "name": {
+          "local": "恆安",
+          "en": "Heng On",
+          "slug": "heng-on-r34"
+        },
+        "code": {
+          "id": "HK-NST-R34",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R35",
+        "name": {
+          "local": "大水坑",
+          "en": "Tai Shui Hang",
+          "slug": "tai-shui-hang-r35"
+        },
+        "code": {
+          "id": "HK-NST-R35",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R36",
+        "name": {
+          "local": "鞍泰",
+          "en": "On Tai",
+          "slug": "on-tai-r36"
+        },
+        "code": {
+          "id": "HK-NST-R36",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R37",
+        "name": {
+          "local": "愉欣",
+          "en": "Yu Yan",
+          "slug": "yu-yan-r37"
+        },
+        "code": {
+          "id": "HK-NST-R37",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R38",
+        "name": {
+          "local": "帝怡",
+          "en": "Di Yee",
+          "slug": "di-yee-r38"
+        },
+        "code": {
+          "id": "HK-NST-R38",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R39",
+        "name": {
+          "local": "碧湖",
+          "en": "Bik Woo",
+          "slug": "bik-woo-r39"
+        },
+        "code": {
+          "id": "HK-NST-R39",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R40",
+        "name": {
+          "local": "廣康",
+          "en": "Kwong Hong",
+          "slug": "kwong-hong-r40"
+        },
+        "code": {
+          "id": "HK-NST-R40",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NST-R41",
+        "name": {
+          "local": "廣源",
+          "en": "Kwong Yuen",
+          "slug": "kwong-yuen-r41"
+        },
+        "code": {
+          "id": "HK-NST-R41",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-KSS",
+    "name": {
+      "local": "深水埗區",
+      "en": "Sham Shui Po",
+      "slug": "sham-shui-po-kss"
+    },
+    "code": {
+      "id": "HK-KSS",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-KSS-F01",
+        "name": {
+          "local": "寶麗",
+          "en": "Po Lai",
+          "slug": "po-lai-f01"
+        },
+        "code": {
+          "id": "HK-KSS-F01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F02",
+        "name": {
+          "local": "長沙灣",
+          "en": "Cheung Sha Wan",
+          "slug": "cheung-sha-wan-f02"
+        },
+        "code": {
+          "id": "HK-KSS-F02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F03",
+        "name": {
+          "local": "南昌北",
+          "en": "Nam Cheong North",
+          "slug": "nam-cheong-north-f03"
+        },
+        "code": {
+          "id": "HK-KSS-F03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F04",
+        "name": {
+          "local": "石硤尾",
+          "en": "Shek Kip Mei",
+          "slug": "shek-kip-mei-f04"
+        },
+        "code": {
+          "id": "HK-KSS-F04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F05",
+        "name": {
+          "local": "南昌東",
+          "en": "Nam Cheong East",
+          "slug": "nam-cheong-east-f05"
+        },
+        "code": {
+          "id": "HK-KSS-F05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F06",
+        "name": {
+          "local": "南昌南",
+          "en": "Nam Cheong South",
+          "slug": "nam-cheong-south-f06"
+        },
+        "code": {
+          "id": "HK-KSS-F06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F07",
+        "name": {
+          "local": "南昌中",
+          "en": "Nam Cheong Central",
+          "slug": "nam-cheong-central-f07"
+        },
+        "code": {
+          "id": "HK-KSS-F07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F08",
+        "name": {
+          "local": "南昌西",
+          "en": "Nam Cheong West",
+          "slug": "nam-cheong-west-f08"
+        },
+        "code": {
+          "id": "HK-KSS-F08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F09",
+        "name": {
+          "local": "富昌",
+          "en": "Fu Cheong",
+          "slug": "fu-cheong-f09"
+        },
+        "code": {
+          "id": "HK-KSS-F09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F10",
+        "name": {
+          "local": "麗閣",
+          "en": "Lai Kok",
+          "slug": "lai-kok-f10"
+        },
+        "code": {
+          "id": "HK-KSS-F10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F11",
+        "name": {
+          "local": "幸福",
+          "en": "Fortune",
+          "slug": "fortune-f11"
+        },
+        "code": {
+          "id": "HK-KSS-F11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F12",
+        "name": {
+          "local": "碧匯",
+          "en": "Pik Wui",
+          "slug": "pik-wui-f12"
+        },
+        "code": {
+          "id": "HK-KSS-F12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F13",
+        "name": {
+          "local": "荔枝角中",
+          "en": "Lai Chi Kok Central",
+          "slug": "lai-chi-kok-central-f13"
+        },
+        "code": {
+          "id": "HK-KSS-F13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F14",
+        "name": {
+          "local": "荔枝角南",
+          "en": "Lai Chi Kok South",
+          "slug": "lai-chi-kok-south-f14"
+        },
+        "code": {
+          "id": "HK-KSS-F14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F15",
+        "name": {
+          "local": "美孚南",
+          "en": "Mei Foo South",
+          "slug": "mei-foo-south-f15"
+        },
+        "code": {
+          "id": "HK-KSS-F15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F16",
+        "name": {
+          "local": "美孚中",
+          "en": "Mei Foo Central",
+          "slug": "mei-foo-central-f16"
+        },
+        "code": {
+          "id": "HK-KSS-F16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F17",
+        "name": {
+          "local": "美孚北",
+          "en": "Mei Foo North",
+          "slug": "mei-foo-north-f17"
+        },
+        "code": {
+          "id": "HK-KSS-F17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F18",
+        "name": {
+          "local": "荔枝角北",
+          "en": "Lai Chi Kok North",
+          "slug": "lai-chi-kok-north-f18"
+        },
+        "code": {
+          "id": "HK-KSS-F18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F19",
+        "name": {
+          "local": "元州",
+          "en": "Un Chau",
+          "slug": "un-chau-f19"
+        },
+        "code": {
+          "id": "HK-KSS-F19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F20",
+        "name": {
+          "local": "蘇屋",
+          "en": "So Uk",
+          "slug": "so-uk-f20"
+        },
+        "code": {
+          "id": "HK-KSS-F20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F21",
+        "name": {
+          "local": "李鄭屋",
+          "en": "Lei Cheng Uk",
+          "slug": "lei-cheng-uk-f21"
+        },
+        "code": {
+          "id": "HK-KSS-F21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F22",
+        "name": {
+          "local": "龍坪及上白田",
+          "en": "Lung Ping & Sheung Pak Tin",
+          "slug": "lung-ping-sheung-pak-tin-f22"
+        },
+        "code": {
+          "id": "HK-KSS-F22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F23",
+        "name": {
+          "local": "下白田",
+          "en": "Ha Pak Tin",
+          "slug": "ha-pak-tin-f23"
+        },
+        "code": {
+          "id": "HK-KSS-F23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F24",
+        "name": {
+          "local": "又一村",
+          "en": "Yau Yat Tsuen",
+          "slug": "yau-yat-tsuen-f24"
+        },
+        "code": {
+          "id": "HK-KSS-F24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KSS-F25",
+        "name": {
+          "local": "南山、大坑東及大坑西",
+          "en": "Nam Shan, Tai Hang Tung & Tai Hang Sai",
+          "slug": "nam-shan-tai-hang-tung-tai-hang-sai-f25"
+        },
+        "code": {
+          "id": "HK-KSS-F25",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-HSO",
+    "name": {
+      "local": "南區",
+      "en": "Southern",
+      "slug": "southern-hso"
+    },
+    "code": {
+      "id": "HK-HSO",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-HSO-D01",
+        "name": {
+          "local": "香港仔",
+          "en": "Aberdeen",
+          "slug": "aberdeen-d01"
+        },
+        "code": {
+          "id": "HK-HSO-D01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D02",
+        "name": {
+          "local": "鴨脷洲邨",
+          "en": "Ap Lei Chau Estate",
+          "slug": "ap-lei-chau-estate-d02"
+        },
+        "code": {
+          "id": "HK-HSO-D02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D03",
+        "name": {
+          "local": "鴨脷洲北",
+          "en": "Ap Lei Chau North",
+          "slug": "ap-lei-chau-north-d03"
+        },
+        "code": {
+          "id": "HK-HSO-D03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D04",
+        "name": {
+          "local": "利東一",
+          "en": "Lei Tung I",
+          "slug": "lei-tung-i-d04"
+        },
+        "code": {
+          "id": "HK-HSO-D04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D05",
+        "name": {
+          "local": "利東二",
+          "en": "Lei Tung II",
+          "slug": "lei-tung-ii-d05"
+        },
+        "code": {
+          "id": "HK-HSO-D05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D06",
+        "name": {
+          "local": "海怡東",
+          "en": "South Horizons East",
+          "slug": "south-horizons-east-d06"
+        },
+        "code": {
+          "id": "HK-HSO-D06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D07",
+        "name": {
+          "local": "海怡西",
+          "en": "South Horizons West",
+          "slug": "south-horizons-west-d07"
+        },
+        "code": {
+          "id": "HK-HSO-D07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D08",
+        "name": {
+          "local": "華貴",
+          "en": "Wah Kwai",
+          "slug": "wah-kwai-d08"
+        },
+        "code": {
+          "id": "HK-HSO-D08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D09",
+        "name": {
+          "local": "華富南",
+          "en": "Wah Fu South",
+          "slug": "wah-fu-south-d09"
+        },
+        "code": {
+          "id": "HK-HSO-D09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D10",
+        "name": {
+          "local": "華富北",
+          "en": "Wah Fu North",
+          "slug": "wah-fu-north-d10"
+        },
+        "code": {
+          "id": "HK-HSO-D10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D11",
+        "name": {
+          "local": "薄扶林",
+          "en": "Pokfulam",
+          "slug": "pokfulam-d11"
+        },
+        "code": {
+          "id": "HK-HSO-D11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D12",
+        "name": {
+          "local": "置富",
+          "en": "Chi Fu",
+          "slug": "chi-fu-d12"
+        },
+        "code": {
+          "id": "HK-HSO-D12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D13",
+        "name": {
+          "local": "田灣",
+          "en": "Tin Wan",
+          "slug": "tin-wan-d13"
+        },
+        "code": {
+          "id": "HK-HSO-D13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D14",
+        "name": {
+          "local": "石漁",
+          "en": "Shek Yue",
+          "slug": "shek-yue-d14"
+        },
+        "code": {
+          "id": "HK-HSO-D14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D15",
+        "name": {
+          "local": "黃竹坑",
+          "en": "Wong Chuk Hang",
+          "slug": "wong-chuk-hang-d15"
+        },
+        "code": {
+          "id": "HK-HSO-D15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D16",
+        "name": {
+          "local": "海灣",
+          "en": "Bays Area",
+          "slug": "bays-area-d16"
+        },
+        "code": {
+          "id": "HK-HSO-D16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HSO-D17",
+        "name": {
+          "local": "赤柱及石澳",
+          "en": "Stanley & Shek O",
+          "slug": "stanley-shek-o-d17"
+        },
+        "code": {
+          "id": "HK-HSO-D17",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-NTP",
+    "name": {
+      "local": "大埔",
+      "en": "Tai Po",
+      "slug": "tai-po-ntp"
+    },
+    "code": {
+      "id": "HK-NTP",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-NTP-P01",
+        "name": {
+          "local": "大埔墟",
+          "en": "Tai Po Hui",
+          "slug": "tai-po-hui-p01"
+        },
+        "code": {
+          "id": "HK-NTP-P01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P02",
+        "name": {
+          "local": "頌汀",
+          "en": "Chung Ting",
+          "slug": "chung-ting-p02"
+        },
+        "code": {
+          "id": "HK-NTP-P02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P03",
+        "name": {
+          "local": "大埔中",
+          "en": "Tai Po Central",
+          "slug": "tai-po-central-p03"
+        },
+        "code": {
+          "id": "HK-NTP-P03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P04",
+        "name": {
+          "local": "大元",
+          "en": "Tai Yuen",
+          "slug": "tai-yuen-p04"
+        },
+        "code": {
+          "id": "HK-NTP-P04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P05",
+        "name": {
+          "local": "富亨",
+          "en": "Fu Heng",
+          "slug": "fu-heng-p05"
+        },
+        "code": {
+          "id": "HK-NTP-P05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P06",
+        "name": {
+          "local": "怡富",
+          "en": "Yee Fu",
+          "slug": "yee-fu-p06"
+        },
+        "code": {
+          "id": "HK-NTP-P06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P07",
+        "name": {
+          "local": "富明新",
+          "en": "Fu Ming Sun",
+          "slug": "fu-ming-sun-p07"
+        },
+        "code": {
+          "id": "HK-NTP-P07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P08",
+        "name": {
+          "local": "廣福及寶湖",
+          "en": "Kwong Fuk & Plover Cove",
+          "slug": "kwong-fuk-plover-cove-p08"
+        },
+        "code": {
+          "id": "HK-NTP-P08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P09",
+        "name": {
+          "local": "宏福",
+          "en": "Wang Fuk",
+          "slug": "wang-fuk-p09"
+        },
+        "code": {
+          "id": "HK-NTP-P09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P10",
+        "name": {
+          "local": "大埔滘",
+          "en": "Tai Po Kau",
+          "slug": "tai-po-kau-p10"
+        },
+        "code": {
+          "id": "HK-NTP-P10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P11",
+        "name": {
+          "local": "運頭塘",
+          "en": "Wan Tau Tong",
+          "slug": "wan-tau-tong-p11"
+        },
+        "code": {
+          "id": "HK-NTP-P11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P12",
+        "name": {
+          "local": "新富",
+          "en": "San Fu",
+          "slug": "san-fu-p12"
+        },
+        "code": {
+          "id": "HK-NTP-P12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P13",
+        "name": {
+          "local": "林村谷",
+          "en": "Lam Tsuen Valley",
+          "slug": "lam-tsuen-valley-p13"
+        },
+        "code": {
+          "id": "HK-NTP-P13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P14",
+        "name": {
+          "local": "寶雅",
+          "en": "Po Nga",
+          "slug": "po-nga-p14"
+        },
+        "code": {
+          "id": "HK-NTP-P14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P15",
+        "name": {
+          "local": "太和",
+          "en": "Tai Wo",
+          "slug": "tai-wo-p15"
+        },
+        "code": {
+          "id": "HK-NTP-P15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P16",
+        "name": {
+          "local": "舊墟及太湖",
+          "en": "Old Market & Serenity",
+          "slug": "old-market-serenity-p16"
+        },
+        "code": {
+          "id": "HK-NTP-P16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P17",
+        "name": {
+          "local": "康樂園",
+          "en": "Hong Lok Yuen",
+          "slug": "hong-lok-yuen-p17"
+        },
+        "code": {
+          "id": "HK-NTP-P17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P18",
+        "name": {
+          "local": "船灣",
+          "en": "Shuen Wan",
+          "slug": "shuen-wan-p18"
+        },
+        "code": {
+          "id": "HK-NTP-P18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTP-P19",
+        "name": {
+          "local": "西貢北",
+          "en": "Sai Kung North",
+          "slug": "sai-kung-north-p19"
+        },
+        "code": {
+          "id": "HK-NTP-P19",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-NTW",
+    "name": {
+      "local": "荃灣",
+      "en": "Tsuen Wan",
+      "slug": "tsuen-wan-ntw"
+    },
+    "code": {
+      "id": "HK-NTW",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-NTW-K01",
+        "name": {
+          "local": "德華",
+          "en": "Tak Wah",
+          "slug": "tak-wah-k01"
+        },
+        "code": {
+          "id": "HK-NTW-K01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K02",
+        "name": {
+          "local": "楊屋道",
+          "en": "Yeung Uk Road",
+          "slug": "yeung-uk-road-k02"
+        },
+        "code": {
+          "id": "HK-NTW-K02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K03",
+        "name": {
+          "local": "荃灣南",
+          "en": "Tsuen Wan South",
+          "slug": "tsuen-wan-south-k03"
+        },
+        "code": {
+          "id": "HK-NTW-K03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K04",
+        "name": {
+          "local": "海濱",
+          "en": "Hoi Bun",
+          "slug": "hoi-bun-k04"
+        },
+        "code": {
+          "id": "HK-NTW-K04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K05",
+        "name": {
+          "local": "荃灣西",
+          "en": "Tsuen Wan West",
+          "slug": "tsuen-wan-west-k05"
+        },
+        "code": {
+          "id": "HK-NTW-K05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K06",
+        "name": {
+          "local": "祈德尊",
+          "en": "Clague Garden",
+          "slug": "clague-garden-k06"
+        },
+        "code": {
+          "id": "HK-NTW-K06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K07",
+        "name": {
+          "local": "荃灣中心",
+          "en": "Tsuen Wan Centre",
+          "slug": "tsuen-wan-centre-k07"
+        },
+        "code": {
+          "id": "HK-NTW-K07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K08",
+        "name": {
+          "local": "愉景",
+          "en": "Discovery Park",
+          "slug": "discovery-park-k08"
+        },
+        "code": {
+          "id": "HK-NTW-K08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K09",
+        "name": {
+          "local": "福來",
+          "en": "Fuk Loi",
+          "slug": "fuk-loi-k09"
+        },
+        "code": {
+          "id": "HK-NTW-K09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K10",
+        "name": {
+          "local": "綠楊",
+          "en": "Luk Yeung",
+          "slug": "luk-yeung-k10"
+        },
+        "code": {
+          "id": "HK-NTW-K10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K11",
+        "name": {
+          "local": "馬灣",
+          "en": "Ma Wan",
+          "slug": "ma-wan-k11"
+        },
+        "code": {
+          "id": "HK-NTW-K11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K12",
+        "name": {
+          "local": "荃灣郊區",
+          "en": "Tsuen Wan Rural",
+          "slug": "tsuen-wan-rural-k12"
+        },
+        "code": {
+          "id": "HK-NTW-K12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K13",
+        "name": {
+          "local": "汀深",
+          "en": "Ting Sham",
+          "slug": "ting-sham-k13"
+        },
+        "code": {
+          "id": "HK-NTW-K13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K14",
+        "name": {
+          "local": "麗濤",
+          "en": "Lai To",
+          "slug": "lai-to-k14"
+        },
+        "code": {
+          "id": "HK-NTW-K14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K15",
+        "name": {
+          "local": "荃威",
+          "en": "Allway",
+          "slug": "allway-k15"
+        },
+        "code": {
+          "id": "HK-NTW-K15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K16",
+        "name": {
+          "local": "象石",
+          "en": "Cheung Shek",
+          "slug": "cheung-shek-k16"
+        },
+        "code": {
+          "id": "HK-NTW-K16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K17",
+        "name": {
+          "local": "石圍角",
+          "en": "Shek Wai Kok",
+          "slug": "shek-wai-kok-k17"
+        },
+        "code": {
+          "id": "HK-NTW-K17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K18",
+        "name": {
+          "local": "梨木樹西",
+          "en": "Lei Muk Shue West",
+          "slug": "lei-muk-shue-west-k18"
+        },
+        "code": {
+          "id": "HK-NTW-K18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTW-K19",
+        "name": {
+          "local": "梨木樹東",
+          "en": "Lei Muk Shue East",
+          "slug": "lei-muk-shue-east-k19"
+        },
+        "code": {
+          "id": "HK-NTW-K19",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-NTM",
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    },
+    "code": {
+      "id": "HK-NTM",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-NTM-L01",
+        "name": {
+          "local": "屯門市中心",
+          "en": "Tuen Mun Town Centre",
+          "slug": "tuen-mun-town-centre-l01"
+        },
+        "code": {
+          "id": "HK-NTM-L01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L02",
+        "name": {
+          "local": "兆置",
+          "en": "Siu Chi",
+          "slug": "siu-chi-l02"
+        },
+        "code": {
+          "id": "HK-NTM-L02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L03",
+        "name": {
+          "local": "安定",
+          "en": "On Ting",
+          "slug": "on-ting-l03"
+        },
+        "code": {
+          "id": "HK-NTM-L03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L04",
+        "name": {
+          "local": "兆翠",
+          "en": "Siu Tsui",
+          "slug": "siu-tsui-l04"
+        },
+        "code": {
+          "id": "HK-NTM-L04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L05",
+        "name": {
+          "local": "友愛南",
+          "en": "Yau Oi South",
+          "slug": "yau-oi-south-l05"
+        },
+        "code": {
+          "id": "HK-NTM-L05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L06",
+        "name": {
+          "local": "友愛北",
+          "en": "Yau Oi North",
+          "slug": "yau-oi-north-l06"
+        },
+        "code": {
+          "id": "HK-NTM-L06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L07",
+        "name": {
+          "local": "翠興",
+          "en": "Tsui Hing",
+          "slug": "tsui-hing-l07"
+        },
+        "code": {
+          "id": "HK-NTM-L07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L08",
+        "name": {
+          "local": "山景",
+          "en": "Shan King",
+          "slug": "shan-king-l08"
+        },
+        "code": {
+          "id": "HK-NTM-L08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L09",
+        "name": {
+          "local": "景興",
+          "en": "King Hing",
+          "slug": "king-hing-l09"
+        },
+        "code": {
+          "id": "HK-NTM-L09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L10",
+        "name": {
+          "local": "興澤",
+          "en": "Hing Tsak",
+          "slug": "hing-tsak-l10"
+        },
+        "code": {
+          "id": "HK-NTM-L10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L11",
+        "name": {
+          "local": "新墟",
+          "en": "San Hui",
+          "slug": "san-hui-l11"
+        },
+        "code": {
+          "id": "HK-NTM-L11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L12",
+        "name": {
+          "local": "掃管笏",
+          "en": "So Kwun Wat",
+          "slug": "so-kwun-wat-l12"
+        },
+        "code": {
+          "id": "HK-NTM-L12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L13",
+        "name": {
+          "local": "三聖",
+          "en": "Sam Shing",
+          "slug": "sam-shing-l13"
+        },
+        "code": {
+          "id": "HK-NTM-L13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L14",
+        "name": {
+          "local": "恒褔",
+          "en": "Hanford",
+          "slug": "hanford-l14"
+        },
+        "code": {
+          "id": "HK-NTM-L14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L15",
+        "name": {
+          "local": "悅湖",
+          "en": "Yuet Wu",
+          "slug": "yuet-wu-l15"
+        },
+        "code": {
+          "id": "HK-NTM-L15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L16",
+        "name": {
+          "local": "兆禧",
+          "en": "Siu Hei",
+          "slug": "siu-hei-l16"
+        },
+        "code": {
+          "id": "HK-NTM-L16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L17",
+        "name": {
+          "local": "湖景",
+          "en": "Wu King",
+          "slug": "wu-king-l17"
+        },
+        "code": {
+          "id": "HK-NTM-L17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L18",
+        "name": {
+          "local": "蝴蝶",
+          "en": "Butterfly",
+          "slug": "butterfly-l18"
+        },
+        "code": {
+          "id": "HK-NTM-L18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L19",
+        "name": {
+          "local": "富新",
+          "en": "Fu Sun",
+          "slug": "fu-sun-l19"
+        },
+        "code": {
+          "id": "HK-NTM-L19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L20",
+        "name": {
+          "local": "樂翠",
+          "en": "Lok Tsui",
+          "slug": "lok-tsui-l20"
+        },
+        "code": {
+          "id": "HK-NTM-L20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L21",
+        "name": {
+          "local": "龍門",
+          "en": "Lung Mun",
+          "slug": "lung-mun-l21"
+        },
+        "code": {
+          "id": "HK-NTM-L21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L22",
+        "name": {
+          "local": "新景",
+          "en": "San King",
+          "slug": "san-king-l22"
+        },
+        "code": {
+          "id": "HK-NTM-L22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L23",
+        "name": {
+          "local": "良景",
+          "en": "Leung King",
+          "slug": "leung-king-l23"
+        },
+        "code": {
+          "id": "HK-NTM-L23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L24",
+        "name": {
+          "local": "田景",
+          "en": "Tin King",
+          "slug": "tin-king-l24"
+        },
+        "code": {
+          "id": "HK-NTM-L24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L25",
+        "name": {
+          "local": "寶田",
+          "en": "Po Tin",
+          "slug": "po-tin-l25"
+        },
+        "code": {
+          "id": "HK-NTM-L25",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L26",
+        "name": {
+          "local": "建生",
+          "en": "Kin Sang",
+          "slug": "kin-sang-l26"
+        },
+        "code": {
+          "id": "HK-NTM-L26",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L27",
+        "name": {
+          "local": "兆康",
+          "en": "Siu Hong",
+          "slug": "siu-hong-l27"
+        },
+        "code": {
+          "id": "HK-NTM-L27",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L28",
+        "name": {
+          "local": "欣田",
+          "en": "Yan Tin",
+          "slug": "yan-tin-l28"
+        },
+        "code": {
+          "id": "HK-NTM-L28",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L29",
+        "name": {
+          "local": "屯門鄉郊",
+          "en": "Tuen Mun Rural",
+          "slug": "tuen-mun-rural-l29"
+        },
+        "code": {
+          "id": "HK-NTM-L29",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L30",
+        "name": {
+          "local": "富泰",
+          "en": "Fu Tai",
+          "slug": "fu-tai-l30"
+        },
+        "code": {
+          "id": "HK-NTM-L30",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NTM-L31",
+        "name": {
+          "local": "景峰",
+          "en": "Prime View",
+          "slug": "prime-view-l31"
+        },
+        "code": {
+          "id": "HK-NTM-L31",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-HWC",
+    "name": {
+      "local": "灣仔",
+      "en": "Wan Chai",
+      "slug": "wan-chai-hwc"
+    },
+    "code": {
+      "id": "HK-HWC",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-HWC-B01",
+        "name": {
+          "local": "軒尼詩",
+          "en": "Hennessy",
+          "slug": "hennessy-b01"
+        },
+        "code": {
+          "id": "HK-HWC-B01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B02",
+        "name": {
+          "local": "愛群",
+          "en": "Oi Kwan",
+          "slug": "oi-kwan-b02"
+        },
+        "code": {
+          "id": "HK-HWC-B02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B03",
+        "name": {
+          "local": "鵝頸",
+          "en": "Canal Road",
+          "slug": "canal-road-b03"
+        },
+        "code": {
+          "id": "HK-HWC-B03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B04",
+        "name": {
+          "local": "銅鑼灣",
+          "en": "Causeway Bay",
+          "slug": "causeway-bay-b04"
+        },
+        "code": {
+          "id": "HK-HWC-B04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B05",
+        "name": {
+          "local": "維園",
+          "en": "Victoria Park",
+          "slug": "victoria-park-b05"
+        },
+        "code": {
+          "id": "HK-HWC-B05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B06",
+        "name": {
+          "local": "天后",
+          "en": "Tin Hau",
+          "slug": "tin-hau-b06"
+        },
+        "code": {
+          "id": "HK-HWC-B06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B07",
+        "name": {
+          "local": "大坑",
+          "en": "Tai Hang",
+          "slug": "tai-hang-b07"
+        },
+        "code": {
+          "id": "HK-HWC-B07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B08",
+        "name": {
+          "local": "渣甸山",
+          "en": "Jardine's Lookout",
+          "slug": "jardines-lookout-b08"
+        },
+        "code": {
+          "id": "HK-HWC-B08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B09",
+        "name": {
+          "local": "樂活",
+          "en": "Broadwood",
+          "slug": "broadwood-b09"
+        },
+        "code": {
+          "id": "HK-HWC-B09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B10",
+        "name": {
+          "local": "跑馬地",
+          "en": "Happy Valley",
+          "slug": "happy-valley-b10"
+        },
+        "code": {
+          "id": "HK-HWC-B10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B11",
+        "name": {
+          "local": "司徒拔道",
+          "en": "Stubbs Road",
+          "slug": "stubbs-road-b11"
+        },
+        "code": {
+          "id": "HK-HWC-B11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B12",
+        "name": {
+          "local": "修頓",
+          "en": "Southorn",
+          "slug": "southorn-b12"
+        },
+        "code": {
+          "id": "HK-HWC-B12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-HWC-B13",
+        "name": {
+          "local": "大佛口",
+          "en": "Tai Fat Hau",
+          "slug": "tai-fat-hau-b13"
+        },
+        "code": {
+          "id": "HK-HWC-B13",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-KWT",
+    "name": {
+      "local": "黃大仙",
+      "en": "Wong Tai Sin",
+      "slug": "wong-tai-sin-kwt"
+    },
+    "code": {
+      "id": "HK-KWT",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-KWT-H01",
+        "name": {
+          "local": "龍趣",
+          "en": "Lung Tsui",
+          "slug": "lung-tsui-h01"
+        },
+        "code": {
+          "id": "HK-KWT-H01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H02",
+        "name": {
+          "local": "龍下",
+          "en": "Lung Ha",
+          "slug": "lung-ha-h02"
+        },
+        "code": {
+          "id": "HK-KWT-H02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H03",
+        "name": {
+          "local": "龍上",
+          "en": "Lung Sheung",
+          "slug": "lung-sheung-h03"
+        },
+        "code": {
+          "id": "HK-KWT-H03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H04",
+        "name": {
+          "local": "鳳凰",
+          "en": "Fung Wong",
+          "slug": "fung-wong-h04"
+        },
+        "code": {
+          "id": "HK-KWT-H04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H05",
+        "name": {
+          "local": "鳳德",
+          "en": "Fung Tak",
+          "slug": "fung-tak-h05"
+        },
+        "code": {
+          "id": "HK-KWT-H05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H06",
+        "name": {
+          "local": "龍星",
+          "en": "Lung Sing",
+          "slug": "lung-sing-h06"
+        },
+        "code": {
+          "id": "HK-KWT-H06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H07",
+        "name": {
+          "local": "新蒲崗",
+          "en": "San Po Kong",
+          "slug": "san-po-kong-h07"
+        },
+        "code": {
+          "id": "HK-KWT-H07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H08",
+        "name": {
+          "local": "東頭",
+          "en": "Tung Tau",
+          "slug": "tung-tau-h08"
+        },
+        "code": {
+          "id": "HK-KWT-H08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H09",
+        "name": {
+          "local": "東美",
+          "en": "Tung Mei",
+          "slug": "tung-mei-h09"
+        },
+        "code": {
+          "id": "HK-KWT-H09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H10",
+        "name": {
+          "local": "樂富",
+          "en": "Lok Fu",
+          "slug": "lok-fu-h10"
+        },
+        "code": {
+          "id": "HK-KWT-H10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H11",
+        "name": {
+          "local": "橫頭磡",
+          "en": "Wang Tau Hom",
+          "slug": "wang-tau-hom-h11"
+        },
+        "code": {
+          "id": "HK-KWT-H11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H12",
+        "name": {
+          "local": "天強",
+          "en": "Tin Keung",
+          "slug": "tin-keung-h12"
+        },
+        "code": {
+          "id": "HK-KWT-H12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H13",
+        "name": {
+          "local": "翠竹及鵬程",
+          "en": "Tsui Chuk & Pang Ching",
+          "slug": "tsui-chuk-pang-ching-h13"
+        },
+        "code": {
+          "id": "HK-KWT-H13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H14",
+        "name": {
+          "local": "竹園南",
+          "en": "Chuk Yuen South",
+          "slug": "chuk-yuen-south-h14"
+        },
+        "code": {
+          "id": "HK-KWT-H14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H15",
+        "name": {
+          "local": "竹園北",
+          "en": "Chuk Yuen North",
+          "slug": "chuk-yuen-north-h15"
+        },
+        "code": {
+          "id": "HK-KWT-H15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H16",
+        "name": {
+          "local": "慈雲西",
+          "en": "Tsz Wan West",
+          "slug": "tsz-wan-west-h16"
+        },
+        "code": {
+          "id": "HK-KWT-H16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H17",
+        "name": {
+          "local": "正愛",
+          "en": "Ching Oi",
+          "slug": "ching-oi-h17"
+        },
+        "code": {
+          "id": "HK-KWT-H17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H18",
+        "name": {
+          "local": "正安",
+          "en": "Ching On",
+          "slug": "ching-on-h18"
+        },
+        "code": {
+          "id": "HK-KWT-H18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H19",
+        "name": {
+          "local": "慈雲東",
+          "en": "Tsz Wan East",
+          "slug": "tsz-wan-east-h19"
+        },
+        "code": {
+          "id": "HK-KWT-H19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H20",
+        "name": {
+          "local": "瓊富",
+          "en": "King Fu",
+          "slug": "king-fu-h20"
+        },
+        "code": {
+          "id": "HK-KWT-H20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H21",
+        "name": {
+          "local": "彩雲東",
+          "en": "Choi Wan East",
+          "slug": "choi-wan-east-h21"
+        },
+        "code": {
+          "id": "HK-KWT-H21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H22",
+        "name": {
+          "local": "彩雲南",
+          "en": "Choi Wan South",
+          "slug": "choi-wan-south-h22"
+        },
+        "code": {
+          "id": "HK-KWT-H22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H23",
+        "name": {
+          "local": "彩雲西",
+          "en": "Choi Wan West",
+          "slug": "choi-wan-west-h23"
+        },
+        "code": {
+          "id": "HK-KWT-H23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H24",
+        "name": {
+          "local": "池彩",
+          "en": "Chi Choi",
+          "slug": "chi-choi-h24"
+        },
+        "code": {
+          "id": "HK-KWT-H24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KWT-H25",
+        "name": {
+          "local": "彩虹",
+          "en": "Choi Hung",
+          "slug": "choi-hung-h25"
+        },
+        "code": {
+          "id": "HK-KWT-H25",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-KYT",
+    "name": {
+      "local": "油尖旺",
+      "en": "Yau Tsim Mong",
+      "slug": "yau-tsim-mong-kyt"
+    },
+    "code": {
+      "id": "HK-KYT",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-KYT-E01",
+        "name": {
+          "local": "尖沙咀西",
+          "en": "Tsim Sha Tsui West",
+          "slug": "tsim-sha-tsui-west-e01"
+        },
+        "code": {
+          "id": "HK-KYT-E01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E02",
+        "name": {
+          "local": "九龍站",
+          "en": "Kowloon Station",
+          "slug": "kowloon-station-e02"
+        },
+        "code": {
+          "id": "HK-KYT-E02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E03",
+        "name": {
+          "local": "佐敦西",
+          "en": "Jordan West",
+          "slug": "jordan-west-e03"
+        },
+        "code": {
+          "id": "HK-KYT-E03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E04",
+        "name": {
+          "local": "油麻地南",
+          "en": "Yau Ma Tei South",
+          "slug": "yau-ma-tei-south-e04"
+        },
+        "code": {
+          "id": "HK-KYT-E04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E05",
+        "name": {
+          "local": "富榮",
+          "en": "Charming",
+          "slug": "charming-e05"
+        },
+        "code": {
+          "id": "HK-KYT-E05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E06",
+        "name": {
+          "local": "旺角西",
+          "en": "Mong Kok West",
+          "slug": "mong-kok-west-e06"
+        },
+        "code": {
+          "id": "HK-KYT-E06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E07",
+        "name": {
+          "local": "富柏",
+          "en": "Fu Pak",
+          "slug": "fu-pak-e07"
+        },
+        "code": {
+          "id": "HK-KYT-E07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E08",
+        "name": {
+          "local": "奧運",
+          "en": "Olympic",
+          "slug": "olympic-e08"
+        },
+        "code": {
+          "id": "HK-KYT-E08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E09",
+        "name": {
+          "local": "櫻桃",
+          "en": "Cherry",
+          "slug": "cherry-e09"
+        },
+        "code": {
+          "id": "HK-KYT-E09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E10",
+        "name": {
+          "local": "大角咀南",
+          "en": "Tai Kok Tsui South",
+          "slug": "tai-kok-tsui-south-e10"
+        },
+        "code": {
+          "id": "HK-KYT-E10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E11",
+        "name": {
+          "local": "大角咀北",
+          "en": "Tai Kok Tsui North",
+          "slug": "tai-kok-tsui-north-e11"
+        },
+        "code": {
+          "id": "HK-KYT-E11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E12",
+        "name": {
+          "local": "大南",
+          "en": "Tai Nan",
+          "slug": "tai-nan-e12"
+        },
+        "code": {
+          "id": "HK-KYT-E12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E13",
+        "name": {
+          "local": "旺角北",
+          "en": "Mong Kok North",
+          "slug": "mong-kok-north-e13"
+        },
+        "code": {
+          "id": "HK-KYT-E13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E14",
+        "name": {
+          "local": "旺角東",
+          "en": "Mong Kok East",
+          "slug": "mong-kok-east-e14"
+        },
+        "code": {
+          "id": "HK-KYT-E14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E15",
+        "name": {
+          "local": "旺角南",
+          "en": "Mong Kok South",
+          "slug": "mong-kok-south-e15"
+        },
+        "code": {
+          "id": "HK-KYT-E15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E16",
+        "name": {
+          "local": "油麻地北",
+          "en": "Yau Ma Tei North",
+          "slug": "yau-ma-tei-north-e16"
+        },
+        "code": {
+          "id": "HK-KYT-E16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E17",
+        "name": {
+          "local": "尖東及京士柏",
+          "en": "East Tsim Sha Tsui & King's Park",
+          "slug": "east-tsim-sha-tsui-kings-park-e17"
+        },
+        "code": {
+          "id": "HK-KYT-E17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E18",
+        "name": {
+          "local": "佐敦北",
+          "en": "Jordan North",
+          "slug": "jordan-north-e18"
+        },
+        "code": {
+          "id": "HK-KYT-E18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E19",
+        "name": {
+          "local": "佐敦南",
+          "en": "Jordan South",
+          "slug": "jordan-south-e19"
+        },
+        "code": {
+          "id": "HK-KYT-E19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-KYT-E20",
+        "name": {
+          "local": "尖沙咀中",
+          "en": "Tsim Sha Tsui Central",
+          "slug": "tsim-sha-tsui-central-e20"
+        },
+        "code": {
+          "id": "HK-KYT-E20",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "HK-NYL",
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    },
+    "code": {
+      "id": "HK-NYL",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "HK-NYL-M01",
+        "name": {
+          "local": "豐年",
+          "en": "Fung Nin",
+          "slug": "fung-nin-m01"
+        },
+        "code": {
+          "id": "HK-NYL-M01",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M02",
+        "name": {
+          "local": "元朗中心",
+          "en": "Yuen Long Centre",
+          "slug": "yuen-long-centre-m02"
+        },
+        "code": {
+          "id": "HK-NYL-M02",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M03",
+        "name": {
+          "local": "鳳翔",
+          "en": "Fung Cheung",
+          "slug": "fung-cheung-m03"
+        },
+        "code": {
+          "id": "HK-NYL-M03",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M04",
+        "name": {
+          "local": "元龍",
+          "en": "Yuen Lung",
+          "slug": "yuen-lung-m04"
+        },
+        "code": {
+          "id": "HK-NYL-M04",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M05",
+        "name": {
+          "local": "十八鄉中",
+          "en": "Shap Pat Heung Central",
+          "slug": "shap-pat-heung-central-m05"
+        },
+        "code": {
+          "id": "HK-NYL-M05",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M06",
+        "name": {
+          "local": "水邊",
+          "en": "Shui Pin",
+          "slug": "shui-pin-m06"
+        },
+        "code": {
+          "id": "HK-NYL-M06",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M07",
+        "name": {
+          "local": "南屏",
+          "en": "Nam Ping",
+          "slug": "nam-ping-m07"
+        },
+        "code": {
+          "id": "HK-NYL-M07",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M08",
+        "name": {
+          "local": "北朗",
+          "en": "Pek Long",
+          "slug": "pek-long-m08"
+        },
+        "code": {
+          "id": "HK-NYL-M08",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M09",
+        "name": {
+          "local": "元朗東頭",
+          "en": "Yuen Long Tung Tau",
+          "slug": "yuen-long-tung-tau-m09"
+        },
+        "code": {
+          "id": "HK-NYL-M09",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M10",
+        "name": {
+          "local": "十八鄉北",
+          "en": "Shap Pat Heung North",
+          "slug": "shap-pat-heung-north-m10"
+        },
+        "code": {
+          "id": "HK-NYL-M10",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M11",
+        "name": {
+          "local": "十八鄉東",
+          "en": "Shap Pat Heung East",
+          "slug": "shap-pat-heung-east-m11"
+        },
+        "code": {
+          "id": "HK-NYL-M11",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M12",
+        "name": {
+          "local": "十八鄉西",
+          "en": "Shap Pat Heung West",
+          "slug": "shap-pat-heung-west-m12"
+        },
+        "code": {
+          "id": "HK-NYL-M12",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M13",
+        "name": {
+          "local": "屏山南",
+          "en": "Ping Shan South",
+          "slug": "ping-shan-south-m13"
+        },
+        "code": {
+          "id": "HK-NYL-M13",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M14",
+        "name": {
+          "local": "洪福",
+          "en": "Hung Fuk",
+          "slug": "hung-fuk-m14"
+        },
+        "code": {
+          "id": "HK-NYL-M14",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M15",
+        "name": {
+          "local": "廈村",
+          "en": "Ha Tsuen",
+          "slug": "ha-tsuen-m15"
+        },
+        "code": {
+          "id": "HK-NYL-M15",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M16",
+        "name": {
+          "local": "屏山中",
+          "en": "Ping Shan Central",
+          "slug": "ping-shan-central-m16"
+        },
+        "code": {
+          "id": "HK-NYL-M16",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M17",
+        "name": {
+          "local": "盛欣",
+          "en": "Shing Yan",
+          "slug": "shing-yan-m17"
+        },
+        "code": {
+          "id": "HK-NYL-M17",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M18",
+        "name": {
+          "local": "天盛",
+          "en": "Tin Shing",
+          "slug": "tin-shing-m18"
+        },
+        "code": {
+          "id": "HK-NYL-M18",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M19",
+        "name": {
+          "local": "天耀",
+          "en": "Tin Yiu",
+          "slug": "tin-yiu-m19"
+        },
+        "code": {
+          "id": "HK-NYL-M19",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M20",
+        "name": {
+          "local": "耀祐",
+          "en": "Yiu Yau",
+          "slug": "yiu-yau-m20"
+        },
+        "code": {
+          "id": "HK-NYL-M20",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M21",
+        "name": {
+          "local": "慈祐",
+          "en": "Tsz Yau",
+          "slug": "tsz-yau-m21"
+        },
+        "code": {
+          "id": "HK-NYL-M21",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M22",
+        "name": {
+          "local": "嘉湖南",
+          "en": "Kingswood South",
+          "slug": "kingswood-south-m22"
+        },
+        "code": {
+          "id": "HK-NYL-M22",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M23",
+        "name": {
+          "local": "瑞愛",
+          "en": "Shui Oi",
+          "slug": "shui-oi-m23"
+        },
+        "code": {
+          "id": "HK-NYL-M23",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M24",
+        "name": {
+          "local": "瑞華",
+          "en": "Shui Wah",
+          "slug": "shui-wah-m24"
+        },
+        "code": {
+          "id": "HK-NYL-M24",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M25",
+        "name": {
+          "local": "頌華",
+          "en": "Chung Wah",
+          "slug": "chung-wah-m25"
+        },
+        "code": {
+          "id": "HK-NYL-M25",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M26",
+        "name": {
+          "local": "頌栢",
+          "en": "Chung Pak",
+          "slug": "chung-pak-m26"
+        },
+        "code": {
+          "id": "HK-NYL-M26",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M27",
+        "name": {
+          "local": "嘉湖北",
+          "en": "Kingswood North",
+          "slug": "kingswood-north-m27"
+        },
+        "code": {
+          "id": "HK-NYL-M27",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M28",
+        "name": {
+          "local": "悅恩",
+          "en": "Yuet Yan",
+          "slug": "yuet-yan-m28"
+        },
+        "code": {
+          "id": "HK-NYL-M28",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M29",
+        "name": {
+          "local": "晴景",
+          "en": "Ching King",
+          "slug": "ching-king-m29"
+        },
+        "code": {
+          "id": "HK-NYL-M29",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M30",
+        "name": {
+          "local": "富恩",
+          "en": "Fu Yan",
+          "slug": "fu-yan-m30"
+        },
+        "code": {
+          "id": "HK-NYL-M30",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M31",
+        "name": {
+          "local": "逸澤",
+          "en": "Yat Chak",
+          "slug": "yat-chak-m31"
+        },
+        "code": {
+          "id": "HK-NYL-M31",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M32",
+        "name": {
+          "local": "天恒",
+          "en": "Tin Heng",
+          "slug": "tin-heng-m32"
+        },
+        "code": {
+          "id": "HK-NYL-M32",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M33",
+        "name": {
+          "local": "宏逸",
+          "en": "Wang Yat",
+          "slug": "wang-yat-m33"
+        },
+        "code": {
+          "id": "HK-NYL-M33",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M34",
+        "name": {
+          "local": "屏山北",
+          "en": "Ping Shan North",
+          "slug": "ping-shan-north-m34"
+        },
+        "code": {
+          "id": "HK-NYL-M34",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M35",
+        "name": {
+          "local": "錦綉花園",
+          "en": "Fairview Park",
+          "slug": "fairview-park-m35"
+        },
+        "code": {
+          "id": "HK-NYL-M35",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M36",
+        "name": {
+          "local": "新田",
+          "en": "San Tin",
+          "slug": "san-tin-m36"
+        },
+        "code": {
+          "id": "HK-NYL-M36",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M37",
+        "name": {
+          "local": "錦田",
+          "en": "Kam Tin",
+          "slug": "kam-tin-m37"
+        },
+        "code": {
+          "id": "HK-NYL-M37",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M38",
+        "name": {
+          "local": "八鄉北",
+          "en": "Pat Heung North",
+          "slug": "pat-heung-north-m38"
+        },
+        "code": {
+          "id": "HK-NYL-M38",
+          "iso": null
+        }
+      },
+      {
+        "id": "HK-NYL-M39",
+        "name": {
+          "local": "八鄉南",
+          "en": "Pat Heung South",
+          "slug": "pat-heung-south-m39"
+        },
+        "code": {
+          "id": "HK-NYL-M39",
+          "iso": null
+        }
+      }
+    ]
+  }
+]

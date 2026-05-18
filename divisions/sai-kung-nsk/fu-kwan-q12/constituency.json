@@ -1,0 +1,45 @@
+{
+  "id": "HK-NSK-Q12",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "富君",
+    "en": "Fu Kwan",
+    "slug": "fu-kwan-q12"
+  },
+  "code": {
+    "id": "HK-NSK-Q12",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NSK",
+    "level": 1,
+    "name": {
+      "local": "西貢區",
+      "en": "Sai Kung",
+      "slug": "sai-kung-nsk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.309",
+    "lon": "114.261"
+  },
+  "metadata": {},
+  "source": {}
+}

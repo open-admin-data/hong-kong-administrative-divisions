@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M09",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "元朗東頭",
+    "en": "Yuen Long Tung Tau",
+    "slug": "yuen-long-tung-tau-m09"
+  },
+  "code": {
+    "id": "HK-NYL-M09",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.449",
+    "lon": "114.031"
+  },
+  "metadata": {},
+  "source": {}
+}

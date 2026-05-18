@@ -1,0 +1,45 @@
+{
+  "id": "HK-HCW-A15",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "水街",
+    "en": "Water Street",
+    "slug": "water-street-a15"
+  },
+  "code": {
+    "id": "HK-HCW-A15",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HCW",
+    "level": 1,
+    "name": {
+      "local": "中西區",
+      "en": "Central and Western",
+      "slug": "central-and-western-hcw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.285",
+    "lon": "114.137"
+  },
+  "metadata": {},
+  "source": {}
+}

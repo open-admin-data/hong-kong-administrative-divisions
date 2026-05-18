@@ -1,0 +1,45 @@
+{
+  "id": "HK-HCW-A11",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "西營盤",
+    "en": "Sai Ying Pun",
+    "slug": "sai-ying-pun-a11"
+  },
+  "code": {
+    "id": "HK-HCW-A11",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HCW",
+    "level": 1,
+    "name": {
+      "local": "中西區",
+      "en": "Central and Western",
+      "slug": "central-and-western-hcw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.289",
+    "lon": "114.141"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTP-P07",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "富明新",
+    "en": "Fu Ming Sun",
+    "slug": "fu-ming-sun-p07"
+  },
+  "code": {
+    "id": "HK-NTP-P07",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTP",
+    "level": 1,
+    "name": {
+      "local": "大埔",
+      "en": "Tai Po",
+      "slug": "tai-po-ntp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.451",
+    "lon": "114.175"
+  },
+  "metadata": {},
+  "source": {}
+}

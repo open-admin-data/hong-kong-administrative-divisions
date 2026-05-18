@@ -1,0 +1,45 @@
+{
+  "id": "HK-HWC-B03",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "鵝頸",
+    "en": "Canal Road",
+    "slug": "canal-road-b03"
+  },
+  "code": {
+    "id": "HK-HWC-B03",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HWC",
+    "level": 1,
+    "name": {
+      "local": "灣仔",
+      "en": "Wan Chai",
+      "slug": "wan-chai-hwc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.28",
+    "lon": "114.182"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-NIS-T03",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "逸東邨北",
+    "en": "Yat Tung Estate North",
+    "slug": "yat-tung-estate-north-t03"
+  },
+  "code": {
+    "id": "HK-NIS-T03",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NIS",
+    "level": 1,
+    "name": {
+      "local": "離島",
+      "en": "Islands",
+      "slug": "islands-nis"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NIS",
+      "level": 1,
+      "name": {
+        "local": "離島",
+        "en": "Islands",
+        "slug": "islands-nis"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.282",
+    "lon": "113.936"
+  },
+  "metadata": {},
+  "source": {}
+}

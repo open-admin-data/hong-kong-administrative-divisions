@@ -1,0 +1,45 @@
+{
+  "id": "HK-NNO-N18",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "皇后山",
+    "en": "Queen's Hill",
+    "slug": "queens-hill-n18"
+  },
+  "code": {
+    "id": "HK-NNO-N18",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NNO",
+    "level": 1,
+    "name": {
+      "local": "北區",
+      "en": "North",
+      "slug": "north-nno"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.503",
+    "lon": "114.16"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M30",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "富恩",
+    "en": "Fu Yan",
+    "slug": "fu-yan-m30"
+  },
+  "code": {
+    "id": "HK-NYL-M30",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.464",
+    "lon": "113.999"
+  },
+  "metadata": {},
+  "source": {}
+}

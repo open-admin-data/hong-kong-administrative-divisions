@@ -1,0 +1,45 @@
+{
+  "id": "HK-NSK-Q09",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "維景",
+    "en": "Wai King",
+    "slug": "wai-king-q09"
+  },
+  "code": {
+    "id": "HK-NSK-Q09",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NSK",
+    "level": 1,
+    "name": {
+      "local": "西貢區",
+      "en": "Sai Kung",
+      "slug": "sai-kung-nsk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.296",
+    "lon": "114.248"
+  },
+  "metadata": {},
+  "source": {}
+}

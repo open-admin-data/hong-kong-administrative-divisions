@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKC-G07",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "何文田",
+    "en": "Ho Man Tin",
+    "slug": "ho-man-tin-g07"
+  },
+  "code": {
+    "id": "HK-KKC-G07",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKC",
+    "level": 1,
+    "name": {
+      "local": "九龍城",
+      "en": "Kowloon City",
+      "slug": "kowloon-city-kkc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.32",
+    "lon": "114.184"
+  },
+  "metadata": {},
+  "source": {}
+}

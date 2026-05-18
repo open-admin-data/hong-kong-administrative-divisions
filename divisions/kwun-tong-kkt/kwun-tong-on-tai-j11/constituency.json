@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J11",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "觀塘安泰",
+    "en": "Kwun Tong On Tai",
+    "slug": "kwun-tong-on-tai-j11"
+  },
+  "code": {
+    "id": "HK-KKT-J11",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.327",
+    "lon": "114.23"
+  },
+  "metadata": {},
+  "source": {}
+}

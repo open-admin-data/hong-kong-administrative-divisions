@@ -1,0 +1,45 @@
+{
+  "id": "HK-NSK-Q25",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "德明",
+    "en": "Tak Ming",
+    "slug": "tak-ming-q25"
+  },
+  "code": {
+    "id": "HK-NSK-Q25",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NSK",
+    "level": 1,
+    "name": {
+      "local": "西貢區",
+      "en": "Sai Kung",
+      "slug": "sai-kung-nsk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.315",
+    "lon": "114.267"
+  },
+  "metadata": {},
+  "source": {}
+}

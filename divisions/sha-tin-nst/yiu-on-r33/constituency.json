@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R33",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "耀安",
+    "en": "Yiu On",
+    "slug": "yiu-on-r33"
+  },
+  "code": {
+    "id": "HK-NST-R33",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.419",
+    "lon": "114.231"
+  },
+  "metadata": {},
+  "source": {}
+}

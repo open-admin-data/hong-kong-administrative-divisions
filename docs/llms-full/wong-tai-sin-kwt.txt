@@ -1,0 +1,134 @@
+# Wong Tai Sin — Hong Kong Administrative Divisions
+
+> 25 constituencys
+> Code: HK-KWT
+> Coordinates: 22.343, 114.193
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 池彩 (Chi Choi)
+
+Code: HK-KWT-H24, Coordinates: 22.339, 114.21
+
+
+### 正愛 (Ching Oi)
+
+Code: HK-KWT-H17, Coordinates: 22.353, 114.196
+
+
+### 正安 (Ching On)
+
+Code: HK-KWT-H18, Coordinates: 22.354, 114.212
+
+
+### 彩虹 (Choi Hung)
+
+Code: HK-KWT-H25, Coordinates: 22.335, 114.206
+
+
+### 彩雲東 (Choi Wan East)
+
+Code: HK-KWT-H21, Coordinates: 22.335, 114.217
+
+
+### 彩雲南 (Choi Wan South)
+
+Code: HK-KWT-H22, Coordinates: 22.334, 114.216
+
+
+### 彩雲西 (Choi Wan West)
+
+Code: HK-KWT-H23, Coordinates: 22.335, 114.213
+
+
+### 竹園北 (Chuk Yuen North)
+
+Code: HK-KWT-H15, Coordinates: 22.348, 114.193
+
+
+### 竹園南 (Chuk Yuen South)
+
+Code: HK-KWT-H14, Coordinates: 22.344, 114.192
+
+
+### 鳳德 (Fung Tak)
+
+Code: HK-KWT-H05, Coordinates: 22.345, 114.201
+
+
+### 鳳凰 (Fung Wong)
+
+Code: HK-KWT-H04, Coordinates: 22.344, 114.198
+
+
+### 瓊富 (King Fu)
+
+Code: HK-KWT-H20, Coordinates: 22.341, 114.211
+
+
+### 樂富 (Lok Fu)
+
+Code: HK-KWT-H10, Coordinates: 22.336, 114.189
+
+
+### 龍下 (Lung Ha)
+
+Code: HK-KWT-H02, Coordinates: 22.337, 114.196
+
+
+### 龍上 (Lung Sheung)
+
+Code: HK-KWT-H03, Coordinates: 22.342, 114.191
+
+
+### 龍星 (Lung Sing)
+
+Code: HK-KWT-H06, Coordinates: 22.34, 114.202
+
+
+### 龍趣 (Lung Tsui)
+
+Code: HK-KWT-H01, Coordinates: 22.341, 114.197
+
+
+### 新蒲崗 (San Po Kong)
+
+Code: HK-KWT-H07, Coordinates: 22.336, 114.199
+
+
+### 天強 (Tin Keung)
+
+Code: HK-KWT-H12, Coordinates: 22.342, 114.186
+
+
+### 翠竹及鵬程 (Tsui Chuk &amp; Pang Ching)
+
+Code: HK-KWT-H13, Coordinates: 22.348, 114.186
+
+
+### 慈雲東 (Tsz Wan East)
+
+Code: HK-KWT-H19, Coordinates: 22.347, 114.203
+
+
+### 慈雲西 (Tsz Wan West)
+
+Code: HK-KWT-H16, Coordinates: 22.347, 114.199
+
+
+### 東美 (Tung Mei)
+
+Code: HK-KWT-H09, Coordinates: 22.335, 114.19
+
+
+### 東頭 (Tung Tau)
+
+Code: HK-KWT-H08, Coordinates: 22.334, 114.195
+
+
+### 橫頭磡 (Wang Tau Hom)
+
+Code: HK-KWT-H11, Coordinates: 22.341, 114.188
+
+

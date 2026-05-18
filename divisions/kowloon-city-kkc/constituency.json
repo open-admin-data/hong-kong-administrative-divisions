@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "HK-KKC-G07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "何文田",
+      "en": "Ho Man Tin",
+      "slug": "ho-man-tin-g07"
+    },
+    "code": {
+      "id": "HK-KKC-G07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.32",
+      "lon": "114.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "海心",
+      "en": "Hoi Sham",
+      "slug": "hoi-sham-g15"
+    },
+    "code": {
+      "id": "HK-KKC-G15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.316",
+      "lon": "114.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "鶴園海逸",
+      "en": "Hok Yuen Laguna Verde",
+      "slug": "hok-yuen-laguna-verde-g18"
+    },
+    "code": {
+      "id": "HK-KKC-G18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.31",
+      "lon": "114.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G22",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "紅磡",
+      "en": "Hung Hom",
+      "slug": "hung-hom-g22"
+    },
+    "code": {
+      "id": "HK-KKC-G22",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.308",
+      "lon": "114.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G21",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "紅磡灣",
+      "en": "Hung Hom Bay",
+      "slug": "hung-hom-bay-g21"
+    },
+    "code": {
+      "id": "HK-KKC-G21",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.305",
+      "lon": "114.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G23",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "家維",
+      "en": "Ka Wai",
+      "slug": "ka-wai-g23"
+    },
+    "code": {
+      "id": "HK-KKC-G23",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.309",
+      "lon": "114.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "嘉道理",
+      "en": "Kadoorie",
+      "slug": "kadoorie-g08"
+    },
+    "code": {
+      "id": "HK-KKC-G08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.323",
+      "lon": "114.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "啟德中及南",
+      "en": "Kai Tak Central & South",
+      "slug": "kai-tak-central-south-g14"
+    },
+    "code": {
+      "id": "HK-KKC-G14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.324",
+      "lon": "114.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "啟德東",
+      "en": "Kai Tak East",
+      "slug": "kai-tak-east-g13"
+    },
+    "code": {
+      "id": "HK-KKC-G13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.33",
+      "lon": "114.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "啟德北",
+      "en": "Kai Tak North",
+      "slug": "kai-tak-north-g12"
+    },
+    "code": {
+      "id": "HK-KKC-G12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.333",
+      "lon": "114.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "九龍塘",
+      "en": "Kowloon Tong",
+      "slug": "kowloon-tong-g10"
+    },
+    "code": {
+      "id": "HK-KKC-G10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.341",
+      "lon": "114.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "樂民",
+      "en": "Lok Man",
+      "slug": "lok-man-g05"
+    },
+    "code": {
+      "id": "HK-KKC-G05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.319",
+      "lon": "114.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "龍城",
+      "en": "Lung Shing",
+      "slug": "lung-shing-g11"
+    },
+    "code": {
+      "id": "HK-KKC-G11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.331",
+      "lon": "114.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "馬坑涌",
+      "en": "Ma Hang Chung",
+      "slug": "ma-hang-chung-g03"
+    },
+    "code": {
+      "id": "HK-KKC-G03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.32",
+      "lon": "114.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "馬頭角",
+      "en": "Ma Tau Kok",
+      "slug": "ma-tau-kok-g04"
+    },
+    "code": {
+      "id": "HK-KKC-G04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.319",
+      "lon": "114.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "馬頭圍",
+      "en": "Ma Tau Wai",
+      "slug": "ma-tau-wai-g01"
+    },
+    "code": {
+      "id": "HK-KKC-G01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.324",
+      "lon": "114.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G25",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "愛俊",
+      "en": "Oi Chun",
+      "slug": "oi-chun-g25"
+    },
+    "code": {
+      "id": "HK-KKC-G25",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.314",
+      "lon": "114.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G24",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "愛民",
+      "en": "Oi Man",
+      "slug": "oi-man-g24"
+    },
+    "code": {
+      "id": "HK-KKC-G24",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.312",
+      "lon": "114.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "太子",
+      "en": "Prince",
+      "slug": "prince-g09"
+    },
+    "code": {
+      "id": "HK-KKC-G09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.328",
+      "lon": "114.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "常樂",
+      "en": "Sheung Lok",
+      "slug": "sheung-lok-g06"
+    },
+    "code": {
+      "id": "HK-KKC-G06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.318",
+      "lon": "114.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "宋皇臺",
+      "en": "Sung Wong Toi",
+      "slug": "sung-wong-toi-g02"
+    },
+    "code": {
+      "id": "HK-KKC-G02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.323",
+      "lon": "114.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "土瓜灣北",
+      "en": "To Kwa Wan North",
+      "slug": "to-kwa-wan-north-g16"
+    },
+    "code": {
+      "id": "HK-KKC-G16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.315",
+      "lon": "114.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "土瓜灣南",
+      "en": "To Kwa Wan South",
+      "slug": "to-kwa-wan-south-g17"
+    },
+    "code": {
+      "id": "HK-KKC-G17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.313",
+      "lon": "114.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "黃埔東",
+      "en": "Whampoa East",
+      "slug": "whampoa-east-g19"
+    },
+    "code": {
+      "id": "HK-KKC-G19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.302",
+      "lon": "114.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKC-G20",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "黃埔西",
+      "en": "Whampoa West",
+      "slug": "whampoa-west-g20"
+    },
+    "code": {
+      "id": "HK-KKC-G20",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKC",
+        "level": 1,
+        "name": {
+          "local": "九龍城",
+          "en": "Kowloon City",
+          "slug": "kowloon-city-kkc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.302",
+      "lon": "114.187"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

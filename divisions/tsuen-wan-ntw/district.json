@@ -1,0 +1,29 @@
+{
+  "id": "HK-NTW",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "荃灣",
+    "en": "Tsuen Wan",
+    "slug": "tsuen-wan-ntw"
+  },
+  "code": {
+    "id": "HK-NTW",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.379",
+    "lon": "114.106"
+  },
+  "metadata": {},
+  "source": {}
+}

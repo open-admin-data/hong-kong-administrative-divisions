@@ -1,0 +1,45 @@
+{
+  "id": "HK-NKT-S07",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "葵涌邨北",
+    "en": "Kwai Chung Estate North",
+    "slug": "kwai-chung-estate-north-s07"
+  },
+  "code": {
+    "id": "HK-NKT-S07",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NKT",
+    "level": 1,
+    "name": {
+      "local": "葵青",
+      "en": "Kwai Tsing",
+      "slug": "kwai-tsing-nkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.369",
+    "lon": "114.13"
+  },
+  "metadata": {},
+  "source": {}
+}

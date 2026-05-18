@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J21",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "栢雅",
+    "en": "Pak Nga",
+    "slug": "pak-nga-j21"
+  },
+  "code": {
+    "id": "HK-KKT-J21",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.303",
+    "lon": "114.239"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "HK-NYL-M29",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "晴景",
+      "en": "Ching King",
+      "slug": "ching-king-m29"
+    },
+    "code": {
+      "id": "HK-NYL-M29",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.464",
+      "lon": "114.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M26",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "頌栢",
+      "en": "Chung Pak",
+      "slug": "chung-pak-m26"
+    },
+    "code": {
+      "id": "HK-NYL-M26",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.459",
+      "lon": "114.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M25",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "頌華",
+      "en": "Chung Wah",
+      "slug": "chung-wah-m25"
+    },
+    "code": {
+      "id": "HK-NYL-M25",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.461",
+      "lon": "113.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M35",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "錦綉花園",
+      "en": "Fairview Park",
+      "slug": "fairview-park-m35"
+    },
+    "code": {
+      "id": "HK-NYL-M35",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.483",
+      "lon": "114.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M30",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富恩",
+      "en": "Fu Yan",
+      "slug": "fu-yan-m30"
+    },
+    "code": {
+      "id": "HK-NYL-M30",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.464",
+      "lon": "113.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "鳳翔",
+      "en": "Fung Cheung",
+      "slug": "fung-cheung-m03"
+    },
+    "code": {
+      "id": "HK-NYL-M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.44",
+      "lon": "114.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "豐年",
+      "en": "Fung Nin",
+      "slug": "fung-nin-m01"
+    },
+    "code": {
+      "id": "HK-NYL-M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.441",
+      "lon": "114.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "廈村",
+      "en": "Ha Tsuen",
+      "slug": "ha-tsuen-m15"
+    },
+    "code": {
+      "id": "HK-NYL-M15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.434",
+      "lon": "113.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "洪福",
+      "en": "Hung Fuk",
+      "slug": "hung-fuk-m14"
+    },
+    "code": {
+      "id": "HK-NYL-M14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.437",
+      "lon": "113.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M37",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "錦田",
+      "en": "Kam Tin",
+      "slug": "kam-tin-m37"
+    },
+    "code": {
+      "id": "HK-NYL-M37",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.447",
+      "lon": "114.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M27",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "嘉湖北",
+      "en": "Kingswood North",
+      "slug": "kingswood-north-m27"
+    },
+    "code": {
+      "id": "HK-NYL-M27",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.459",
+      "lon": "114.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M22",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "嘉湖南",
+      "en": "Kingswood South",
+      "slug": "kingswood-south-m22"
+    },
+    "code": {
+      "id": "HK-NYL-M22",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.456",
+      "lon": "114.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "南屏",
+      "en": "Nam Ping",
+      "slug": "nam-ping-m07"
+    },
+    "code": {
+      "id": "HK-NYL-M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.449",
+      "lon": "114.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M38",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "八鄉北",
+      "en": "Pat Heung North",
+      "slug": "pat-heung-north-m38"
+    },
+    "code": {
+      "id": "HK-NYL-M38",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.439",
+      "lon": "114.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M39",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "八鄉南",
+      "en": "Pat Heung South",
+      "slug": "pat-heung-south-m39"
+    },
+    "code": {
+      "id": "HK-NYL-M39",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.425",
+      "lon": "114.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "北朗",
+      "en": "Pek Long",
+      "slug": "pek-long-m08"
+    },
+    "code": {
+      "id": "HK-NYL-M08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.451",
+      "lon": "114.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "屏山中",
+      "en": "Ping Shan Central",
+      "slug": "ping-shan-central-m16"
+    },
+    "code": {
+      "id": "HK-NYL-M16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.449",
+      "lon": "114.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M34",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "屏山北",
+      "en": "Ping Shan North",
+      "slug": "ping-shan-north-m34"
+    },
+    "code": {
+      "id": "HK-NYL-M34",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.465",
+      "lon": "114.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "屏山南",
+      "en": "Ping Shan South",
+      "slug": "ping-shan-south-m13"
+    },
+    "code": {
+      "id": "HK-NYL-M13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.432",
+      "lon": "114.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M36",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "新田",
+      "en": "San Tin",
+      "slug": "san-tin-m36"
+    },
+    "code": {
+      "id": "HK-NYL-M36",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.481",
+      "lon": "114.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "十八鄉中",
+      "en": "Shap Pat Heung Central",
+      "slug": "shap-pat-heung-central-m05"
+    },
+    "code": {
+      "id": "HK-NYL-M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.436",
+      "lon": "114.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "十八鄉東",
+      "en": "Shap Pat Heung East",
+      "slug": "shap-pat-heung-east-m11"
+    },
+    "code": {
+      "id": "HK-NYL-M11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.43",
+      "lon": "114.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "十八鄉北",
+      "en": "Shap Pat Heung North",
+      "slug": "shap-pat-heung-north-m10"
+    },
+    "code": {
+      "id": "HK-NYL-M10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.449",
+      "lon": "114.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "十八鄉西",
+      "en": "Shap Pat Heung West",
+      "slug": "shap-pat-heung-west-m12"
+    },
+    "code": {
+      "id": "HK-NYL-M12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.422",
+      "lon": "114.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "盛欣",
+      "en": "Shing Yan",
+      "slug": "shing-yan-m17"
+    },
+    "code": {
+      "id": "HK-NYL-M17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.447",
+      "lon": "114.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M23",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "瑞愛",
+      "en": "Shui Oi",
+      "slug": "shui-oi-m23"
+    },
+    "code": {
+      "id": "HK-NYL-M23",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.456",
+      "lon": "113.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "水邊",
+      "en": "Shui Pin",
+      "slug": "shui-pin-m06"
+    },
+    "code": {
+      "id": "HK-NYL-M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.441",
+      "lon": "114.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M24",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "瑞華",
+      "en": "Shui Wah",
+      "slug": "shui-wah-m24"
+    },
+    "code": {
+      "id": "HK-NYL-M24",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.459",
+      "lon": "113.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M32",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "天恒",
+      "en": "Tin Heng",
+      "slug": "tin-heng-m32"
+    },
+    "code": {
+      "id": "HK-NYL-M32",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.472",
+      "lon": "114.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "天盛",
+      "en": "Tin Shing",
+      "slug": "tin-shing-m18"
+    },
+    "code": {
+      "id": "HK-NYL-M18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.447",
+      "lon": "114.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "天耀",
+      "en": "Tin Yiu",
+      "slug": "tin-yiu-m19"
+    },
+    "code": {
+      "id": "HK-NYL-M19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.45",
+      "lon": "114.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M21",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "慈祐",
+      "en": "Tsz Yau",
+      "slug": "tsz-yau-m21"
+    },
+    "code": {
+      "id": "HK-NYL-M21",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.453",
+      "lon": "114.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M33",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "宏逸",
+      "en": "Wang Yat",
+      "slug": "wang-yat-m33"
+    },
+    "code": {
+      "id": "HK-NYL-M33",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.467",
+      "lon": "114.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M31",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "逸澤",
+      "en": "Yat Chak",
+      "slug": "yat-chak-m31"
+    },
+    "code": {
+      "id": "HK-NYL-M31",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.467",
+      "lon": "113.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M20",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "耀祐",
+      "en": "Yiu Yau",
+      "slug": "yiu-yau-m20"
+    },
+    "code": {
+      "id": "HK-NYL-M20",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.452",
+      "lon": "114.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "元朗中心",
+      "en": "Yuen Long Centre",
+      "slug": "yuen-long-centre-m02"
+    },
+    "code": {
+      "id": "HK-NYL-M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.446",
+      "lon": "114.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "元朗東頭",
+      "en": "Yuen Long Tung Tau",
+      "slug": "yuen-long-tung-tau-m09"
+    },
+    "code": {
+      "id": "HK-NYL-M09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.449",
+      "lon": "114.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "元龍",
+      "en": "Yuen Lung",
+      "slug": "yuen-lung-m04"
+    },
+    "code": {
+      "id": "HK-NYL-M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.444",
+      "lon": "114.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NYL-M28",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "悅恩",
+      "en": "Yuet Yan",
+      "slug": "yuet-yan-m28"
+    },
+    "code": {
+      "id": "HK-NYL-M28",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NYL",
+        "level": 1,
+        "name": {
+          "local": "元朗",
+          "en": "Yuen Long",
+          "slug": "yuen-long-nyl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.463",
+      "lon": "113.999"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

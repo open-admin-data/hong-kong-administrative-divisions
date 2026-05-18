@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J09",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "雙順",
+    "en": "Sheung Shun",
+    "slug": "sheung-shun-j09"
+  },
+  "code": {
+    "id": "HK-KKT-J09",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.333",
+    "lon": "114.225"
+  },
+  "metadata": {},
+  "source": {}
+}

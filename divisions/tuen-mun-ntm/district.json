@@ -1,0 +1,29 @@
+{
+  "id": "HK-NTM",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "屯門",
+    "en": "Tuen Mun",
+    "slug": "tuen-mun-ntm"
+  },
+  "code": {
+    "id": "HK-NTM",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.392",
+    "lon": "113.968"
+  },
+  "metadata": {},
+  "source": {}
+}

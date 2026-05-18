@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTM-L15",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "悅湖",
+    "en": "Yuet Wu",
+    "slug": "yuet-wu-l15"
+  },
+  "code": {
+    "id": "HK-NTM-L15",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTM",
+    "level": 1,
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.376",
+    "lon": "113.969"
+  },
+  "metadata": {},
+  "source": {}
+}

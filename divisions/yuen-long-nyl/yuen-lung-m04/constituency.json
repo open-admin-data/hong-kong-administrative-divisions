@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M04",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "元龍",
+    "en": "Yuen Lung",
+    "slug": "yuen-lung-m04"
+  },
+  "code": {
+    "id": "HK-NYL-M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.444",
+    "lon": "114.036"
+  },
+  "metadata": {},
+  "source": {}
+}

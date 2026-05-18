@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKC-G19",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "黃埔東",
+    "en": "Whampoa East",
+    "slug": "whampoa-east-g19"
+  },
+  "code": {
+    "id": "HK-KKC-G19",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKC",
+    "level": 1,
+    "name": {
+      "local": "九龍城",
+      "en": "Kowloon City",
+      "slug": "kowloon-city-kkc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.302",
+    "lon": "114.189"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTP-P03",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "大埔中",
+    "en": "Tai Po Central",
+    "slug": "tai-po-central-p03"
+  },
+  "code": {
+    "id": "HK-NTP-P03",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTP",
+    "level": 1,
+    "name": {
+      "local": "大埔",
+      "en": "Tai Po",
+      "slug": "tai-po-ntp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.453",
+    "lon": "114.171"
+  },
+  "metadata": {},
+  "source": {}
+}

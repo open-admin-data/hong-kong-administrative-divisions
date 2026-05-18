@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "HK-KKT-J06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "彩德",
+      "en": "Choi Tak",
+      "slug": "choi-tak-j06"
+    },
+    "code": {
+      "id": "HK-KKT-J06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.331",
+      "lon": "114.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J22",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "俊翔",
+      "en": "Chun Cheung",
+      "slug": "chun-cheung-j22"
+    },
+    "code": {
+      "id": "HK-KKT-J22",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.299",
+      "lon": "114.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "興田",
+      "en": "Hing Tin",
+      "slug": "hing-tin-j18"
+    },
+    "code": {
+      "id": "HK-KKT-J18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.311",
+      "lon": "114.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J33",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "協康",
+      "en": "Hip Hong",
+      "slug": "hip-hong-j33"
+    },
+    "code": {
+      "id": "HK-KKT-J33",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.32",
+      "lon": "114.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J30",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "曉麗",
+      "en": "Hiu Lai",
+      "slug": "hiu-lai-j30"
+    },
+    "code": {
+      "id": "HK-KKT-J30",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.317",
+      "lon": "114.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J36",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "康樂",
+      "en": "Hong Lok",
+      "slug": "hong-lok-j36"
+    },
+    "code": {
+      "id": "HK-KKT-J36",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.318",
+      "lon": "114.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "佐敦谷",
+      "en": "Jordan Valley",
+      "slug": "jordan-valley-j07"
+    },
+    "code": {
+      "id": "HK-KKT-J07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.327",
+      "lon": "114.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "啟業",
+      "en": "Kai Yip",
+      "slug": "kai-yip-j03"
+    },
+    "code": {
+      "id": "HK-KKT-J03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.329",
+      "lon": "114.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J28",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "景田",
+      "en": "King Tin",
+      "slug": "king-tin-j28"
+    },
+    "code": {
+      "id": "HK-KKT-J28",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.309",
+      "lon": "114.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "九龍灣",
+      "en": "Kowloon Bay",
+      "slug": "kowloon-bay-j02"
+    },
+    "code": {
+      "id": "HK-KKT-J02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.323",
+      "lon": "114.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "廣德",
+      "en": "Kwong Tak",
+      "slug": "kwong-tak-j17"
+    },
+    "code": {
+      "id": "HK-KKT-J17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.309",
+      "lon": "114.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "觀塘中心",
+      "en": "Kwun Tong Central",
+      "slug": "kwun-tong-central-j01"
+    },
+    "code": {
+      "id": "HK-KKT-J01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.314",
+      "lon": "114.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "觀塘安泰",
+      "en": "Kwun Tong On Tai",
+      "slug": "kwun-tong-on-tai-j11"
+    },
+    "code": {
+      "id": "HK-KKT-J11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.327",
+      "lon": "114.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J27",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "麗港城",
+      "en": "Laguna City",
+      "slug": "laguna-city-j27"
+    },
+    "code": {
+      "id": "HK-KKT-J27",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.305",
+      "lon": "114.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "麗晶",
+      "en": "Lai Ching",
+      "slug": "lai-ching-j04"
+    },
+    "code": {
+      "id": "HK-KKT-J04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.331",
+      "lon": "114.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "藍田",
+      "en": "Lam Tin",
+      "slug": "lam-tin-j19"
+    },
+    "code": {
+      "id": "HK-KKT-J19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.311",
+      "lon": "114.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J35",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "樂華北",
+      "en": "Lok Wah North",
+      "slug": "lok-wah-north-j35"
+    },
+    "code": {
+      "id": "HK-KKT-J35",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.321",
+      "lon": "114.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J34",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "樂華南",
+      "en": "Lok Wah South",
+      "slug": "lok-wah-south-j34"
+    },
+    "code": {
+      "id": "HK-KKT-J34",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.321",
+      "lon": "114.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J39",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "牛頭角下邨",
+      "en": "Lower Ngau Tau Kok Estate",
+      "slug": "lower-ngau-tau-kok-estate-j39"
+    },
+    "code": {
+      "id": "HK-KKT-J39",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.322",
+      "lon": "114.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "安利",
+      "en": "On Lee",
+      "slug": "on-lee-j10"
+    },
+    "code": {
+      "id": "HK-KKT-J10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.331",
+      "lon": "114.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "安達",
+      "en": "On Tat",
+      "slug": "on-tat-j14"
+    },
+    "code": {
+      "id": "HK-KKT-J14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.32",
+      "lon": "114.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J21",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "栢雅",
+      "en": "Pak Nga",
+      "slug": "pak-nga-j21"
+    },
+    "code": {
+      "id": "HK-KKT-J21",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.303",
+      "lon": "114.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "坪石",
+      "en": "Ping Shek",
+      "slug": "ping-shek-j05"
+    },
+    "code": {
+      "id": "HK-KKT-J05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.332",
+      "lon": "114.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J20",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "平田",
+      "en": "Ping Tin",
+      "slug": "ping-tin-j20"
+    },
+    "code": {
+      "id": "HK-KKT-J20",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.307",
+      "lon": "114.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J31",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "寶樂",
+      "en": "Po Lok",
+      "slug": "po-lok-j31"
+    },
+    "code": {
+      "id": "HK-KKT-J31",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.316",
+      "lon": "114.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "寶達",
+      "en": "Po Tat",
+      "slug": "po-tat-j16"
+    },
+    "code": {
+      "id": "HK-KKT-J16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.318",
+      "lon": "114.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "秀茂坪中",
+      "en": "Sau Mau Ping Central",
+      "slug": "sau-mau-ping-central-j13"
+    },
+    "code": {
+      "id": "HK-KKT-J13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.32",
+      "lon": "114.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "秀茂坪北",
+      "en": "Sau Mau Ping North",
+      "slug": "sau-mau-ping-north-j12"
+    },
+    "code": {
+      "id": "HK-KKT-J12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.319",
+      "lon": "114.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "秀茂坪南",
+      "en": "Sau Mau Ping South",
+      "slug": "sau-mau-ping-south-j15"
+    },
+    "code": {
+      "id": "HK-KKT-J15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.316",
+      "lon": "114.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "雙順",
+      "en": "Sheung Shun",
+      "slug": "sheung-shun-j09"
+    },
+    "code": {
+      "id": "HK-KKT-J09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.333",
+      "lon": "114.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "順天",
+      "en": "Shun Tin",
+      "slug": "shun-tin-j08"
+    },
+    "code": {
+      "id": "HK-KKT-J08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.327",
+      "lon": "114.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J37",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "定安",
+      "en": "Ting On",
+      "slug": "ting-on-j37"
+    },
+    "code": {
+      "id": "HK-KKT-J37",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.315",
+      "lon": "114.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J40",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "淘大",
+      "en": "To Tai",
+      "slug": "to-tai-j40"
+    },
+    "code": {
+      "id": "HK-KKT-J40",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.325",
+      "lon": "114.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J29",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "翠屏",
+      "en": "Tsui Ping",
+      "slug": "tsui-ping-j29"
+    },
+    "code": {
+      "id": "HK-KKT-J29",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.314",
+      "lon": "114.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J38",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "牛頭角上邨",
+      "en": "Upper Ngau Tau Kok Estate",
+      "slug": "upper-ngau-tau-kok-estate-j38"
+    },
+    "code": {
+      "id": "HK-KKT-J38",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.32",
+      "lon": "114.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J24",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "油翠",
+      "en": "Yau Chui",
+      "slug": "yau-chui-j24"
+    },
+    "code": {
+      "id": "HK-KKT-J24",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.3",
+      "lon": "114.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J25",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "油麗",
+      "en": "Yau Lai",
+      "slug": "yau-lai-j25"
+    },
+    "code": {
+      "id": "HK-KKT-J25",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.3",
+      "lon": "114.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J23",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "油塘東",
+      "en": "Yau Tong East",
+      "slug": "yau-tong-east-j23"
+    },
+    "code": {
+      "id": "HK-KKT-J23",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.295",
+      "lon": "114.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J26",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "油塘西",
+      "en": "Yau Tong West",
+      "slug": "yau-tong-west-j26"
+    },
+    "code": {
+      "id": "HK-KKT-J26",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.3",
+      "lon": "114.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KKT-J32",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "月華",
+      "en": "Yuet Wah",
+      "slug": "yuet-wah-j32"
+    },
+    "code": {
+      "id": "HK-KKT-J32",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KKT",
+        "level": 1,
+        "name": {
+          "local": "觀塘",
+          "en": "Kwun Tong",
+          "slug": "kwun-tong-kkt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.315",
+      "lon": "114.227"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

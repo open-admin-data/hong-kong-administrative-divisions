@@ -1,0 +1,45 @@
+{
+  "id": "HK-NNO-N05",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "華明",
+    "en": "Wah Ming",
+    "slug": "wah-ming-n05"
+  },
+  "code": {
+    "id": "HK-NNO-N05",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NNO",
+    "level": 1,
+    "name": {
+      "local": "北區",
+      "en": "North",
+      "slug": "north-nno"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.484",
+    "lon": "114.141"
+  },
+  "metadata": {},
+  "source": {}
+}

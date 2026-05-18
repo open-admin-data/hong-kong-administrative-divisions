@@ -1,0 +1,45 @@
+{
+  "id": "HK-HSO-D11",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "薄扶林",
+    "en": "Pokfulam",
+    "slug": "pokfulam-d11"
+  },
+  "code": {
+    "id": "HK-HSO-D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HSO",
+    "level": 1,
+    "name": {
+      "local": "南區",
+      "en": "Southern",
+      "slug": "southern-hso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.264",
+    "lon": "114.132"
+  },
+  "metadata": {},
+  "source": {}
+}

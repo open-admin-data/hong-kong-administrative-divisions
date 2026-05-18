@@ -1,0 +1,45 @@
+{
+  "id": "HK-NIS-T07",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "愉景灣",
+    "en": "Discovery Bay",
+    "slug": "discovery-bay-t07"
+  },
+  "code": {
+    "id": "HK-NIS-T07",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NIS",
+    "level": 1,
+    "name": {
+      "local": "離島",
+      "en": "Islands",
+      "slug": "islands-nis"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NIS",
+      "level": 1,
+      "name": {
+        "local": "離島",
+        "en": "Islands",
+        "slug": "islands-nis"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.296",
+    "lon": "114.017"
+  },
+  "metadata": {},
+  "source": {}
+}

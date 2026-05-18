@@ -1,0 +1,45 @@
+{
+  "id": "HK-KWT-H22",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "彩雲南",
+    "en": "Choi Wan South",
+    "slug": "choi-wan-south-h22"
+  },
+  "code": {
+    "id": "HK-KWT-H22",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KWT",
+    "level": 1,
+    "name": {
+      "local": "黃大仙",
+      "en": "Wong Tai Sin",
+      "slug": "wong-tai-sin-kwt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.334",
+    "lon": "114.216"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R17",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "徑口",
+    "en": "Keng Hau",
+    "slug": "keng-hau-r17"
+  },
+  "code": {
+    "id": "HK-NST-R17",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.364",
+    "lon": "114.174"
+  },
+  "metadata": {},
+  "source": {}
+}

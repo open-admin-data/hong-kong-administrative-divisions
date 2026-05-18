@@ -1,0 +1,154 @@
+# Sai Kung — Hong Kong Administrative Divisions
+
+> 29 constituencys
+> Code: HK-NSK
+> Coordinates: 22.382, 114.27
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 彩健 (Choi Kin)
+
+Code: HK-NSK-Q06, Coordinates: 22.306, 114.253
+
+
+### 都善 (Do Shin)
+
+Code: HK-NSK-Q08, Coordinates: 22.303, 114.25
+
+
+### 富君 (Fu Kwan)
+
+Code: HK-NSK-Q12, Coordinates: 22.309, 114.261
+
+
+### 富藍 (Fu Nam)
+
+Code: HK-NSK-Q24, Coordinates: 22.317, 114.267
+
+
+### 坑口東 (Hang Hau East)
+
+Code: HK-NSK-Q04, Coordinates: 22.323, 114.268
+
+
+### 坑口西 (Hang Hau West)
+
+Code: HK-NSK-Q05, Coordinates: 22.327, 114.251
+
+
+### 厚德 (Hau Tak)
+
+Code: HK-NSK-Q23, Coordinates: 22.317, 114.265
+
+
+### 海晉 (Hoi Chun)
+
+Code: HK-NSK-Q10, Coordinates: 22.304, 114.262
+
+
+### 康景 (Hong King)
+
+Code: HK-NSK-Q16, Coordinates: 22.321, 114.253
+
+
+### 健明 (Kin Ming)
+
+Code: HK-NSK-Q07, Coordinates: 22.306, 114.25
+
+
+### 景林 (King Lam)
+
+Code: HK-NSK-Q22, Coordinates: 22.32, 114.261
+
+
+### 軍寶 (Kwan Po)
+
+Code: HK-NSK-Q27, Coordinates: 22.312, 114.264
+
+
+### 廣明 (Kwong Ming)
+
+Code: HK-NSK-Q15, Coordinates: 22.313, 114.258
+
+
+### 南安 (Nam On)
+
+Code: HK-NSK-Q26, Coordinates: 22.316, 114.264
+
+
+### 澳唐 (O Tong)
+
+Code: HK-NSK-Q13, Coordinates: 22.308, 114.257
+
+
+### 白沙灣 (Pak Sha Wan)
+
+Code: HK-NSK-Q02, Coordinates: 22.368, 114.249
+
+
+### 寶林 (Po Lam)
+
+Code: HK-NSK-Q18, Coordinates: 22.326, 114.254
+
+
+### 寶怡 (Po Yee)
+
+Code: HK-NSK-Q11, Coordinates: 22.306, 114.263
+
+
+### 西貢市中心 (Sai Kung Central)
+
+Code: HK-NSK-Q01, Coordinates: 22.381, 114.272
+
+
+### 西貢離島 (Sai Kung Islands)
+
+Code: HK-NSK-Q03, Coordinates: 22.399, 114.297
+
+
+### 尚德 (Sheung Tak)
+
+Code: HK-NSK-Q14, Coordinates: 22.311, 114.259
+
+
+### 德明 (Tak Ming)
+
+Code: HK-NSK-Q25, Coordinates: 22.315, 114.267
+
+
+### 翠林 (Tsui Lam)
+
+Code: HK-NSK-Q17, Coordinates: 22.321, 114.248
+
+
+### 維景 (Wai King)
+
+Code: HK-NSK-Q09, Coordinates: 22.296, 114.248
+
+
+### 慧茵 (Wai Yan)
+
+Code: HK-NSK-Q20, Coordinates: 22.323, 114.256
+
+
+### 運亨 (Wan Hang)
+
+Code: HK-NSK-Q21, Coordinates: 22.321, 114.257
+
+
+### 環保北 (Wan Po North)
+
+Code: HK-NSK-Q28, Coordinates: 22.303, 114.268
+
+
+### 環保南 (Wan Po South)
+
+Code: HK-NSK-Q29, Coordinates: 22.296, 114.26
+
+
+### 欣英 (Yan Ying)
+
+Code: HK-NSK-Q19, Coordinates: 22.324, 114.258
+
+

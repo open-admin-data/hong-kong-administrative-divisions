@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTP-P09",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "宏福",
+    "en": "Wang Fuk",
+    "slug": "wang-fuk-p09"
+  },
+  "code": {
+    "id": "HK-NTP-P09",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTP",
+    "level": 1,
+    "name": {
+      "local": "大埔",
+      "en": "Tai Po",
+      "slug": "tai-po-ntp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.439",
+    "lon": "114.188"
+  },
+  "metadata": {},
+  "source": {}
+}

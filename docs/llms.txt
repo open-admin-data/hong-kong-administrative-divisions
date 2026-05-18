@@ -1,0 +1,86 @@
+# Hong Kong Administrative Divisions
+
+> Open dataset of Hong Kong's administrative hierarchy:
+> 18 districts, 452 constituencys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total districts: 18
+- Total constituencys: 452
+- Coordinates: included (all levels)
+- Last updated: 2026-05-18
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/data/all-district.json)
+- [All constituencys (JSON)](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/data/all-constituency.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/data/schema.json)
+
+## Browse by District
+
+- [Central and Western](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/central-and-western-hcw/) — 15 constituencys
+- [Eastern](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/eastern-hea/) — 35 constituencys
+- [Islands](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/islands-nis/) — 10 constituencys
+- [Kowloon City](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/kowloon-city-kkc/) — 25 constituencys
+- [Kwai Tsing](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/kwai-tsing-nkt/) — 31 constituencys
+- [Kwun Tong](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/kwun-tong-kkt/) — 40 constituencys
+- [North](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/north-nno/) — 18 constituencys
+- [Sai Kung](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/sai-kung-nsk/) — 29 constituencys
+- [Sha Tin](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/sha-tin-nst/) — 41 constituencys
+- [Sham Shui Po](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/sham-shui-po-kss/) — 25 constituencys
+- [Southern](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/southern-hso/) — 17 constituencys
+- [Tai Po](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/tai-po-ntp/) — 19 constituencys
+- [Tsuen Wan](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/tsuen-wan-ntw/) — 19 constituencys
+- [Tuen Mun](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/tuen-mun-ntm/) — 31 constituencys
+- [Wan Chai](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/wan-chai-hwc/) — 13 constituencys
+- [Wong Tai Sin](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/wong-tai-sin-kwt/) — 25 constituencys
+- [Yau Tsim Mong](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/yau-tsim-mong-kyt/) — 20 constituencys
+- [Yuen Long](https://github.com/open-admin-data/hong-kong-administrative-divisions/tree/main/divisions/yuen-long-nyl/) — 39 constituencys
+
+## Per-District Full Data
+
+- [Central and Western](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/central-and-western-hcw.txt)
+- [Eastern](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/eastern-hea.txt)
+- [Islands](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/islands-nis.txt)
+- [Kowloon City](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/kowloon-city-kkc.txt)
+- [Kwai Tsing](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/kwai-tsing-nkt.txt)
+- [Kwun Tong](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/kwun-tong-kkt.txt)
+- [North](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/north-nno.txt)
+- [Sai Kung](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/sai-kung-nsk.txt)
+- [Sha Tin](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/sha-tin-nst.txt)
+- [Sham Shui Po](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/sham-shui-po-kss.txt)
+- [Southern](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/southern-hso.txt)
+- [Tai Po](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/tai-po-ntp.txt)
+- [Tsuen Wan](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/tsuen-wan-ntw.txt)
+- [Tuen Mun](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/tuen-mun-ntm.txt)
+- [Wan Chai](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/wan-chai-hwc.txt)
+- [Wong Tai Sin](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/wong-tai-sin-kwt.txt)
+- [Yau Tsim Mong](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/yau-tsim-mong-kyt.txt)
+- [Yuen Long](https://raw.githubusercontent.com/open-admin-data/hong-kong-administrative-divisions/main/docs/llms-full/yuen-long-nyl.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (district), 2 (constituency)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Hong Kong Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/hong-kong-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

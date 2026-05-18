@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R30",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "利安",
+    "en": "Lee On",
+    "slug": "lee-on-r30"
+  },
+  "code": {
+    "id": "HK-NST-R30",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.427",
+    "lon": "114.245"
+  },
+  "metadata": {},
+  "source": {}
+}

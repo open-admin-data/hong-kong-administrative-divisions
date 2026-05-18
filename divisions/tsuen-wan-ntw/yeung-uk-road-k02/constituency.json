@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTW-K02",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "楊屋道",
+    "en": "Yeung Uk Road",
+    "slug": "yeung-uk-road-k02"
+  },
+  "code": {
+    "id": "HK-NTW-K02",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTW",
+    "level": 1,
+    "name": {
+      "local": "荃灣",
+      "en": "Tsuen Wan",
+      "slug": "tsuen-wan-ntw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.368",
+    "lon": "114.12"
+  },
+  "metadata": {},
+  "source": {}
+}

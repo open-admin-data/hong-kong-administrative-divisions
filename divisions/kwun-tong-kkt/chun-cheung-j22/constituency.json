@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J22",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "俊翔",
+    "en": "Chun Cheung",
+    "slug": "chun-cheung-j22"
+  },
+  "code": {
+    "id": "HK-KKT-J22",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.299",
+    "lon": "114.242"
+  },
+  "metadata": {},
+  "source": {}
+}

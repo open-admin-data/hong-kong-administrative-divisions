@@ -1,0 +1,45 @@
+{
+  "id": "HK-KWT-H11",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "橫頭磡",
+    "en": "Wang Tau Hom",
+    "slug": "wang-tau-hom-h11"
+  },
+  "code": {
+    "id": "HK-KWT-H11",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KWT",
+    "level": 1,
+    "name": {
+      "local": "黃大仙",
+      "en": "Wong Tai Sin",
+      "slug": "wong-tai-sin-kwt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.341",
+    "lon": "114.188"
+  },
+  "metadata": {},
+  "source": {}
+}

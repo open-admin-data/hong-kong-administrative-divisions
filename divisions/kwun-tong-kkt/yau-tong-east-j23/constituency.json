@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J23",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "油塘東",
+    "en": "Yau Tong East",
+    "slug": "yau-tong-east-j23"
+  },
+  "code": {
+    "id": "HK-KKT-J23",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.295",
+    "lon": "114.242"
+  },
+  "metadata": {},
+  "source": {}
+}

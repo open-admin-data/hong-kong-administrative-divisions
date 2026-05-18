@@ -1,0 +1,45 @@
+{
+  "id": "HK-NNO-N10",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "御太",
+    "en": "Yu Tai",
+    "slug": "yu-tai-n10"
+  },
+  "code": {
+    "id": "HK-NNO-N10",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NNO",
+    "level": 1,
+    "name": {
+      "local": "北區",
+      "en": "North",
+      "slug": "north-nno"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.487",
+    "lon": "114.117"
+  },
+  "metadata": {},
+  "source": {}
+}

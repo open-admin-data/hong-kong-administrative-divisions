@@ -1,0 +1,45 @@
+{
+  "id": "HK-HSO-D07",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "海怡西",
+    "en": "South Horizons West",
+    "slug": "south-horizons-west-d07"
+  },
+  "code": {
+    "id": "HK-HSO-D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HSO",
+    "level": 1,
+    "name": {
+      "local": "南區",
+      "en": "Southern",
+      "slug": "southern-hso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.244",
+    "lon": "114.147"
+  },
+  "metadata": {},
+  "source": {}
+}

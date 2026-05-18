@@ -1,0 +1,45 @@
+{
+  "id": "HK-HSO-D08",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "華貴",
+    "en": "Wah Kwai",
+    "slug": "wah-kwai-d08"
+  },
+  "code": {
+    "id": "HK-HSO-D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HSO",
+    "level": 1,
+    "name": {
+      "local": "南區",
+      "en": "Southern",
+      "slug": "southern-hso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.249",
+    "lon": "114.14"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "HK-KYT-E05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富榮",
+      "en": "Charming",
+      "slug": "charming-e05"
+    },
+    "code": {
+      "id": "HK-KYT-E05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.314",
+      "lon": "114.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "櫻桃",
+      "en": "Cherry",
+      "slug": "cherry-e09"
+    },
+    "code": {
+      "id": "HK-KYT-E09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.318",
+      "lon": "114.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "尖東及京士柏",
+      "en": "East Tsim Sha Tsui & King's Park",
+      "slug": "east-tsim-sha-tsui-kings-park-e17"
+    },
+    "code": {
+      "id": "HK-KYT-E17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.307",
+      "lon": "114.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富柏",
+      "en": "Fu Pak",
+      "slug": "fu-pak-e07"
+    },
+    "code": {
+      "id": "HK-KYT-E07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.316",
+      "lon": "114.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "佐敦北",
+      "en": "Jordan North",
+      "slug": "jordan-north-e18"
+    },
+    "code": {
+      "id": "HK-KYT-E18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.307",
+      "lon": "114.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "佐敦南",
+      "en": "Jordan South",
+      "slug": "jordan-south-e19"
+    },
+    "code": {
+      "id": "HK-KYT-E19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.304",
+      "lon": "114.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "佐敦西",
+      "en": "Jordan West",
+      "slug": "jordan-west-e03"
+    },
+    "code": {
+      "id": "HK-KYT-E03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.309",
+      "lon": "114.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "九龍站",
+      "en": "Kowloon Station",
+      "slug": "kowloon-station-e02"
+    },
+    "code": {
+      "id": "HK-KYT-E02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.304",
+      "lon": "114.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "旺角東",
+      "en": "Mong Kok East",
+      "slug": "mong-kok-east-e14"
+    },
+    "code": {
+      "id": "HK-KYT-E14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.324",
+      "lon": "114.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "旺角北",
+      "en": "Mong Kok North",
+      "slug": "mong-kok-north-e13"
+    },
+    "code": {
+      "id": "HK-KYT-E13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.322",
+      "lon": "114.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "旺角南",
+      "en": "Mong Kok South",
+      "slug": "mong-kok-south-e15"
+    },
+    "code": {
+      "id": "HK-KYT-E15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.319",
+      "lon": "114.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "旺角西",
+      "en": "Mong Kok West",
+      "slug": "mong-kok-west-e06"
+    },
+    "code": {
+      "id": "HK-KYT-E06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.317",
+      "lon": "114.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "奧運",
+      "en": "Olympic",
+      "slug": "olympic-e08"
+    },
+    "code": {
+      "id": "HK-KYT-E08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.321",
+      "lon": "114.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大角咀北",
+      "en": "Tai Kok Tsui North",
+      "slug": "tai-kok-tsui-north-e11"
+    },
+    "code": {
+      "id": "HK-KYT-E11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.324",
+      "lon": "114.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大角咀南",
+      "en": "Tai Kok Tsui South",
+      "slug": "tai-kok-tsui-south-e10"
+    },
+    "code": {
+      "id": "HK-KYT-E10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.321",
+      "lon": "114.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大南",
+      "en": "Tai Nan",
+      "slug": "tai-nan-e12"
+    },
+    "code": {
+      "id": "HK-KYT-E12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.324",
+      "lon": "114.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E20",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "尖沙咀中",
+      "en": "Tsim Sha Tsui Central",
+      "slug": "tsim-sha-tsui-central-e20"
+    },
+    "code": {
+      "id": "HK-KYT-E20",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.302",
+      "lon": "114.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "尖沙咀西",
+      "en": "Tsim Sha Tsui West",
+      "slug": "tsim-sha-tsui-west-e01"
+    },
+    "code": {
+      "id": "HK-KYT-E01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.302",
+      "lon": "114.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "油麻地北",
+      "en": "Yau Ma Tei North",
+      "slug": "yau-ma-tei-north-e16"
+    },
+    "code": {
+      "id": "HK-KYT-E16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.314",
+      "lon": "114.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KYT-E04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "油麻地南",
+      "en": "Yau Ma Tei South",
+      "slug": "yau-ma-tei-south-e04"
+    },
+    "code": {
+      "id": "HK-KYT-E04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KYT",
+        "level": 1,
+        "name": {
+          "local": "油尖旺",
+          "en": "Yau Tsim Mong",
+          "slug": "yau-tsim-mong-kyt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.31",
+      "lon": "114.166"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "HK-NNO-N15",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "鳳翠",
+    "en": "Fung Tsui",
+    "slug": "fung-tsui-n15"
+  },
+  "code": {
+    "id": "HK-NNO-N15",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NNO",
+    "level": 1,
+    "name": {
+      "local": "北區",
+      "en": "North",
+      "slug": "north-nno"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.512",
+    "lon": "114.125"
+  },
+  "metadata": {},
+  "source": {}
+}

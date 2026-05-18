@@ -1,0 +1,45 @@
+{
+  "id": "HK-HSO-D02",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "鴨脷洲邨",
+    "en": "Ap Lei Chau Estate",
+    "slug": "ap-lei-chau-estate-d02"
+  },
+  "code": {
+    "id": "HK-HSO-D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HSO",
+    "level": 1,
+    "name": {
+      "local": "南區",
+      "en": "Southern",
+      "slug": "southern-hso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.245",
+    "lon": "114.15"
+  },
+  "metadata": {},
+  "source": {}
+}

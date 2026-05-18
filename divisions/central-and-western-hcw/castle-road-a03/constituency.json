@@ -1,0 +1,45 @@
+{
+  "id": "HK-HCW-A03",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "衛城",
+    "en": "Castle Road",
+    "slug": "castle-road-a03"
+  },
+  "code": {
+    "id": "HK-HCW-A03",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HCW",
+    "level": 1,
+    "name": {
+      "local": "中西區",
+      "en": "Central and Western",
+      "slug": "central-and-western-hcw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.281",
+    "lon": "114.148"
+  },
+  "metadata": {},
+  "source": {}
+}

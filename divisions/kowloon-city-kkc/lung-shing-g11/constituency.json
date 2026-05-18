@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKC-G11",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "龍城",
+    "en": "Lung Shing",
+    "slug": "lung-shing-g11"
+  },
+  "code": {
+    "id": "HK-KKC-G11",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKC",
+    "level": 1,
+    "name": {
+      "local": "九龍城",
+      "en": "Kowloon City",
+      "slug": "kowloon-city-kkc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.331",
+    "lon": "114.191"
+  },
+  "metadata": {},
+  "source": {}
+}

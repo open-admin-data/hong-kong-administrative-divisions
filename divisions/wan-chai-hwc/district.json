@@ -1,0 +1,29 @@
+{
+  "id": "HK-HWC",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "灣仔",
+    "en": "Wan Chai",
+    "slug": "wan-chai-hwc"
+  },
+  "code": {
+    "id": "HK-HWC",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.277",
+    "lon": "114.172"
+  },
+  "metadata": {},
+  "source": {}
+}

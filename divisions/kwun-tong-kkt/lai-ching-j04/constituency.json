@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J04",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "麗晶",
+    "en": "Lai Ching",
+    "slug": "lai-ching-j04"
+  },
+  "code": {
+    "id": "HK-KKT-J04",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.331",
+    "lon": "114.206"
+  },
+  "metadata": {},
+  "source": {}
+}

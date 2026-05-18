@@ -1,0 +1,45 @@
+{
+  "id": "HK-HCW-A08",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "西環",
+    "en": "Sai Wan",
+    "slug": "sai-wan-a08"
+  },
+  "code": {
+    "id": "HK-HCW-A08",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HCW",
+    "level": 1,
+    "name": {
+      "local": "中西區",
+      "en": "Central and Western",
+      "slug": "central-and-western-hcw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.283",
+    "lon": "114.13"
+  },
+  "metadata": {},
+  "source": {}
+}

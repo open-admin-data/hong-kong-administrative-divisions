@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTP-P08",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "廣福及寶湖",
+    "en": "Kwong Fuk & Plover Cove",
+    "slug": "kwong-fuk-plover-cove-p08"
+  },
+  "code": {
+    "id": "HK-NTP-P08",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTP",
+    "level": 1,
+    "name": {
+      "local": "大埔",
+      "en": "Tai Po",
+      "slug": "tai-po-ntp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.449",
+    "lon": "114.174"
+  },
+  "metadata": {},
+  "source": {}
+}

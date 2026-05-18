@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M21",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "慈祐",
+    "en": "Tsz Yau",
+    "slug": "tsz-yau-m21"
+  },
+  "code": {
+    "id": "HK-NYL-M21",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.453",
+    "lon": "114.007"
+  },
+  "metadata": {},
+  "source": {}
+}

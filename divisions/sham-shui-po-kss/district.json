@@ -1,0 +1,29 @@
+{
+  "id": "HK-KSS",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "深水埗區",
+    "en": "Sham Shui Po",
+    "slug": "sham-shui-po-kss"
+  },
+  "code": {
+    "id": "HK-KSS",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.33",
+    "lon": "114.163"
+  },
+  "metadata": {},
+  "source": {}
+}

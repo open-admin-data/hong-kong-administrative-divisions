@@ -1,0 +1,184 @@
+# Eastern — Hong Kong Administrative Divisions
+
+> 35 constituencys
+> Code: HK-HEA
+> Coordinates: 22.277, 114.225
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 阿公岩 (A Kung Ngam)
+
+Code: HK-HEA-C07, Coordinates: 22.277, 114.231
+
+
+### 愛秩序灣 (Aldrich Bay)
+
+Code: HK-HEA-C05, Coordinates: 22.281, 114.227
+
+
+### 寶馬山 (Braemar Hill)
+
+Code: HK-HEA-C16, Coordinates: 22.283, 114.199
+
+
+### 城市花園 (City Garden)
+
+Code: HK-HEA-C18, Coordinates: 22.29, 114.194
+
+
+### 翡翠 (Fei Tsui)
+
+Code: HK-HEA-C14, Coordinates: 22.262, 114.217
+
+
+### 堡壘 (Fort Street)
+
+Code: HK-HEA-C20, Coordinates: 22.289, 114.198
+
+
+### 炮台山 (Fortress Hill)
+
+Code: HK-HEA-C17, Coordinates: 22.287, 114.195
+
+
+### 健康村 (Healthy Village)
+
+Code: HK-HEA-C23, Coordinates: 22.29, 114.206
+
+
+### 杏花邨 (Heng Fa Chuen)
+
+Code: HK-HEA-C08, Coordinates: 22.275, 114.24
+
+
+### 興民 (Hing Man)
+
+Code: HK-HEA-C31, Coordinates: 22.271, 114.227
+
+
+### 興東 (Hing Tung)
+
+Code: HK-HEA-C28, Coordinates: 22.281, 114.22
+
+
+### 佳曉 (Kai Hiu)
+
+Code: HK-HEA-C35, Coordinates: 22.261, 114.249
+
+
+### 錦屏 (Kam Ping)
+
+Code: HK-HEA-C21, Coordinates: 22.29, 114.2
+
+
+### 景怡 (King Yee)
+
+Code: HK-HEA-C12, Coordinates: 22.26, 114.252
+
+
+### 康怡 (Kornhill)
+
+Code: HK-HEA-C26, Coordinates: 22.282, 114.216
+
+
+### 康山 (Kornhill Garden)
+
+Code: HK-HEA-C27, Coordinates: 22.284, 114.216
+
+
+### 鯉景灣 (Lei King Wan)
+
+Code: HK-HEA-C03, Coordinates: 22.285, 114.224
+
+
+### 樂康 (Lok Hong)
+
+Code: HK-HEA-C32, Coordinates: 22.271, 114.234
+
+
+### 下耀東 (Lower Yiu Tung)
+
+Code: HK-HEA-C29, Coordinates: 22.277, 114.226
+
+
+### 柏架山 (Mount Parker)
+
+Code: HK-HEA-C15, Coordinates: 22.268, 114.214
+
+
+### 南豐 (Nam Fung)
+
+Code: HK-HEA-C25, Coordinates: 22.283, 114.214
+
+
+### 和富 (Provident)
+
+Code: HK-HEA-C19, Coordinates: 22.293, 114.198
+
+
+### 鰂魚涌 (Quarry Bay)
+
+Code: HK-HEA-C24, Coordinates: 22.29, 114.213
+
+
+### 西灣河 (Sai Wan Ho)
+
+Code: HK-HEA-C04, Coordinates: 22.282, 114.223
+
+
+### 筲箕灣 (Shaukeiwan)
+
+Code: HK-HEA-C06, Coordinates: 22.278, 114.231
+
+
+### 小西灣 (Siu Sai Wan)
+
+Code: HK-HEA-C11, Coordinates: 22.264, 114.248
+
+
+### 太古城東 (Tai Koo Shing East)
+
+Code: HK-HEA-C02, Coordinates: 22.287, 114.22
+
+
+### 太古城西 (Tai Koo Shing West)
+
+Code: HK-HEA-C01, Coordinates: 22.289, 114.215
+
+
+### 丹拿 (Tanner)
+
+Code: HK-HEA-C22, Coordinates: 22.289, 114.203
+
+
+### 翠德 (Tsui Tak)
+
+Code: HK-HEA-C33, Coordinates: 22.265, 114.237
+
+
+### 翠灣 (Tsui Wan)
+
+Code: HK-HEA-C09, Coordinates: 22.268, 114.242
+
+
+### 上耀東 (Upper Yiu Tung)
+
+Code: HK-HEA-C30, Coordinates: 22.276, 114.222
+
+
+### 環翠 (Wan Tsui)
+
+Code: HK-HEA-C13, Coordinates: 22.257, 114.241
+
+
+### 欣藍 (Yan Lam)
+
+Code: HK-HEA-C10, Coordinates: 22.266, 114.25
+
+
+### 漁灣 (Yue Wan)
+
+Code: HK-HEA-C34, Coordinates: 22.265, 114.242
+
+

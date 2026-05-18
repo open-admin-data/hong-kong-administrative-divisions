@@ -1,0 +1,45 @@
+{
+  "id": "HK-HSO-D09",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "華富南",
+    "en": "Wah Fu South",
+    "slug": "wah-fu-south-d09"
+  },
+  "code": {
+    "id": "HK-HSO-D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HSO",
+    "level": 1,
+    "name": {
+      "local": "南區",
+      "en": "Southern",
+      "slug": "southern-hso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.252",
+    "lon": "114.136"
+  },
+  "metadata": {},
+  "source": {}
+}

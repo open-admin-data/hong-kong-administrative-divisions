@@ -1,0 +1,45 @@
+{
+  "id": "HK-NKT-S03",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "葵盛東邨",
+    "en": "Kwai Shing East Estate",
+    "slug": "kwai-shing-east-estate-s03"
+  },
+  "code": {
+    "id": "HK-NKT-S03",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NKT",
+    "level": 1,
+    "name": {
+      "local": "葵青",
+      "en": "Kwai Tsing",
+      "slug": "kwai-tsing-nkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.364",
+    "lon": "114.127"
+  },
+  "metadata": {},
+  "source": {}
+}

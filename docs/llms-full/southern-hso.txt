@@ -1,0 +1,94 @@
+# Southern — Hong Kong Administrative Divisions
+
+> 17 constituencys
+> Code: HK-HSO
+> Coordinates: 22.241, 114.208
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 香港仔 (Aberdeen)
+
+Code: HK-HSO-D01, Coordinates: 22.244, 114.159
+
+
+### 鴨脷洲邨 (Ap Lei Chau Estate)
+
+Code: HK-HSO-D02, Coordinates: 22.245, 114.15
+
+
+### 鴨脷洲北 (Ap Lei Chau North)
+
+Code: HK-HSO-D03, Coordinates: 22.244, 114.157
+
+
+### 海灣 (Bays Area)
+
+Code: HK-HSO-D16, Coordinates: 22.246, 114.185
+
+
+### 置富 (Chi Fu)
+
+Code: HK-HSO-D12, Coordinates: 22.261, 114.139
+
+
+### 利東一 (Lei Tung I)
+
+Code: HK-HSO-D04, Coordinates: 22.239, 114.158
+
+
+### 利東二 (Lei Tung II)
+
+Code: HK-HSO-D05, Coordinates: 22.241, 114.154
+
+
+### 薄扶林 (Pokfulam)
+
+Code: HK-HSO-D11, Coordinates: 22.264, 114.132
+
+
+### 石漁 (Shek Yue)
+
+Code: HK-HSO-D14, Coordinates: 22.25, 114.158
+
+
+### 海怡東 (South Horizons East)
+
+Code: HK-HSO-D06, Coordinates: 22.241, 114.153
+
+
+### 海怡西 (South Horizons West)
+
+Code: HK-HSO-D07, Coordinates: 22.244, 114.147
+
+
+### 赤柱及石澳 (Stanley &amp; Shek O)
+
+Code: HK-HSO-D17, Coordinates: 22.249, 114.22
+
+
+### 田灣 (Tin Wan)
+
+Code: HK-HSO-D13, Coordinates: 22.252, 114.15
+
+
+### 華富北 (Wah Fu North)
+
+Code: HK-HSO-D10, Coordinates: 22.254, 114.136
+
+
+### 華富南 (Wah Fu South)
+
+Code: HK-HSO-D09, Coordinates: 22.252, 114.136
+
+
+### 華貴 (Wah Kwai)
+
+Code: HK-HSO-D08, Coordinates: 22.249, 114.14
+
+
+### 黃竹坑 (Wong Chuk Hang)
+
+Code: HK-HSO-D15, Coordinates: 22.25, 114.164
+
+

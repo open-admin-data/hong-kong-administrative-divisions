@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTM-L28",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "欣田",
+    "en": "Yan Tin",
+    "slug": "yan-tin-l28"
+  },
+  "code": {
+    "id": "HK-NTM-L28",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTM",
+    "level": 1,
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.421",
+    "lon": "113.972"
+  },
+  "metadata": {},
+  "source": {}
+}

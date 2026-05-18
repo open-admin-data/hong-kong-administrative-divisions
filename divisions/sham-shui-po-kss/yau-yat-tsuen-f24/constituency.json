@@ -1,0 +1,45 @@
+{
+  "id": "HK-KSS-F24",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "又一村",
+    "en": "Yau Yat Tsuen",
+    "slug": "yau-yat-tsuen-f24"
+  },
+  "code": {
+    "id": "HK-KSS-F24",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KSS",
+    "level": 1,
+    "name": {
+      "local": "深水埗區",
+      "en": "Sham Shui Po",
+      "slug": "sham-shui-po-kss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.338",
+    "lon": "114.17"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-HSO-D16",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "海灣",
+    "en": "Bays Area",
+    "slug": "bays-area-d16"
+  },
+  "code": {
+    "id": "HK-HSO-D16",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HSO",
+    "level": 1,
+    "name": {
+      "local": "南區",
+      "en": "Southern",
+      "slug": "southern-hso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.246",
+    "lon": "114.185"
+  },
+  "metadata": {},
+  "source": {}
+}

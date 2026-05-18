@@ -1,0 +1,29 @@
+{
+  "id": "HK-NST",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "沙田區",
+    "en": "Sha Tin",
+    "slug": "sha-tin-nst"
+  },
+  "code": {
+    "id": "HK-NST",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 41
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.387",
+    "lon": "114.195"
+  },
+  "metadata": {},
+  "source": {}
+}

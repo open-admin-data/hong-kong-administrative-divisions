@@ -1,0 +1,45 @@
+{
+  "id": "HK-NSK-Q26",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "南安",
+    "en": "Nam On",
+    "slug": "nam-on-q26"
+  },
+  "code": {
+    "id": "HK-NSK-Q26",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NSK",
+    "level": 1,
+    "name": {
+      "local": "西貢區",
+      "en": "Sai Kung",
+      "slug": "sai-kung-nsk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.316",
+    "lon": "114.264"
+  },
+  "metadata": {},
+  "source": {}
+}

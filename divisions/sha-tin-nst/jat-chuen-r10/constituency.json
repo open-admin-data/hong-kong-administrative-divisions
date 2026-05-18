@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R10",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "乙泉",
+    "en": "Jat Chuen",
+    "slug": "jat-chuen-r10"
+  },
+  "code": {
+    "id": "HK-NST-R10",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.371",
+    "lon": "114.196"
+  },
+  "metadata": {},
+  "source": {}
+}

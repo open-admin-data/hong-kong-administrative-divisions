@@ -1,0 +1,45 @@
+{
+  "id": "HK-HSO-D13",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "田灣",
+    "en": "Tin Wan",
+    "slug": "tin-wan-d13"
+  },
+  "code": {
+    "id": "HK-HSO-D13",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HSO",
+    "level": 1,
+    "name": {
+      "local": "南區",
+      "en": "Southern",
+      "slug": "southern-hso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.252",
+    "lon": "114.15"
+  },
+  "metadata": {},
+  "source": {}
+}

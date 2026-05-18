@@ -1,0 +1,164 @@
+# Tuen Mun — Hong Kong Administrative Divisions
+
+> 31 constituencys
+> Code: HK-NTM
+> Coordinates: 22.392, 113.968
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 蝴蝶 (Butterfly)
+
+Code: HK-NTM-L18, Coordinates: 22.376, 113.963
+
+
+### 富新 (Fu Sun)
+
+Code: HK-NTM-L19, Coordinates: 22.381, 113.966
+
+
+### 富泰 (Fu Tai)
+
+Code: HK-NTM-L30, Coordinates: 22.415, 113.988
+
+
+### 恒褔 (Hanford)
+
+Code: HK-NTM-L14, Coordinates: 22.376, 113.989
+
+
+### 興澤 (Hing Tsak)
+
+Code: HK-NTM-L10, Coordinates: 22.405, 113.973
+
+
+### 建生 (Kin Sang)
+
+Code: HK-NTM-L26, Coordinates: 22.407, 113.969
+
+
+### 景興 (King Hing)
+
+Code: HK-NTM-L09, Coordinates: 22.403, 113.969
+
+
+### 良景 (Leung King)
+
+Code: HK-NTM-L23, Coordinates: 22.407, 113.962
+
+
+### 樂翠 (Lok Tsui)
+
+Code: HK-NTM-L20, Coordinates: 22.39, 113.953
+
+
+### 龍門 (Lung Mun)
+
+Code: HK-NTM-L21, Coordinates: 22.39, 113.959
+
+
+### 安定 (On Ting)
+
+Code: HK-NTM-L03, Coordinates: 22.385, 113.978
+
+
+### 寶田 (Po Tin)
+
+Code: HK-NTM-L25, Coordinates: 22.419, 113.962
+
+
+### 景峰 (Prime View)
+
+Code: HK-NTM-L31, Coordinates: 22.41, 113.982
+
+
+### 三聖 (Sam Shing)
+
+Code: HK-NTM-L13, Coordinates: 22.382, 114.029
+
+
+### 新墟 (San Hui)
+
+Code: HK-NTM-L11, Coordinates: 22.401, 113.986
+
+
+### 新景 (San King)
+
+Code: HK-NTM-L22, Coordinates: 22.403, 113.961
+
+
+### 山景 (Shan King)
+
+Code: HK-NTM-L08, Coordinates: 22.397, 113.964
+
+
+### 兆置 (Siu Chi)
+
+Code: HK-NTM-L02, Coordinates: 22.387, 113.98
+
+
+### 兆禧 (Siu Hei)
+
+Code: HK-NTM-L16, Coordinates: 22.372, 113.969
+
+
+### 兆康 (Siu Hong)
+
+Code: HK-NTM-L27, Coordinates: 22.41, 113.973
+
+
+### 兆翠 (Siu Tsui)
+
+Code: HK-NTM-L04, Coordinates: 22.384, 113.973
+
+
+### 掃管笏 (So Kwun Wat)
+
+Code: HK-NTM-L12, Coordinates: 22.382, 114.026
+
+
+### 田景 (Tin King)
+
+Code: HK-NTM-L24, Coordinates: 22.406, 113.965
+
+
+### 翠興 (Tsui Hing)
+
+Code: HK-NTM-L07, Coordinates: 22.399, 113.971
+
+
+### 屯門鄉郊 (Tuen Mun Rural)
+
+Code: HK-NTM-L29, Coordinates: 22.421, 113.986
+
+
+### 屯門市中心 (Tuen Mun Town Centre)
+
+Code: HK-NTM-L01, Coordinates: 22.393, 113.978
+
+
+### 湖景 (Wu King)
+
+Code: HK-NTM-L17, Coordinates: 22.376, 113.966
+
+
+### 欣田 (Yan Tin)
+
+Code: HK-NTM-L28, Coordinates: 22.421, 113.972
+
+
+### 友愛北 (Yau Oi North)
+
+Code: HK-NTM-L06, Coordinates: 22.384, 113.971
+
+
+### 友愛南 (Yau Oi South)
+
+Code: HK-NTM-L05, Coordinates: 22.387, 113.974
+
+
+### 悅湖 (Yuet Wu)
+
+Code: HK-NTM-L15, Coordinates: 22.376, 113.969
+
+

@@ -1,0 +1,29 @@
+{
+  "id": "HK-KKC",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "九龍城",
+    "en": "Kowloon City",
+    "slug": "kowloon-city-kkc"
+  },
+  "code": {
+    "id": "HK-KKC",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.329",
+    "lon": "114.191"
+  },
+  "metadata": {},
+  "source": {}
+}

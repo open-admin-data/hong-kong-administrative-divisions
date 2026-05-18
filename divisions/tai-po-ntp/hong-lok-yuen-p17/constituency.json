@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTP-P17",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "康樂園",
+    "en": "Hong Lok Yuen",
+    "slug": "hong-lok-yuen-p17"
+  },
+  "code": {
+    "id": "HK-NTP-P17",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTP",
+    "level": 1,
+    "name": {
+      "local": "大埔",
+      "en": "Tai Po",
+      "slug": "tai-po-ntp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.475",
+    "lon": "114.18"
+  },
+  "metadata": {},
+  "source": {}
+}

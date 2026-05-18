@@ -1,0 +1,677 @@
+[
+  {
+    "id": "HK-HCW-A09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "寶翠",
+      "en": "Belcher",
+      "slug": "belcher-a09"
+    },
+    "code": {
+      "id": "HK-HCW-A09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.285",
+      "lon": "114.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "衛城",
+      "en": "Castle Road",
+      "slug": "castle-road-a03"
+    },
+    "code": {
+      "id": "HK-HCW-A03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.281",
+      "lon": "114.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "正街",
+      "en": "Centre Street",
+      "slug": "centre-street-a14"
+    },
+    "code": {
+      "id": "HK-HCW-A14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.285",
+      "lon": "114.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "中環",
+      "en": "Chung Wan",
+      "slug": "chung-wan-a01"
+    },
+    "code": {
+      "id": "HK-HCW-A01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.278",
+      "lon": "114.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "堅摩",
+      "en": "Kennedy Town & Mount Davis",
+      "slug": "kennedy-town-mount-davis-a07"
+    },
+    "code": {
+      "id": "HK-HCW-A07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.276",
+      "lon": "114.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "觀龍",
+      "en": "Kwun Lung",
+      "slug": "kwun-lung-a06"
+    },
+    "code": {
+      "id": "HK-HCW-A06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.279",
+      "lon": "114.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "半山東",
+      "en": "Mid Levels East",
+      "slug": "mid-levels-east-a02"
+    },
+    "code": {
+      "id": "HK-HCW-A02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.279",
+      "lon": "114.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "山頂",
+      "en": "Peak",
+      "slug": "peak-a04"
+    },
+    "code": {
+      "id": "HK-HCW-A04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.266",
+      "lon": "114.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "西環",
+      "en": "Sai Wan",
+      "slug": "sai-wan-a08"
+    },
+    "code": {
+      "id": "HK-HCW-A08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.283",
+      "lon": "114.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "西營盤",
+      "en": "Sai Ying Pun",
+      "slug": "sai-ying-pun-a11"
+    },
+    "code": {
+      "id": "HK-HCW-A11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.289",
+      "lon": "114.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "石塘咀",
+      "en": "Shek Tong Tsui",
+      "slug": "shek-tong-tsui-a10"
+    },
+    "code": {
+      "id": "HK-HCW-A10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.289",
+      "lon": "114.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "上環",
+      "en": "Sheung Wan",
+      "slug": "sheung-wan-a12"
+    },
+    "code": {
+      "id": "HK-HCW-A12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.287",
+      "lon": "114.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "東華",
+      "en": "Tung Wah",
+      "slug": "tung-wah-a13"
+    },
+    "code": {
+      "id": "HK-HCW-A13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.284",
+      "lon": "114.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大學",
+      "en": "University",
+      "slug": "university-a05"
+    },
+    "code": {
+      "id": "HK-HCW-A05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.281",
+      "lon": "114.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HCW-A15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "水街",
+      "en": "Water Street",
+      "slug": "water-street-a15"
+    },
+    "code": {
+      "id": "HK-HCW-A15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HCW",
+      "level": 1,
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HCW",
+        "level": 1,
+        "name": {
+          "local": "中西區",
+          "en": "Central and Western",
+          "slug": "central-and-western-hcw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.285",
+      "lon": "114.137"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTM-L08",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "山景",
+    "en": "Shan King",
+    "slug": "shan-king-l08"
+  },
+  "code": {
+    "id": "HK-NTM-L08",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTM",
+    "level": 1,
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.397",
+    "lon": "113.964"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTW-K12",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "荃灣郊區",
+    "en": "Tsuen Wan Rural",
+    "slug": "tsuen-wan-rural-k12"
+  },
+  "code": {
+    "id": "HK-NTW-K12",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTW",
+    "level": 1,
+    "name": {
+      "local": "荃灣",
+      "en": "Tsuen Wan",
+      "slug": "tsuen-wan-ntw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.364",
+    "lon": "114.046"
+  },
+  "metadata": {},
+  "source": {}
+}

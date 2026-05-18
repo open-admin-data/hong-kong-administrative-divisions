@@ -1,0 +1,164 @@
+# Kwai Tsing — Hong Kong Administrative Divisions
+
+> 31 constituencys
+> Code: HK-NKT
+> Coordinates: 22.353, 114.1
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 長青 (Cheung Ching)
+
+Code: HK-NKT-S25, Coordinates: 22.347, 114.109
+
+
+### 長亨 (Cheung Hang)
+
+Code: HK-NKT-S29, Coordinates: 22.357, 114.092
+
+
+### 長康 (Cheung Hong)
+
+Code: HK-NKT-S26, Coordinates: 22.349, 114.101
+
+
+### 長安 (Cheung On)
+
+Code: HK-NKT-S31, Coordinates: 22.361, 114.102
+
+
+### 青發 (Ching Fat)
+
+Code: HK-NKT-S30, Coordinates: 22.362, 114.099
+
+
+### 祖堯 (Cho Yiu)
+
+Code: HK-NKT-S18, Coordinates: 22.346, 114.131
+
+
+### 翠怡 (Greenfield)
+
+Code: HK-NKT-S24, Coordinates: 22.353, 114.104
+
+
+### 興芳 (Hing Fong)
+
+Code: HK-NKT-S15, Coordinates: 22.355, 114.131
+
+
+### 葵涌邨北 (Kwai Chung Estate North)
+
+Code: HK-NKT-S07, Coordinates: 22.369, 114.13
+
+
+### 葵涌邨南 (Kwai Chung Estate South)
+
+Code: HK-NKT-S06, Coordinates: 22.366, 114.128
+
+
+### 葵芳 (Kwai Fong)
+
+Code: HK-NKT-S14, Coordinates: 22.361, 114.132
+
+
+### 葵興 (Kwai Hing)
+
+Code: HK-NKT-S01, Coordinates: 22.367, 114.132
+
+
+### 葵聯 (Kwai Luen)
+
+Code: HK-NKT-S02, Coordinates: 22.363, 114.127
+
+
+### 葵盛東邨 (Kwai Shing East Estate)
+
+Code: HK-NKT-S03, Coordinates: 22.364, 114.127
+
+
+### 葵盛西邨 (Kwai Shing West Estate)
+
+Code: HK-NKT-S20, Coordinates: 22.359, 114.121
+
+
+### 荔景 (Lai King)
+
+Code: HK-NKT-S19, Coordinates: 22.342, 114.128
+
+
+### 荔華 (Lai Wah)
+
+Code: HK-NKT-S17, Coordinates: 22.353, 114.139
+
+
+### 下大窩口 (Lower Tai Wo Hau)
+
+Code: HK-NKT-S05, Coordinates: 22.368, 114.125
+
+
+### 安灝 (On Ho)
+
+Code: HK-NKT-S21, Coordinates: 22.361, 114.105
+
+
+### 安蔭 (On Yam)
+
+Code: HK-NKT-S11, Coordinates: 22.376, 114.143
+
+
+### 石籬北 (Shek Lei North)
+
+Code: HK-NKT-S12, Coordinates: 22.366, 114.14
+
+
+### 石籬南 (Shek Lei South)
+
+Code: HK-NKT-S13, Coordinates: 22.365, 114.142
+
+
+### 石蔭 (Shek Yam)
+
+Code: HK-NKT-S08, Coordinates: 22.373, 114.137
+
+
+### 盛康 (Shing Hong)
+
+Code: HK-NKT-S27, Coordinates: 22.35, 114.101
+
+
+### 大白田東 (Tai Pak Tin East)
+
+Code: HK-NKT-S10, Coordinates: 22.369, 114.139
+
+
+### 大白田西 (Tai Pak Tin West)
+
+Code: HK-NKT-S09, Coordinates: 22.367, 114.137
+
+
+### 青衣邨 (Tsing Yi Estate)
+
+Code: HK-NKT-S23, Coordinates: 22.354, 114.105
+
+
+### 青衣南 (Tsing Yi South)
+
+Code: HK-NKT-S28, Coordinates: 22.349, 114.099
+
+
+### 上大窩口 (Upper Tai Wo Hau)
+
+Code: HK-NKT-S04, Coordinates: 22.367, 114.123
+
+
+### 華麗 (Wah Lai)
+
+Code: HK-NKT-S16, Coordinates: 22.355, 114.135
+
+
+### 偉盈 (Wai Ying)
+
+Code: HK-NKT-S22, Coordinates: 22.357, 114.104
+
+

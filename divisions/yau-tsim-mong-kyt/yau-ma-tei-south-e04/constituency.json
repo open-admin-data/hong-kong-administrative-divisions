@@ -1,0 +1,45 @@
+{
+  "id": "HK-KYT-E04",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "油麻地南",
+    "en": "Yau Ma Tei South",
+    "slug": "yau-ma-tei-south-e04"
+  },
+  "code": {
+    "id": "HK-KYT-E04",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KYT",
+    "level": 1,
+    "name": {
+      "local": "油尖旺",
+      "en": "Yau Tsim Mong",
+      "slug": "yau-tsim-mong-kyt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.31",
+    "lon": "114.166"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "HK-KSS-F02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "長沙灣",
+      "en": "Cheung Sha Wan",
+      "slug": "cheung-sha-wan-f02"
+    },
+    "code": {
+      "id": "HK-KSS-F02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "114.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "幸福",
+      "en": "Fortune",
+      "slug": "fortune-f11"
+    },
+    "code": {
+      "id": "HK-KSS-F11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.336",
+      "lon": "114.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富昌",
+      "en": "Fu Cheong",
+      "slug": "fu-cheong-f09"
+    },
+    "code": {
+      "id": "HK-KSS-F09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.328",
+      "lon": "114.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F23",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "下白田",
+      "en": "Ha Pak Tin",
+      "slug": "ha-pak-tin-f23"
+    },
+    "code": {
+      "id": "HK-KSS-F23",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.337",
+      "lon": "114.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荔枝角中",
+      "en": "Lai Chi Kok Central",
+      "slug": "lai-chi-kok-central-f13"
+    },
+    "code": {
+      "id": "HK-KSS-F13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "114.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荔枝角北",
+      "en": "Lai Chi Kok North",
+      "slug": "lai-chi-kok-north-f18"
+    },
+    "code": {
+      "id": "HK-KSS-F18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.338",
+      "lon": "114.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荔枝角南",
+      "en": "Lai Chi Kok South",
+      "slug": "lai-chi-kok-south-f14"
+    },
+    "code": {
+      "id": "HK-KSS-F14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.328",
+      "lon": "114.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "麗閣",
+      "en": "Lai Kok",
+      "slug": "lai-kok-f10"
+    },
+    "code": {
+      "id": "HK-KSS-F10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.332",
+      "lon": "114.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F21",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "李鄭屋",
+      "en": "Lei Cheng Uk",
+      "slug": "lei-cheng-uk-f21"
+    },
+    "code": {
+      "id": "HK-KSS-F21",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.34",
+      "lon": "114.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F22",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "龍坪及上白田",
+      "en": "Lung Ping & Sheung Pak Tin",
+      "slug": "lung-ping-sheung-pak-tin-f22"
+    },
+    "code": {
+      "id": "HK-KSS-F22",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.34",
+      "lon": "114.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "美孚中",
+      "en": "Mei Foo Central",
+      "slug": "mei-foo-central-f16"
+    },
+    "code": {
+      "id": "HK-KSS-F16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.336",
+      "lon": "114.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "美孚北",
+      "en": "Mei Foo North",
+      "slug": "mei-foo-north-f17"
+    },
+    "code": {
+      "id": "HK-KSS-F17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.339",
+      "lon": "114.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "美孚南",
+      "en": "Mei Foo South",
+      "slug": "mei-foo-south-f15"
+    },
+    "code": {
+      "id": "HK-KSS-F15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "114.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "南昌中",
+      "en": "Nam Cheong Central",
+      "slug": "nam-cheong-central-f07"
+    },
+    "code": {
+      "id": "HK-KSS-F07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.329",
+      "lon": "114.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "南昌東",
+      "en": "Nam Cheong East",
+      "slug": "nam-cheong-east-f05"
+    },
+    "code": {
+      "id": "HK-KSS-F05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.33",
+      "lon": "114.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "南昌北",
+      "en": "Nam Cheong North",
+      "slug": "nam-cheong-north-f03"
+    },
+    "code": {
+      "id": "HK-KSS-F03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.333",
+      "lon": "114.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "南昌南",
+      "en": "Nam Cheong South",
+      "slug": "nam-cheong-south-f06"
+    },
+    "code": {
+      "id": "HK-KSS-F06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.328",
+      "lon": "114.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "南昌西",
+      "en": "Nam Cheong West",
+      "slug": "nam-cheong-west-f08"
+    },
+    "code": {
+      "id": "HK-KSS-F08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.326",
+      "lon": "114.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F25",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "南山、大坑東及大坑西",
+      "en": "Nam Shan, Tai Hang Tung & Tai Hang Sai",
+      "slug": "nam-shan-tai-hang-tung-tai-hang-sai-f25"
+    },
+    "code": {
+      "id": "HK-KSS-F25",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.333",
+      "lon": "114.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "碧匯",
+      "en": "Pik Wui",
+      "slug": "pik-wui-f12"
+    },
+    "code": {
+      "id": "HK-KSS-F12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.329",
+      "lon": "114.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "寶麗",
+      "en": "Po Lai",
+      "slug": "po-lai-f01"
+    },
+    "code": {
+      "id": "HK-KSS-F01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.336",
+      "lon": "114.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "石硤尾",
+      "en": "Shek Kip Mei",
+      "slug": "shek-kip-mei-f04"
+    },
+    "code": {
+      "id": "HK-KSS-F04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.333",
+      "lon": "114.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F20",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "蘇屋",
+      "en": "So Uk",
+      "slug": "so-uk-f20"
+    },
+    "code": {
+      "id": "HK-KSS-F20",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.342",
+      "lon": "114.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "元州",
+      "en": "Un Chau",
+      "slug": "un-chau-f19"
+    },
+    "code": {
+      "id": "HK-KSS-F19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.339",
+      "lon": "114.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-KSS-F24",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "又一村",
+      "en": "Yau Yat Tsuen",
+      "slug": "yau-yat-tsuen-f24"
+    },
+    "code": {
+      "id": "HK-KSS-F24",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-KSS",
+        "level": 1,
+        "name": {
+          "local": "深水埗區",
+          "en": "Sham Shui Po",
+          "slug": "sham-shui-po-kss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.338",
+      "lon": "114.17"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

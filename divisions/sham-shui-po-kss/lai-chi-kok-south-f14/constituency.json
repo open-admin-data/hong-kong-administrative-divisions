@@ -1,0 +1,45 @@
+{
+  "id": "HK-KSS-F14",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "荔枝角南",
+    "en": "Lai Chi Kok South",
+    "slug": "lai-chi-kok-south-f14"
+  },
+  "code": {
+    "id": "HK-KSS-F14",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KSS",
+    "level": 1,
+    "name": {
+      "local": "深水埗區",
+      "en": "Sham Shui Po",
+      "slug": "sham-shui-po-kss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.328",
+    "lon": "114.144"
+  },
+  "metadata": {},
+  "source": {}
+}

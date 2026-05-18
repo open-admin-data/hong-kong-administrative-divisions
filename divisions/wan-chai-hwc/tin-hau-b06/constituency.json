@@ -1,0 +1,45 @@
+{
+  "id": "HK-HWC-B06",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "天后",
+    "en": "Tin Hau",
+    "slug": "tin-hau-b06"
+  },
+  "code": {
+    "id": "HK-HWC-B06",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HWC",
+    "level": 1,
+    "name": {
+      "local": "灣仔",
+      "en": "Wan Chai",
+      "slug": "wan-chai-hwc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.281",
+    "lon": "114.194"
+  },
+  "metadata": {},
+  "source": {}
+}

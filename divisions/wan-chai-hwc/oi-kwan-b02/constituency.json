@@ -1,0 +1,45 @@
+{
+  "id": "HK-HWC-B02",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "愛群",
+    "en": "Oi Kwan",
+    "slug": "oi-kwan-b02"
+  },
+  "code": {
+    "id": "HK-HWC-B02",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HWC",
+    "level": 1,
+    "name": {
+      "local": "灣仔",
+      "en": "Wan Chai",
+      "slug": "wan-chai-hwc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.277",
+    "lon": "114.178"
+  },
+  "metadata": {},
+  "source": {}
+}

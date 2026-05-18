@@ -1,0 +1,45 @@
+{
+  "id": "HK-NKT-S04",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "上大窩口",
+    "en": "Upper Tai Wo Hau",
+    "slug": "upper-tai-wo-hau-s04"
+  },
+  "code": {
+    "id": "HK-NKT-S04",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NKT",
+    "level": 1,
+    "name": {
+      "local": "葵青",
+      "en": "Kwai Tsing",
+      "slug": "kwai-tsing-nkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.367",
+    "lon": "114.123"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,109 @@
+# Yau Tsim Mong — Hong Kong Administrative Divisions
+
+> 20 constituencys
+> Code: HK-KYT
+> Coordinates: 22.313, 114.169
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 富榮 (Charming)
+
+Code: HK-KYT-E05, Coordinates: 22.314, 114.165
+
+
+### 櫻桃 (Cherry)
+
+Code: HK-KYT-E09, Coordinates: 22.318, 114.164
+
+
+### 尖東及京士柏 (East Tsim Sha Tsui &amp; King&#39;s Park)
+
+Code: HK-KYT-E17, Coordinates: 22.307, 114.176
+
+
+### 富柏 (Fu Pak)
+
+Code: HK-KYT-E07, Coordinates: 22.316, 114.164
+
+
+### 佐敦北 (Jordan North)
+
+Code: HK-KYT-E18, Coordinates: 22.307, 114.172
+
+
+### 佐敦南 (Jordan South)
+
+Code: HK-KYT-E19, Coordinates: 22.304, 114.17
+
+
+### 佐敦西 (Jordan West)
+
+Code: HK-KYT-E03, Coordinates: 22.309, 114.166
+
+
+### 九龍站 (Kowloon Station)
+
+Code: HK-KYT-E02, Coordinates: 22.304, 114.16
+
+
+### 旺角東 (Mong Kok East)
+
+Code: HK-KYT-E14, Coordinates: 22.324, 114.172
+
+
+### 旺角北 (Mong Kok North)
+
+Code: HK-KYT-E13, Coordinates: 22.322, 114.165
+
+
+### 旺角南 (Mong Kok South)
+
+Code: HK-KYT-E15, Coordinates: 22.319, 114.171
+
+
+### 旺角西 (Mong Kok West)
+
+Code: HK-KYT-E06, Coordinates: 22.317, 114.168
+
+
+### 奧運 (Olympic)
+
+Code: HK-KYT-E08, Coordinates: 22.321, 114.159
+
+
+### 大角咀北 (Tai Kok Tsui North)
+
+Code: HK-KYT-E11, Coordinates: 22.324, 114.161
+
+
+### 大角咀南 (Tai Kok Tsui South)
+
+Code: HK-KYT-E10, Coordinates: 22.321, 114.162
+
+
+### 大南 (Tai Nan)
+
+Code: HK-KYT-E12, Coordinates: 22.324, 114.164
+
+
+### 尖沙咀中 (Tsim Sha Tsui Central)
+
+Code: HK-KYT-E20, Coordinates: 22.302, 114.175
+
+
+### 尖沙咀西 (Tsim Sha Tsui West)
+
+Code: HK-KYT-E01, Coordinates: 22.302, 114.164
+
+
+### 油麻地北 (Yau Ma Tei North)
+
+Code: HK-KYT-E16, Coordinates: 22.314, 114.171
+
+
+### 油麻地南 (Yau Ma Tei South)
+
+Code: HK-KYT-E04, Coordinates: 22.31, 114.166
+
+

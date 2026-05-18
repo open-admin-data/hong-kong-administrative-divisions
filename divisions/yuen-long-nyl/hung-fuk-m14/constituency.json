@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M14",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "洪福",
+    "en": "Hung Fuk",
+    "slug": "hung-fuk-m14"
+  },
+  "code": {
+    "id": "HK-NYL-M14",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.437",
+    "lon": "113.998"
+  },
+  "metadata": {},
+  "source": {}
+}

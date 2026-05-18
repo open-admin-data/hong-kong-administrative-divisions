@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R18",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "田心",
+    "en": "Tin Sum",
+    "slug": "tin-sum-r18"
+  },
+  "code": {
+    "id": "HK-NST-R18",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.367",
+    "lon": "114.178"
+  },
+  "metadata": {},
+  "source": {}
+}

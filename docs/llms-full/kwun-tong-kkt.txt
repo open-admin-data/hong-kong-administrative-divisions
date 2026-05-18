@@ -1,0 +1,209 @@
+# Kwun Tong — Hong Kong Administrative Divisions
+
+> 40 constituencys
+> Code: HK-KKT
+> Coordinates: 22.313, 114.226
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 彩德 (Choi Tak)
+
+Code: HK-KKT-J06, Coordinates: 22.331, 114.215
+
+
+### 俊翔 (Chun Cheung)
+
+Code: HK-KKT-J22, Coordinates: 22.299, 114.242
+
+
+### 興田 (Hing Tin)
+
+Code: HK-KKT-J18, Coordinates: 22.311, 114.239
+
+
+### 協康 (Hip Hong)
+
+Code: HK-KKT-J33, Coordinates: 22.32, 114.225
+
+
+### 曉麗 (Hiu Lai)
+
+Code: HK-KKT-J30, Coordinates: 22.317, 114.231
+
+
+### 康樂 (Hong Lok)
+
+Code: HK-KKT-J36, Coordinates: 22.318, 114.221
+
+
+### 佐敦谷 (Jordan Valley)
+
+Code: HK-KKT-J07, Coordinates: 22.327, 114.216
+
+
+### 啟業 (Kai Yip)
+
+Code: HK-KKT-J03, Coordinates: 22.329, 114.212
+
+
+### 景田 (King Tin)
+
+Code: HK-KKT-J28, Coordinates: 22.309, 114.234
+
+
+### 九龍灣 (Kowloon Bay)
+
+Code: HK-KKT-J02, Coordinates: 22.323, 114.206
+
+
+### 廣德 (Kwong Tak)
+
+Code: HK-KKT-J17, Coordinates: 22.309, 114.242
+
+
+### 觀塘中心 (Kwun Tong Central)
+
+Code: HK-KKT-J01, Coordinates: 22.314, 114.222
+
+
+### 觀塘安泰 (Kwun Tong On Tai)
+
+Code: HK-KKT-J11, Coordinates: 22.327, 114.23
+
+
+### 麗港城 (Laguna City)
+
+Code: HK-KKT-J27, Coordinates: 22.305, 114.228
+
+
+### 麗晶 (Lai Ching)
+
+Code: HK-KKT-J04, Coordinates: 22.331, 114.206
+
+
+### 藍田 (Lam Tin)
+
+Code: HK-KKT-J19, Coordinates: 22.311, 114.236
+
+
+### 樂華北 (Lok Wah North)
+
+Code: HK-KKT-J35, Coordinates: 22.321, 114.219
+
+
+### 樂華南 (Lok Wah South)
+
+Code: HK-KKT-J34, Coordinates: 22.321, 114.225
+
+
+### 牛頭角下邨 (Lower Ngau Tau Kok Estate)
+
+Code: HK-KKT-J39, Coordinates: 22.322, 114.218
+
+
+### 安利 (On Lee)
+
+Code: HK-KKT-J10, Coordinates: 22.331, 114.227
+
+
+### 安達 (On Tat)
+
+Code: HK-KKT-J14, Coordinates: 22.32, 114.237
+
+
+### 栢雅 (Pak Nga)
+
+Code: HK-KKT-J21, Coordinates: 22.303, 114.239
+
+
+### 坪石 (Ping Shek)
+
+Code: HK-KKT-J05, Coordinates: 22.332, 114.212
+
+
+### 平田 (Ping Tin)
+
+Code: HK-KKT-J20, Coordinates: 22.307, 114.236
+
+
+### 寶樂 (Po Lok)
+
+Code: HK-KKT-J31, Coordinates: 22.316, 114.228
+
+
+### 寶達 (Po Tat)
+
+Code: HK-KKT-J16, Coordinates: 22.318, 114.24
+
+
+### 秀茂坪中 (Sau Mau Ping Central)
+
+Code: HK-KKT-J13, Coordinates: 22.32, 114.233
+
+
+### 秀茂坪北 (Sau Mau Ping North)
+
+Code: HK-KKT-J12, Coordinates: 22.319, 114.231
+
+
+### 秀茂坪南 (Sau Mau Ping South)
+
+Code: HK-KKT-J15, Coordinates: 22.316, 114.235
+
+
+### 雙順 (Sheung Shun)
+
+Code: HK-KKT-J09, Coordinates: 22.333, 114.225
+
+
+### 順天 (Shun Tin)
+
+Code: HK-KKT-J08, Coordinates: 22.327, 114.224
+
+
+### 定安 (Ting On)
+
+Code: HK-KKT-J37, Coordinates: 22.315, 114.221
+
+
+### 淘大 (To Tai)
+
+Code: HK-KKT-J40, Coordinates: 22.325, 114.216
+
+
+### 翠屏 (Tsui Ping)
+
+Code: HK-KKT-J29, Coordinates: 22.314, 114.233
+
+
+### 牛頭角上邨 (Upper Ngau Tau Kok Estate)
+
+Code: HK-KKT-J38, Coordinates: 22.32, 114.217
+
+
+### 油翠 (Yau Chui)
+
+Code: HK-KKT-J24, Coordinates: 22.3, 114.237
+
+
+### 油麗 (Yau Lai)
+
+Code: HK-KKT-J25, Coordinates: 22.3, 114.235
+
+
+### 油塘東 (Yau Tong East)
+
+Code: HK-KKT-J23, Coordinates: 22.295, 114.242
+
+
+### 油塘西 (Yau Tong West)
+
+Code: HK-KKT-J26, Coordinates: 22.3, 114.235
+
+
+### 月華 (Yuet Wah)
+
+Code: HK-KKT-J32, Coordinates: 22.315, 114.227
+
+

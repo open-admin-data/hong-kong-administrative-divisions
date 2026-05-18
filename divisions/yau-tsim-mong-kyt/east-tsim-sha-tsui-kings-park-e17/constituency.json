@@ -1,0 +1,45 @@
+{
+  "id": "HK-KYT-E17",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "尖東及京士柏",
+    "en": "East Tsim Sha Tsui & King's Park",
+    "slug": "east-tsim-sha-tsui-kings-park-e17"
+  },
+  "code": {
+    "id": "HK-KYT-E17",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KYT",
+    "level": 1,
+    "name": {
+      "local": "油尖旺",
+      "en": "Yau Tsim Mong",
+      "slug": "yau-tsim-mong-kyt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.307",
+    "lon": "114.176"
+  },
+  "metadata": {},
+  "source": {}
+}

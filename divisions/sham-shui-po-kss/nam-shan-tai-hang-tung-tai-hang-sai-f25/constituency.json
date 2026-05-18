@@ -1,0 +1,45 @@
+{
+  "id": "HK-KSS-F25",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "南山、大坑東及大坑西",
+    "en": "Nam Shan, Tai Hang Tung & Tai Hang Sai",
+    "slug": "nam-shan-tai-hang-tung-tai-hang-sai-f25"
+  },
+  "code": {
+    "id": "HK-KSS-F25",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KSS",
+    "level": 1,
+    "name": {
+      "local": "深水埗區",
+      "en": "Sham Shui Po",
+      "slug": "sham-shui-po-kss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.333",
+    "lon": "114.17"
+  },
+  "metadata": {},
+  "source": {}
+}

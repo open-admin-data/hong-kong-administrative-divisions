@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J18",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "興田",
+    "en": "Hing Tin",
+    "slug": "hing-tin-j18"
+  },
+  "code": {
+    "id": "HK-KKT-J18",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.311",
+    "lon": "114.239"
+  },
+  "metadata": {},
+  "source": {}
+}

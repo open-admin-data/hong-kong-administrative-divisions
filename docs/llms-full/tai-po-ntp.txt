@@ -1,0 +1,104 @@
+# Tai Po — Hong Kong Administrative Divisions
+
+> 19 constituencys
+> Code: HK-NTP
+> Coordinates: 22.44, 114.165
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 頌汀 (Chung Ting)
+
+Code: HK-NTP-P02, Coordinates: 22.455, 114.167
+
+
+### 富亨 (Fu Heng)
+
+Code: HK-NTP-P05, Coordinates: 22.46, 114.175
+
+
+### 富明新 (Fu Ming Sun)
+
+Code: HK-NTP-P07, Coordinates: 22.451, 114.175
+
+
+### 康樂園 (Hong Lok Yuen)
+
+Code: HK-NTP-P17, Coordinates: 22.475, 114.18
+
+
+### 廣福及寶湖 (Kwong Fuk &amp; Plover Cove)
+
+Code: HK-NTP-P08, Coordinates: 22.449, 114.174
+
+
+### 林村谷 (Lam Tsuen Valley)
+
+Code: HK-NTP-P13, Coordinates: 22.446, 114.139
+
+
+### 舊墟及太湖 (Old Market &amp; Serenity)
+
+Code: HK-NTP-P16, Coordinates: 22.456, 114.159
+
+
+### 寶雅 (Po Nga)
+
+Code: HK-NTP-P14, Coordinates: 22.452, 114.155
+
+
+### 西貢北 (Sai Kung North)
+
+Code: HK-NTP-P19, Coordinates: 22.417, 114.3
+
+
+### 新富 (San Fu)
+
+Code: HK-NTP-P12, Coordinates: 22.443, 114.162
+
+
+### 船灣 (Shuen Wan)
+
+Code: HK-NTP-P18, Coordinates: 22.487, 114.235
+
+
+### 大埔中 (Tai Po Central)
+
+Code: HK-NTP-P03, Coordinates: 22.453, 114.171
+
+
+### 大埔墟 (Tai Po Hui)
+
+Code: HK-NTP-P01, Coordinates: 22.448, 114.167
+
+
+### 大埔滘 (Tai Po Kau)
+
+Code: HK-NTP-P10, Coordinates: 22.434, 114.169
+
+
+### 太和 (Tai Wo)
+
+Code: HK-NTP-P15, Coordinates: 22.452, 114.162
+
+
+### 大元 (Tai Yuen)
+
+Code: HK-NTP-P04, Coordinates: 22.455, 114.169
+
+
+### 運頭塘 (Wan Tau Tong)
+
+Code: HK-NTP-P11, Coordinates: 22.442, 114.168
+
+
+### 宏福 (Wang Fuk)
+
+Code: HK-NTP-P09, Coordinates: 22.439, 114.188
+
+
+### 怡富 (Yee Fu)
+
+Code: HK-NTP-P06, Coordinates: 22.454, 114.176
+
+

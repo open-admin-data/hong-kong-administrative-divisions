@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R16",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "雲城",
+    "en": "Wan Shing",
+    "slug": "wan-shing-r16"
+  },
+  "code": {
+    "id": "HK-NST-R16",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.369",
+    "lon": "114.176"
+  },
+  "metadata": {},
+  "source": {}
+}

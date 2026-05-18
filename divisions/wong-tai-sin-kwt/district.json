@@ -1,0 +1,29 @@
+{
+  "id": "HK-KWT",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "黃大仙",
+    "en": "Wong Tai Sin",
+    "slug": "wong-tai-sin-kwt"
+  },
+  "code": {
+    "id": "HK-KWT",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.343",
+    "lon": "114.193"
+  },
+  "metadata": {},
+  "source": {}
+}

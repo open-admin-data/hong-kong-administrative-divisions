@@ -1,0 +1,45 @@
+{
+  "id": "HK-HEA-C22",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "丹拿",
+    "en": "Tanner",
+    "slug": "tanner-c22"
+  },
+  "code": {
+    "id": "HK-HEA-C22",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HEA",
+    "level": 1,
+    "name": {
+      "local": "東區",
+      "en": "Eastern",
+      "slug": "eastern-hea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HEA",
+      "level": 1,
+      "name": {
+        "local": "東區",
+        "en": "Eastern",
+        "slug": "eastern-hea"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.289",
+    "lon": "114.203"
+  },
+  "metadata": {},
+  "source": {}
+}

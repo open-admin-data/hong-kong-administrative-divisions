@@ -1,0 +1,767 @@
+[
+  {
+    "id": "HK-HSO-D01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "香港仔",
+      "en": "Aberdeen",
+      "slug": "aberdeen-d01"
+    },
+    "code": {
+      "id": "HK-HSO-D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.244",
+      "lon": "114.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "鴨脷洲邨",
+      "en": "Ap Lei Chau Estate",
+      "slug": "ap-lei-chau-estate-d02"
+    },
+    "code": {
+      "id": "HK-HSO-D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.245",
+      "lon": "114.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "鴨脷洲北",
+      "en": "Ap Lei Chau North",
+      "slug": "ap-lei-chau-north-d03"
+    },
+    "code": {
+      "id": "HK-HSO-D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.244",
+      "lon": "114.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "海灣",
+      "en": "Bays Area",
+      "slug": "bays-area-d16"
+    },
+    "code": {
+      "id": "HK-HSO-D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.246",
+      "lon": "114.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "置富",
+      "en": "Chi Fu",
+      "slug": "chi-fu-d12"
+    },
+    "code": {
+      "id": "HK-HSO-D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.261",
+      "lon": "114.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "利東一",
+      "en": "Lei Tung I",
+      "slug": "lei-tung-i-d04"
+    },
+    "code": {
+      "id": "HK-HSO-D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.239",
+      "lon": "114.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "利東二",
+      "en": "Lei Tung II",
+      "slug": "lei-tung-ii-d05"
+    },
+    "code": {
+      "id": "HK-HSO-D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.241",
+      "lon": "114.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "薄扶林",
+      "en": "Pokfulam",
+      "slug": "pokfulam-d11"
+    },
+    "code": {
+      "id": "HK-HSO-D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.264",
+      "lon": "114.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "石漁",
+      "en": "Shek Yue",
+      "slug": "shek-yue-d14"
+    },
+    "code": {
+      "id": "HK-HSO-D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.25",
+      "lon": "114.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "海怡東",
+      "en": "South Horizons East",
+      "slug": "south-horizons-east-d06"
+    },
+    "code": {
+      "id": "HK-HSO-D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.241",
+      "lon": "114.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "海怡西",
+      "en": "South Horizons West",
+      "slug": "south-horizons-west-d07"
+    },
+    "code": {
+      "id": "HK-HSO-D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.244",
+      "lon": "114.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "赤柱及石澳",
+      "en": "Stanley & Shek O",
+      "slug": "stanley-shek-o-d17"
+    },
+    "code": {
+      "id": "HK-HSO-D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.249",
+      "lon": "114.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "田灣",
+      "en": "Tin Wan",
+      "slug": "tin-wan-d13"
+    },
+    "code": {
+      "id": "HK-HSO-D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.252",
+      "lon": "114.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "華富北",
+      "en": "Wah Fu North",
+      "slug": "wah-fu-north-d10"
+    },
+    "code": {
+      "id": "HK-HSO-D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.254",
+      "lon": "114.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "華富南",
+      "en": "Wah Fu South",
+      "slug": "wah-fu-south-d09"
+    },
+    "code": {
+      "id": "HK-HSO-D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.252",
+      "lon": "114.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "華貴",
+      "en": "Wah Kwai",
+      "slug": "wah-kwai-d08"
+    },
+    "code": {
+      "id": "HK-HSO-D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.249",
+      "lon": "114.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-HSO-D15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "黃竹坑",
+      "en": "Wong Chuk Hang",
+      "slug": "wong-chuk-hang-d15"
+    },
+    "code": {
+      "id": "HK-HSO-D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-HSO",
+        "level": 1,
+        "name": {
+          "local": "南區",
+          "en": "Southern",
+          "slug": "southern-hso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.25",
+      "lon": "114.164"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

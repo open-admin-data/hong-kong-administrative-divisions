@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R14",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "顯嘉",
+    "en": "Hin Ka",
+    "slug": "hin-ka-r14"
+  },
+  "code": {
+    "id": "HK-NST-R14",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.355",
+    "lon": "114.174"
+  },
+  "metadata": {},
+  "source": {}
+}

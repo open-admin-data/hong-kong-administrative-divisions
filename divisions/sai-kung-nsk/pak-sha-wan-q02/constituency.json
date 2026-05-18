@@ -1,0 +1,45 @@
+{
+  "id": "HK-NSK-Q02",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "白沙灣",
+    "en": "Pak Sha Wan",
+    "slug": "pak-sha-wan-q02"
+  },
+  "code": {
+    "id": "HK-NSK-Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NSK",
+    "level": 1,
+    "name": {
+      "local": "西貢區",
+      "en": "Sai Kung",
+      "slug": "sai-kung-nsk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.368",
+    "lon": "114.249"
+  },
+  "metadata": {},
+  "source": {}
+}

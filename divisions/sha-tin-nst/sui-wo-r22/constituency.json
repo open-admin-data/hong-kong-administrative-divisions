@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R22",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "穗禾",
+    "en": "Sui Wo",
+    "slug": "sui-wo-r22"
+  },
+  "code": {
+    "id": "HK-NST-R22",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.4",
+    "lon": "114.177"
+  },
+  "metadata": {},
+  "source": {}
+}

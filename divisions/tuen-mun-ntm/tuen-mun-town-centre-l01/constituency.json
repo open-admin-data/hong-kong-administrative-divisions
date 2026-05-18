@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTM-L01",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "屯門市中心",
+    "en": "Tuen Mun Town Centre",
+    "slug": "tuen-mun-town-centre-l01"
+  },
+  "code": {
+    "id": "HK-NTM-L01",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTM",
+    "level": 1,
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.393",
+    "lon": "113.978"
+  },
+  "metadata": {},
+  "source": {}
+}

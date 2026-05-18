@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTM-L09",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "景興",
+    "en": "King Hing",
+    "slug": "king-hing-l09"
+  },
+  "code": {
+    "id": "HK-NTM-L09",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTM",
+    "level": 1,
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.403",
+    "lon": "113.969"
+  },
+  "metadata": {},
+  "source": {}
+}

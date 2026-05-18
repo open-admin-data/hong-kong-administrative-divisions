@@ -1,0 +1,45 @@
+{
+  "id": "HK-NNO-N09",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "清河",
+    "en": "Ching Ho",
+    "slug": "ching-ho-n09"
+  },
+  "code": {
+    "id": "HK-NNO-N09",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NNO",
+    "level": 1,
+    "name": {
+      "local": "北區",
+      "en": "North",
+      "slug": "north-nno"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.493",
+    "lon": "114.127"
+  },
+  "metadata": {},
+  "source": {}
+}

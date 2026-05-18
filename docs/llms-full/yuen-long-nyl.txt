@@ -1,0 +1,204 @@
+# Yuen Long — Hong Kong Administrative Divisions
+
+> 39 constituencys
+> Code: HK-NYL
+> Coordinates: 22.417, 114.05
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 晴景 (Ching King)
+
+Code: HK-NYL-M29, Coordinates: 22.464, 114.004
+
+
+### 頌栢 (Chung Pak)
+
+Code: HK-NYL-M26, Coordinates: 22.459, 114.001
+
+
+### 頌華 (Chung Wah)
+
+Code: HK-NYL-M25, Coordinates: 22.461, 113.997
+
+
+### 錦綉花園 (Fairview Park)
+
+Code: HK-NYL-M35, Coordinates: 22.483, 114.051
+
+
+### 富恩 (Fu Yan)
+
+Code: HK-NYL-M30, Coordinates: 22.464, 113.999
+
+
+### 鳳翔 (Fung Cheung)
+
+Code: HK-NYL-M03, Coordinates: 22.44, 114.034
+
+
+### 豐年 (Fung Nin)
+
+Code: HK-NYL-M01, Coordinates: 22.441, 114.027
+
+
+### 廈村 (Ha Tsuen)
+
+Code: HK-NYL-M15, Coordinates: 22.434, 113.971
+
+
+### 洪福 (Hung Fuk)
+
+Code: HK-NYL-M14, Coordinates: 22.437, 113.998
+
+
+### 錦田 (Kam Tin)
+
+Code: HK-NYL-M37, Coordinates: 22.447, 114.064
+
+
+### 嘉湖北 (Kingswood North)
+
+Code: HK-NYL-M27, Coordinates: 22.459, 114.005
+
+
+### 嘉湖南 (Kingswood South)
+
+Code: HK-NYL-M22, Coordinates: 22.456, 114.003
+
+
+### 南屏 (Nam Ping)
+
+Code: HK-NYL-M07, Coordinates: 22.449, 114.023
+
+
+### 八鄉北 (Pat Heung North)
+
+Code: HK-NYL-M38, Coordinates: 22.439, 114.082
+
+
+### 八鄉南 (Pat Heung South)
+
+Code: HK-NYL-M39, Coordinates: 22.425, 114.085
+
+
+### 北朗 (Pek Long)
+
+Code: HK-NYL-M08, Coordinates: 22.451, 114.024
+
+
+### 屏山中 (Ping Shan Central)
+
+Code: HK-NYL-M16, Coordinates: 22.449, 114.011
+
+
+### 屏山北 (Ping Shan North)
+
+Code: HK-NYL-M34, Coordinates: 22.465, 114.01
+
+
+### 屏山南 (Ping Shan South)
+
+Code: HK-NYL-M13, Coordinates: 22.432, 114.011
+
+
+### 新田 (San Tin)
+
+Code: HK-NYL-M36, Coordinates: 22.481, 114.064
+
+
+### 十八鄉中 (Shap Pat Heung Central)
+
+Code: HK-NYL-M05, Coordinates: 22.436, 114.034
+
+
+### 十八鄉東 (Shap Pat Heung East)
+
+Code: HK-NYL-M11, Coordinates: 22.43, 114.037
+
+
+### 十八鄉北 (Shap Pat Heung North)
+
+Code: HK-NYL-M10, Coordinates: 22.449, 114.037
+
+
+### 十八鄉西 (Shap Pat Heung West)
+
+Code: HK-NYL-M12, Coordinates: 22.422, 114.031
+
+
+### 盛欣 (Shing Yan)
+
+Code: HK-NYL-M17, Coordinates: 22.447, 114.003
+
+
+### 瑞愛 (Shui Oi)
+
+Code: HK-NYL-M23, Coordinates: 22.456, 113.997
+
+
+### 水邊 (Shui Pin)
+
+Code: HK-NYL-M06, Coordinates: 22.441, 114.02
+
+
+### 瑞華 (Shui Wah)
+
+Code: HK-NYL-M24, Coordinates: 22.459, 113.996
+
+
+### 天恒 (Tin Heng)
+
+Code: HK-NYL-M32, Coordinates: 22.472, 114.001
+
+
+### 天盛 (Tin Shing)
+
+Code: HK-NYL-M18, Coordinates: 22.447, 114.001
+
+
+### 天耀 (Tin Yiu)
+
+Code: HK-NYL-M19, Coordinates: 22.45, 114.004
+
+
+### 慈祐 (Tsz Yau)
+
+Code: HK-NYL-M21, Coordinates: 22.453, 114.007
+
+
+### 宏逸 (Wang Yat)
+
+Code: HK-NYL-M33, Coordinates: 22.467, 114.007
+
+
+### 逸澤 (Yat Chak)
+
+Code: HK-NYL-M31, Coordinates: 22.467, 113.999
+
+
+### 耀祐 (Yiu Yau)
+
+Code: HK-NYL-M20, Coordinates: 22.452, 114.005
+
+
+### 元朗中心 (Yuen Long Centre)
+
+Code: HK-NYL-M02, Coordinates: 22.446, 114.031
+
+
+### 元朗東頭 (Yuen Long Tung Tau)
+
+Code: HK-NYL-M09, Coordinates: 22.449, 114.031
+
+
+### 元龍 (Yuen Lung)
+
+Code: HK-NYL-M04, Coordinates: 22.444, 114.036
+
+
+### 悅恩 (Yuet Yan)
+
+Code: HK-NYL-M28, Coordinates: 22.463, 113.999
+
+

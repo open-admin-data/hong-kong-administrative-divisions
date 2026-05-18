@@ -1,0 +1,45 @@
+{
+  "id": "HK-HWC-B09",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "樂活",
+    "en": "Broadwood",
+    "slug": "broadwood-b09"
+  },
+  "code": {
+    "id": "HK-HWC-B09",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HWC",
+    "level": 1,
+    "name": {
+      "local": "灣仔",
+      "en": "Wan Chai",
+      "slug": "wan-chai-hwc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.273",
+    "lon": "114.188"
+  },
+  "metadata": {},
+  "source": {}
+}

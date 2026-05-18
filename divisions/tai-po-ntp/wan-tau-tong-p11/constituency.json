@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTP-P11",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "運頭塘",
+    "en": "Wan Tau Tong",
+    "slug": "wan-tau-tong-p11"
+  },
+  "code": {
+    "id": "HK-NTP-P11",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTP",
+    "level": 1,
+    "name": {
+      "local": "大埔",
+      "en": "Tai Po",
+      "slug": "tai-po-ntp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.442",
+    "lon": "114.168"
+  },
+  "metadata": {},
+  "source": {}
+}

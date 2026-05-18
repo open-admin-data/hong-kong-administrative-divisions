@@ -1,0 +1,29 @@
+{
+  "id": "HK-NYL",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "元朗",
+    "en": "Yuen Long",
+    "slug": "yuen-long-nyl"
+  },
+  "code": {
+    "id": "HK-NYL",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.417",
+    "lon": "114.05"
+  },
+  "metadata": {},
+  "source": {}
+}

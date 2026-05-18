@@ -1,0 +1,45 @@
+{
+  "id": "HK-KWT-H14",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "竹園南",
+    "en": "Chuk Yuen South",
+    "slug": "chuk-yuen-south-h14"
+  },
+  "code": {
+    "id": "HK-KWT-H14",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KWT",
+    "level": 1,
+    "name": {
+      "local": "黃大仙",
+      "en": "Wong Tai Sin",
+      "slug": "wong-tai-sin-kwt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.344",
+    "lon": "114.192"
+  },
+  "metadata": {},
+  "source": {}
+}

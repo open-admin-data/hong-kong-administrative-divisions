@@ -1,0 +1,45 @@
+{
+  "id": "HK-NSK-Q03",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "西貢離島",
+    "en": "Sai Kung Islands",
+    "slug": "sai-kung-islands-q03"
+  },
+  "code": {
+    "id": "HK-NSK-Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NSK",
+    "level": 1,
+    "name": {
+      "local": "西貢區",
+      "en": "Sai Kung",
+      "slug": "sai-kung-nsk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.399",
+    "lon": "114.297"
+  },
+  "metadata": {},
+  "source": {}
+}

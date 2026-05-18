@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R41",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "廣源",
+    "en": "Kwong Yuen",
+    "slug": "kwong-yuen-r41"
+  },
+  "code": {
+    "id": "HK-NST-R41",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.381",
+    "lon": "114.215"
+  },
+  "metadata": {},
+  "source": {}
+}

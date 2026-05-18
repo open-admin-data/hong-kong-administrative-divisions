@@ -1,0 +1,45 @@
+{
+  "id": "HK-HWC-B08",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "渣甸山",
+    "en": "Jardine's Lookout",
+    "slug": "jardines-lookout-b08"
+  },
+  "code": {
+    "id": "HK-HWC-B08",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HWC",
+    "level": 1,
+    "name": {
+      "local": "灣仔",
+      "en": "Wan Chai",
+      "slug": "wan-chai-hwc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.269",
+    "lon": "114.192"
+  },
+  "metadata": {},
+  "source": {}
+}

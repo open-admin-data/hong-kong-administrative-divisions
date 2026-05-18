@@ -1,0 +1,84 @@
+# Central and Western — Hong Kong Administrative Divisions
+
+> 15 constituencys
+> Code: HK-HCW
+> Coordinates: 22.282, 114.145
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 寶翠 (Belcher)
+
+Code: HK-HCW-A09, Coordinates: 22.285, 114.133
+
+
+### 衛城 (Castle Road)
+
+Code: HK-HCW-A03, Coordinates: 22.281, 114.148
+
+
+### 正街 (Centre Street)
+
+Code: HK-HCW-A14, Coordinates: 22.285, 114.143
+
+
+### 中環 (Chung Wan)
+
+Code: HK-HCW-A01, Coordinates: 22.278, 114.16
+
+
+### 堅摩 (Kennedy Town &amp; Mount Davis)
+
+Code: HK-HCW-A07, Coordinates: 22.276, 114.124
+
+
+### 觀龍 (Kwun Lung)
+
+Code: HK-HCW-A06, Coordinates: 22.279, 114.13
+
+
+### 半山東 (Mid Levels East)
+
+Code: HK-HCW-A02, Coordinates: 22.279, 114.154
+
+
+### 山頂 (Peak)
+
+Code: HK-HCW-A04, Coordinates: 22.266, 114.154
+
+
+### 西環 (Sai Wan)
+
+Code: HK-HCW-A08, Coordinates: 22.283, 114.13
+
+
+### 西營盤 (Sai Ying Pun)
+
+Code: HK-HCW-A11, Coordinates: 22.289, 114.141
+
+
+### 石塘咀 (Shek Tong Tsui)
+
+Code: HK-HCW-A10, Coordinates: 22.289, 114.138
+
+
+### 上環 (Sheung Wan)
+
+Code: HK-HCW-A12, Coordinates: 22.287, 114.149
+
+
+### 東華 (Tung Wah)
+
+Code: HK-HCW-A13, Coordinates: 22.284, 114.148
+
+
+### 大學 (University)
+
+Code: HK-HCW-A05, Coordinates: 22.281, 114.14
+
+
+### 水街 (Water Street)
+
+Code: HK-HCW-A15, Coordinates: 22.285, 114.137
+
+

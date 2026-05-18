@@ -1,0 +1,134 @@
+# Kowloon City — Hong Kong Administrative Divisions
+
+> 25 constituencys
+> Code: HK-KKC
+> Coordinates: 22.329, 114.191
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 何文田 (Ho Man Tin)
+
+Code: HK-KKC-G07, Coordinates: 22.32, 114.184
+
+
+### 海心 (Hoi Sham)
+
+Code: HK-KKC-G15, Coordinates: 22.316, 114.192
+
+
+### 鶴園海逸 (Hok Yuen Laguna Verde)
+
+Code: HK-KKC-G18, Coordinates: 22.31, 114.19
+
+
+### 紅磡 (Hung Hom)
+
+Code: HK-KKC-G22, Coordinates: 22.308, 114.183
+
+
+### 紅磡灣 (Hung Hom Bay)
+
+Code: HK-KKC-G21, Coordinates: 22.305, 114.186
+
+
+### 家維 (Ka Wai)
+
+Code: HK-KKC-G23, Coordinates: 22.309, 114.187
+
+
+### 嘉道理 (Kadoorie)
+
+Code: HK-KKC-G08, Coordinates: 22.323, 114.175
+
+
+### 啟德中及南 (Kai Tak Central &amp; South)
+
+Code: HK-KKC-G14, Coordinates: 22.324, 114.2
+
+
+### 啟德東 (Kai Tak East)
+
+Code: HK-KKC-G13, Coordinates: 22.33, 114.203
+
+
+### 啟德北 (Kai Tak North)
+
+Code: HK-KKC-G12, Coordinates: 22.333, 114.203
+
+
+### 九龍塘 (Kowloon Tong)
+
+Code: HK-KKC-G10, Coordinates: 22.341, 114.179
+
+
+### 樂民 (Lok Man)
+
+Code: HK-KKC-G05, Coordinates: 22.319, 114.186
+
+
+### 龍城 (Lung Shing)
+
+Code: HK-KKC-G11, Coordinates: 22.331, 114.191
+
+
+### 馬坑涌 (Ma Hang Chung)
+
+Code: HK-KKC-G03, Coordinates: 22.32, 114.191
+
+
+### 馬頭角 (Ma Tau Kok)
+
+Code: HK-KKC-G04, Coordinates: 22.319, 114.189
+
+
+### 馬頭圍 (Ma Tau Wai)
+
+Code: HK-KKC-G01, Coordinates: 22.324, 114.187
+
+
+### 愛俊 (Oi Chun)
+
+Code: HK-KKC-G25, Coordinates: 22.314, 114.179
+
+
+### 愛民 (Oi Man)
+
+Code: HK-KKC-G24, Coordinates: 22.312, 114.181
+
+
+### 太子 (Prince)
+
+Code: HK-KKC-G09, Coordinates: 22.328, 114.179
+
+
+### 常樂 (Sheung Lok)
+
+Code: HK-KKC-G06, Coordinates: 22.318, 114.184
+
+
+### 宋皇臺 (Sung Wong Toi)
+
+Code: HK-KKC-G02, Coordinates: 22.323, 114.192
+
+
+### 土瓜灣北 (To Kwa Wan North)
+
+Code: HK-KKC-G16, Coordinates: 22.315, 114.189
+
+
+### 土瓜灣南 (To Kwa Wan South)
+
+Code: HK-KKC-G17, Coordinates: 22.313, 114.188
+
+
+### 黃埔東 (Whampoa East)
+
+Code: HK-KKC-G19, Coordinates: 22.302, 114.189
+
+
+### 黃埔西 (Whampoa West)
+
+Code: HK-KKC-G20, Coordinates: 22.302, 114.187
+
+

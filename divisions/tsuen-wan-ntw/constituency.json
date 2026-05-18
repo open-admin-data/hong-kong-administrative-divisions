@@ -1,0 +1,857 @@
+[
+  {
+    "id": "HK-NTW-K15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荃威",
+      "en": "Allway",
+      "slug": "allway-k15"
+    },
+    "code": {
+      "id": "HK-NTW-K15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.39",
+      "lon": "114.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "象石",
+      "en": "Cheung Shek",
+      "slug": "cheung-shek-k16"
+    },
+    "code": {
+      "id": "HK-NTW-K16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.381",
+      "lon": "114.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "祈德尊",
+      "en": "Clague Garden",
+      "slug": "clague-garden-k06"
+    },
+    "code": {
+      "id": "HK-NTW-K06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.372",
+      "lon": "114.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "愉景",
+      "en": "Discovery Park",
+      "slug": "discovery-park-k08"
+    },
+    "code": {
+      "id": "HK-NTW-K08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.376",
+      "lon": "114.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "福來",
+      "en": "Fuk Loi",
+      "slug": "fuk-loi-k09"
+    },
+    "code": {
+      "id": "HK-NTW-K09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.374",
+      "lon": "114.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "海濱",
+      "en": "Hoi Bun",
+      "slug": "hoi-bun-k04"
+    },
+    "code": {
+      "id": "HK-NTW-K04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.363",
+      "lon": "114.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "麗濤",
+      "en": "Lai To",
+      "slug": "lai-to-k14"
+    },
+    "code": {
+      "id": "HK-NTW-K14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.384",
+      "lon": "114.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "梨木樹東",
+      "en": "Lei Muk Shue East",
+      "slug": "lei-muk-shue-east-k19"
+    },
+    "code": {
+      "id": "HK-NTW-K19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.376",
+      "lon": "114.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "梨木樹西",
+      "en": "Lei Muk Shue West",
+      "slug": "lei-muk-shue-west-k18"
+    },
+    "code": {
+      "id": "HK-NTW-K18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.378",
+      "lon": "114.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "綠楊",
+      "en": "Luk Yeung",
+      "slug": "luk-yeung-k10"
+    },
+    "code": {
+      "id": "HK-NTW-K10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.378",
+      "lon": "114.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "馬灣",
+      "en": "Ma Wan",
+      "slug": "ma-wan-k11"
+    },
+    "code": {
+      "id": "HK-NTW-K11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.36",
+      "lon": "114.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "石圍角",
+      "en": "Shek Wai Kok",
+      "slug": "shek-wai-kok-k17"
+    },
+    "code": {
+      "id": "HK-NTW-K17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.396",
+      "lon": "114.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "德華",
+      "en": "Tak Wah",
+      "slug": "tak-wah-k01"
+    },
+    "code": {
+      "id": "HK-NTW-K01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.371",
+      "lon": "114.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "汀深",
+      "en": "Ting Sham",
+      "slug": "ting-sham-k13"
+    },
+    "code": {
+      "id": "HK-NTW-K13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.382",
+      "lon": "114.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荃灣中心",
+      "en": "Tsuen Wan Centre",
+      "slug": "tsuen-wan-centre-k07"
+    },
+    "code": {
+      "id": "HK-NTW-K07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.377",
+      "lon": "114.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荃灣郊區",
+      "en": "Tsuen Wan Rural",
+      "slug": "tsuen-wan-rural-k12"
+    },
+    "code": {
+      "id": "HK-NTW-K12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.364",
+      "lon": "114.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荃灣南",
+      "en": "Tsuen Wan South",
+      "slug": "tsuen-wan-south-k03"
+    },
+    "code": {
+      "id": "HK-NTW-K03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.367",
+      "lon": "114.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "荃灣西",
+      "en": "Tsuen Wan West",
+      "slug": "tsuen-wan-west-k05"
+    },
+    "code": {
+      "id": "HK-NTW-K05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.37",
+      "lon": "114.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTW-K02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "楊屋道",
+      "en": "Yeung Uk Road",
+      "slug": "yeung-uk-road-k02"
+    },
+    "code": {
+      "id": "HK-NTW-K02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTW",
+        "level": 1,
+        "name": {
+          "local": "荃灣",
+          "en": "Tsuen Wan",
+          "slug": "tsuen-wan-ntw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.368",
+      "lon": "114.12"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

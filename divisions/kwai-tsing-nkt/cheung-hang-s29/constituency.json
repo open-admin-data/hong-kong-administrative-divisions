@@ -1,0 +1,45 @@
+{
+  "id": "HK-NKT-S29",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "長亨",
+    "en": "Cheung Hang",
+    "slug": "cheung-hang-s29"
+  },
+  "code": {
+    "id": "HK-NKT-S29",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NKT",
+    "level": 1,
+    "name": {
+      "local": "葵青",
+      "en": "Kwai Tsing",
+      "slug": "kwai-tsing-nkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.357",
+    "lon": "114.092"
+  },
+  "metadata": {},
+  "source": {}
+}

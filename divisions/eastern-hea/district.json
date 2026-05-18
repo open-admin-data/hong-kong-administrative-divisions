@@ -1,0 +1,29 @@
+{
+  "id": "HK-HEA",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "東區",
+    "en": "Eastern",
+    "slug": "eastern-hea"
+  },
+  "code": {
+    "id": "HK-HEA",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.277",
+    "lon": "114.225"
+  },
+  "metadata": {},
+  "source": {}
+}

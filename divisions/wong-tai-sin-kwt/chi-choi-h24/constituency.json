@@ -1,0 +1,45 @@
+{
+  "id": "HK-KWT-H24",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "池彩",
+    "en": "Chi Choi",
+    "slug": "chi-choi-h24"
+  },
+  "code": {
+    "id": "HK-KWT-H24",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KWT",
+    "level": 1,
+    "name": {
+      "local": "黃大仙",
+      "en": "Wong Tai Sin",
+      "slug": "wong-tai-sin-kwt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.339",
+    "lon": "114.21"
+  },
+  "metadata": {},
+  "source": {}
+}

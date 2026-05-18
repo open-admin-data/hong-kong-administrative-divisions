@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J14",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "安達",
+    "en": "On Tat",
+    "slug": "on-tat-j14"
+  },
+  "code": {
+    "id": "HK-KKT-J14",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.32",
+    "lon": "114.237"
+  },
+  "metadata": {},
+  "source": {}
+}

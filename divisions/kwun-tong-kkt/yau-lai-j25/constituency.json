@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J25",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "油麗",
+    "en": "Yau Lai",
+    "slug": "yau-lai-j25"
+  },
+  "code": {
+    "id": "HK-KKT-J25",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.3",
+    "lon": "114.235"
+  },
+  "metadata": {},
+  "source": {}
+}

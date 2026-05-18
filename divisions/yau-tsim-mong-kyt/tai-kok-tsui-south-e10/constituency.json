@@ -1,0 +1,45 @@
+{
+  "id": "HK-KYT-E10",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "大角咀南",
+    "en": "Tai Kok Tsui South",
+    "slug": "tai-kok-tsui-south-e10"
+  },
+  "code": {
+    "id": "HK-KYT-E10",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KYT",
+    "level": 1,
+    "name": {
+      "local": "油尖旺",
+      "en": "Yau Tsim Mong",
+      "slug": "yau-tsim-mong-kyt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.321",
+    "lon": "114.162"
+  },
+  "metadata": {},
+  "source": {}
+}

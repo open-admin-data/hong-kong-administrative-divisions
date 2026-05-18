@@ -1,0 +1,45 @@
+{
+  "id": "HK-KYT-E15",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "旺角南",
+    "en": "Mong Kok South",
+    "slug": "mong-kok-south-e15"
+  },
+  "code": {
+    "id": "HK-KYT-E15",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KYT",
+    "level": 1,
+    "name": {
+      "local": "油尖旺",
+      "en": "Yau Tsim Mong",
+      "slug": "yau-tsim-mong-kyt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.319",
+    "lon": "114.171"
+  },
+  "metadata": {},
+  "source": {}
+}

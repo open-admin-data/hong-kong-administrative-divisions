@@ -1,0 +1,45 @@
+{
+  "id": "HK-HSO-D03",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "鴨脷洲北",
+    "en": "Ap Lei Chau North",
+    "slug": "ap-lei-chau-north-d03"
+  },
+  "code": {
+    "id": "HK-HSO-D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HSO",
+    "level": 1,
+    "name": {
+      "local": "南區",
+      "en": "Southern",
+      "slug": "southern-hso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HSO",
+      "level": 1,
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.244",
+    "lon": "114.157"
+  },
+  "metadata": {},
+  "source": {}
+}

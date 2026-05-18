@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R20",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "大圍",
+    "en": "Tai Wai",
+    "slug": "tai-wai-r20"
+  },
+  "code": {
+    "id": "HK-NST-R20",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.378",
+    "lon": "114.177"
+  },
+  "metadata": {},
+  "source": {}
+}

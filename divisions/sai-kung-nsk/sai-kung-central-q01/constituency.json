@@ -1,0 +1,45 @@
+{
+  "id": "HK-NSK-Q01",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "西貢市中心",
+    "en": "Sai Kung Central",
+    "slug": "sai-kung-central-q01"
+  },
+  "code": {
+    "id": "HK-NSK-Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NSK",
+    "level": 1,
+    "name": {
+      "local": "西貢區",
+      "en": "Sai Kung",
+      "slug": "sai-kung-nsk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NSK",
+      "level": 1,
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.381",
+    "lon": "114.272"
+  },
+  "metadata": {},
+  "source": {}
+}

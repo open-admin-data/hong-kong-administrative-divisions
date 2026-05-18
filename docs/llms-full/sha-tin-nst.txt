@@ -1,0 +1,214 @@
+# Sha Tin — Hong Kong Administrative Divisions
+
+> 41 constituencys
+> Code: HK-NST
+> Coordinates: 22.387, 114.195
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 碧湖 (Bik Woo)
+
+Code: HK-NST-R39, Coordinates: 22.39, 114.209
+
+
+### 翠嘉 (Chui Ka)
+
+Code: HK-NST-R19, Coordinates: 22.372, 114.178
+
+
+### 翠田 (Chui Tin)
+
+Code: HK-NST-R13, Coordinates: 22.36, 114.182
+
+
+### 秦豐 (Chun Fung)
+
+Code: HK-NST-R11, Coordinates: 22.373, 114.188
+
+
+### 駿馬 (Chun Ma)
+
+Code: HK-NST-R24, Coordinates: 22.412, 114.204
+
+
+### 頌安 (Chung On)
+
+Code: HK-NST-R26, Coordinates: 22.42, 114.227
+
+
+### 松田 (Chung Tin)
+
+Code: HK-NST-R21, Coordinates: 22.379, 114.165
+
+
+### 第一城 (City One)
+
+Code: HK-NST-R04, Coordinates: 22.387, 114.204
+
+
+### 帝怡 (Di Yee)
+
+Code: HK-NST-R38, Coordinates: 22.384, 114.212
+
+
+### 火炭 (Fo Tan)
+
+Code: HK-NST-R23, Coordinates: 22.407, 114.189
+
+
+### 富龍 (Fu Lung)
+
+Code: HK-NST-R31, Coordinates: 22.425, 114.237
+
+
+### 恆安 (Heng On)
+
+Code: HK-NST-R34, Coordinates: 22.417, 114.228
+
+
+### 顯嘉 (Hin Ka)
+
+Code: HK-NST-R14, Coordinates: 22.355, 114.174
+
+
+### 海嵐 (Hoi Nam)
+
+Code: HK-NST-R25, Coordinates: 22.416, 114.224
+
+
+### 乙泉 (Jat Chuen)
+
+Code: HK-NST-R10, Coordinates: 22.371, 114.196
+
+
+### 錦濤 (Kam To)
+
+Code: HK-NST-R27, Coordinates: 22.423, 114.228
+
+
+### 錦英 (Kam Ying)
+
+Code: HK-NST-R32, Coordinates: 22.423, 114.233
+
+
+### 徑口 (Keng Hau)
+
+Code: HK-NST-R17, Coordinates: 22.364, 114.174
+
+
+### 廣康 (Kwong Hong)
+
+Code: HK-NST-R40, Coordinates: 22.387, 114.22
+
+
+### 廣源 (Kwong Yuen)
+
+Code: HK-NST-R41, Coordinates: 22.381, 114.215
+
+
+### 利安 (Lee On)
+
+Code: HK-NST-R30, Coordinates: 22.427, 114.245
+
+
+### 瀝源 (Lek Yuen)
+
+Code: HK-NST-R02, Coordinates: 22.387, 114.186
+
+
+### 下城門 (Lower Shing Mun)
+
+Code: HK-NST-R15, Coordinates: 22.366, 114.157
+
+
+### 馬鞍山市中心 (Ma On Shan Town Centre)
+
+Code: HK-NST-R28, Coordinates: 22.425, 114.231
+
+
+### 鞍泰 (On Tai)
+
+Code: HK-NST-R36, Coordinates: 22.408, 114.221
+
+
+### 博康 (Pok Hong)
+
+Code: HK-NST-R08, Coordinates: 22.376, 114.197
+
+
+### 沙角 (Sha Kok)
+
+Code: HK-NST-R07, Coordinates: 22.379, 114.195
+
+
+### 沙田市中心 (Sha Tin Town Centre)
+
+Code: HK-NST-R01, Coordinates: 22.38, 114.183
+
+
+### 水泉澳 (Shui Chuen O)
+
+Code: HK-NST-R09, Coordinates: 22.366, 114.199
+
+
+### 穗禾 (Sui Wo)
+
+Code: HK-NST-R22, Coordinates: 22.4, 114.177
+
+
+### 新田圍 (Sun Tin Wai)
+
+Code: HK-NST-R12, Coordinates: 22.361, 114.186
+
+
+### 大水坑 (Tai Shui Hang)
+
+Code: HK-NST-R35, Coordinates: 22.404, 114.242
+
+
+### 大圍 (Tai Wai)
+
+Code: HK-NST-R20, Coordinates: 22.378, 114.177
+
+
+### 田心 (Tin Sum)
+
+Code: HK-NST-R18, Coordinates: 22.367, 114.178
+
+
+### 雲城 (Wan Shing)
+
+Code: HK-NST-R16, Coordinates: 22.369, 114.176
+
+
+### 禾輋邨 (Wo Che Estate)
+
+Code: HK-NST-R03, Coordinates: 22.389, 114.197
+
+
+### 王屋 (Wong Uk)
+
+Code: HK-NST-R06, Coordinates: 22.381, 114.2
+
+
+### 烏溪沙 (Wu Kai Sha)
+
+Code: HK-NST-R29, Coordinates: 22.428, 114.243
+
+
+### 耀安 (Yiu On)
+
+Code: HK-NST-R33, Coordinates: 22.419, 114.231
+
+
+### 愉欣 (Yu Yan)
+
+Code: HK-NST-R37, Coordinates: 22.38, 114.22
+
+
+### 愉城 (Yue Shing)
+
+Code: HK-NST-R05, Coordinates: 22.385, 114.204
+
+

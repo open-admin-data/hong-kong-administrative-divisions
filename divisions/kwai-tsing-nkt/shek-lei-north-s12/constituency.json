@@ -1,0 +1,45 @@
+{
+  "id": "HK-NKT-S12",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "石籬北",
+    "en": "Shek Lei North",
+    "slug": "shek-lei-north-s12"
+  },
+  "code": {
+    "id": "HK-NKT-S12",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NKT",
+    "level": 1,
+    "name": {
+      "local": "葵青",
+      "en": "Kwai Tsing",
+      "slug": "kwai-tsing-nkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.366",
+    "lon": "114.14"
+  },
+  "metadata": {},
+  "source": {}
+}

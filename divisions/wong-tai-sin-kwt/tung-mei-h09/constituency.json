@@ -1,0 +1,45 @@
+{
+  "id": "HK-KWT-H09",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "東美",
+    "en": "Tung Mei",
+    "slug": "tung-mei-h09"
+  },
+  "code": {
+    "id": "HK-KWT-H09",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KWT",
+    "level": 1,
+    "name": {
+      "local": "黃大仙",
+      "en": "Wong Tai Sin",
+      "slug": "wong-tai-sin-kwt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.335",
+    "lon": "114.19"
+  },
+  "metadata": {},
+  "source": {}
+}

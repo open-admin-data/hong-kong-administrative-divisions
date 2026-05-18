@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J12",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "秀茂坪北",
+    "en": "Sau Mau Ping North",
+    "slug": "sau-mau-ping-north-j12"
+  },
+  "code": {
+    "id": "HK-KKT-J12",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.319",
+    "lon": "114.231"
+  },
+  "metadata": {},
+  "source": {}
+}

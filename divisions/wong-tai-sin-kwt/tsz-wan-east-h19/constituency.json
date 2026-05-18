@@ -1,0 +1,45 @@
+{
+  "id": "HK-KWT-H19",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "慈雲東",
+    "en": "Tsz Wan East",
+    "slug": "tsz-wan-east-h19"
+  },
+  "code": {
+    "id": "HK-KWT-H19",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KWT",
+    "level": 1,
+    "name": {
+      "local": "黃大仙",
+      "en": "Wong Tai Sin",
+      "slug": "wong-tai-sin-kwt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KWT",
+      "level": 1,
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.347",
+    "lon": "114.203"
+  },
+  "metadata": {},
+  "source": {}
+}

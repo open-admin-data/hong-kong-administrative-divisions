@@ -1,0 +1,29 @@
+{
+  "id": "HK-KKT",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "觀塘",
+    "en": "Kwun Tong",
+    "slug": "kwun-tong-kkt"
+  },
+  "code": {
+    "id": "HK-KKT",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.313",
+    "lon": "114.226"
+  },
+  "metadata": {},
+  "source": {}
+}

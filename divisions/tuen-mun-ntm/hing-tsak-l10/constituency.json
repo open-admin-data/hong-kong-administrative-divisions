@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTM-L10",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "興澤",
+    "en": "Hing Tsak",
+    "slug": "hing-tsak-l10"
+  },
+  "code": {
+    "id": "HK-NTM-L10",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTM",
+    "level": 1,
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.405",
+    "lon": "113.973"
+  },
+  "metadata": {},
+  "source": {}
+}

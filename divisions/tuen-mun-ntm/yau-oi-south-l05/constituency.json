@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTM-L05",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "友愛南",
+    "en": "Yau Oi South",
+    "slug": "yau-oi-south-l05"
+  },
+  "code": {
+    "id": "HK-NTM-L05",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTM",
+    "level": 1,
+    "name": {
+      "local": "屯門",
+      "en": "Tuen Mun",
+      "slug": "tuen-mun-ntm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTM",
+      "level": 1,
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.387",
+    "lon": "113.974"
+  },
+  "metadata": {},
+  "source": {}
+}

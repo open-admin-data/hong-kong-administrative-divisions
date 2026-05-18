@@ -1,0 +1,29 @@
+{
+  "id": "HK-NSK",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "西貢區",
+    "en": "Sai Kung",
+    "slug": "sai-kung-nsk"
+  },
+  "code": {
+    "id": "HK-NSK",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.382",
+    "lon": "114.27"
+  },
+  "metadata": {},
+  "source": {}
+}

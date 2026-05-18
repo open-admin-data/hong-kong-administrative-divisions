@@ -1,0 +1,45 @@
+{
+  "id": "HK-NIS-T01",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "大嶼山",
+    "en": "Lantau",
+    "slug": "lantau-t01"
+  },
+  "code": {
+    "id": "HK-NIS-T01",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NIS",
+    "level": 1,
+    "name": {
+      "local": "離島",
+      "en": "Islands",
+      "slug": "islands-nis"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NIS",
+      "level": 1,
+      "name": {
+        "local": "離島",
+        "en": "Islands",
+        "slug": "islands-nis"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.287",
+    "lon": "113.965"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-KSS-F11",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "幸福",
+    "en": "Fortune",
+    "slug": "fortune-f11"
+  },
+  "code": {
+    "id": "HK-KSS-F11",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KSS",
+    "level": 1,
+    "name": {
+      "local": "深水埗區",
+      "en": "Sham Shui Po",
+      "slug": "sham-shui-po-kss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.336",
+    "lon": "114.152"
+  },
+  "metadata": {},
+  "source": {}
+}

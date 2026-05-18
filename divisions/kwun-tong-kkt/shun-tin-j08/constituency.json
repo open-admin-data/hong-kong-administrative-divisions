@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J08",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "順天",
+    "en": "Shun Tin",
+    "slug": "shun-tin-j08"
+  },
+  "code": {
+    "id": "HK-KKT-J08",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.327",
+    "lon": "114.224"
+  },
+  "metadata": {},
+  "source": {}
+}

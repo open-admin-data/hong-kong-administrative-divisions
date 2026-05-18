@@ -1,0 +1,47 @@
+# Hong Kong Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Per-District Data Files
+
+- [Central and Western](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/central-and-western-hcw.txt) — 15 constituencys
+- [Eastern](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/eastern-hea.txt) — 35 constituencys
+- [Islands](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/islands-nis.txt) — 10 constituencys
+- [Kowloon City](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/kowloon-city-kkc.txt) — 25 constituencys
+- [Kwai Tsing](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/kwai-tsing-nkt.txt) — 31 constituencys
+- [Kwun Tong](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/kwun-tong-kkt.txt) — 40 constituencys
+- [North](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/north-nno.txt) — 18 constituencys
+- [Sai Kung](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/sai-kung-nsk.txt) — 29 constituencys
+- [Sha Tin](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/sha-tin-nst.txt) — 41 constituencys
+- [Sham Shui Po](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/sham-shui-po-kss.txt) — 25 constituencys
+- [Southern](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/southern-hso.txt) — 17 constituencys
+- [Tai Po](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/tai-po-ntp.txt) — 19 constituencys
+- [Tsuen Wan](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/tsuen-wan-ntw.txt) — 19 constituencys
+- [Tuen Mun](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/tuen-mun-ntm.txt) — 31 constituencys
+- [Wan Chai](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/wan-chai-hwc.txt) — 13 constituencys
+- [Wong Tai Sin](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/wong-tai-sin-kwt.txt) — 25 constituencys
+- [Yau Tsim Mong](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/yau-tsim-mong-kyt.txt) — 20 constituencys
+- [Yuen Long](https://github.com/open-admin-data/hong-kong-administrative-divisions/blob/main/docs/llms-full/yuen-long-nyl.txt) — 39 constituencys
+
+## Summary
+
+| District | Constituencys | 
+|---|---|
+| Central and Western | 15 | 
+| Eastern | 35 | 
+| Islands | 10 | 
+| Kowloon City | 25 | 
+| Kwai Tsing | 31 | 
+| Kwun Tong | 40 | 
+| North | 18 | 
+| Sai Kung | 29 | 
+| Sha Tin | 41 | 
+| Sham Shui Po | 25 | 
+| Southern | 17 | 
+| Tai Po | 19 | 
+| Tsuen Wan | 19 | 
+| Tuen Mun | 31 | 
+| Wan Chai | 13 | 
+| Wong Tai Sin | 25 | 
+| Yau Tsim Mong | 20 | 
+| Yuen Long | 39 | 

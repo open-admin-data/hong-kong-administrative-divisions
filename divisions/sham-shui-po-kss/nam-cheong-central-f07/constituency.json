@@ -1,0 +1,45 @@
+{
+  "id": "HK-KSS-F07",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "南昌中",
+    "en": "Nam Cheong Central",
+    "slug": "nam-cheong-central-f07"
+  },
+  "code": {
+    "id": "HK-KSS-F07",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KSS",
+    "level": 1,
+    "name": {
+      "local": "深水埗區",
+      "en": "Sham Shui Po",
+      "slug": "sham-shui-po-kss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KSS",
+      "level": 1,
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.329",
+    "lon": "114.162"
+  },
+  "metadata": {},
+  "source": {}
+}

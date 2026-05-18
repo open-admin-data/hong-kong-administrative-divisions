@@ -1,0 +1,857 @@
+[
+  {
+    "id": "HK-NTP-P02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "頌汀",
+      "en": "Chung Ting",
+      "slug": "chung-ting-p02"
+    },
+    "code": {
+      "id": "HK-NTP-P02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.455",
+      "lon": "114.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富亨",
+      "en": "Fu Heng",
+      "slug": "fu-heng-p05"
+    },
+    "code": {
+      "id": "HK-NTP-P05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.46",
+      "lon": "114.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "富明新",
+      "en": "Fu Ming Sun",
+      "slug": "fu-ming-sun-p07"
+    },
+    "code": {
+      "id": "HK-NTP-P07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.451",
+      "lon": "114.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "康樂園",
+      "en": "Hong Lok Yuen",
+      "slug": "hong-lok-yuen-p17"
+    },
+    "code": {
+      "id": "HK-NTP-P17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.475",
+      "lon": "114.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "廣福及寶湖",
+      "en": "Kwong Fuk & Plover Cove",
+      "slug": "kwong-fuk-plover-cove-p08"
+    },
+    "code": {
+      "id": "HK-NTP-P08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.449",
+      "lon": "114.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "林村谷",
+      "en": "Lam Tsuen Valley",
+      "slug": "lam-tsuen-valley-p13"
+    },
+    "code": {
+      "id": "HK-NTP-P13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.446",
+      "lon": "114.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "舊墟及太湖",
+      "en": "Old Market & Serenity",
+      "slug": "old-market-serenity-p16"
+    },
+    "code": {
+      "id": "HK-NTP-P16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.456",
+      "lon": "114.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "寶雅",
+      "en": "Po Nga",
+      "slug": "po-nga-p14"
+    },
+    "code": {
+      "id": "HK-NTP-P14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.452",
+      "lon": "114.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P19",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "西貢北",
+      "en": "Sai Kung North",
+      "slug": "sai-kung-north-p19"
+    },
+    "code": {
+      "id": "HK-NTP-P19",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.417",
+      "lon": "114.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "新富",
+      "en": "San Fu",
+      "slug": "san-fu-p12"
+    },
+    "code": {
+      "id": "HK-NTP-P12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.443",
+      "lon": "114.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "船灣",
+      "en": "Shuen Wan",
+      "slug": "shuen-wan-p18"
+    },
+    "code": {
+      "id": "HK-NTP-P18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.487",
+      "lon": "114.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大埔中",
+      "en": "Tai Po Central",
+      "slug": "tai-po-central-p03"
+    },
+    "code": {
+      "id": "HK-NTP-P03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.453",
+      "lon": "114.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大埔墟",
+      "en": "Tai Po Hui",
+      "slug": "tai-po-hui-p01"
+    },
+    "code": {
+      "id": "HK-NTP-P01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.448",
+      "lon": "114.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大埔滘",
+      "en": "Tai Po Kau",
+      "slug": "tai-po-kau-p10"
+    },
+    "code": {
+      "id": "HK-NTP-P10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.434",
+      "lon": "114.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "太和",
+      "en": "Tai Wo",
+      "slug": "tai-wo-p15"
+    },
+    "code": {
+      "id": "HK-NTP-P15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.452",
+      "lon": "114.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "大元",
+      "en": "Tai Yuen",
+      "slug": "tai-yuen-p04"
+    },
+    "code": {
+      "id": "HK-NTP-P04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.455",
+      "lon": "114.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "運頭塘",
+      "en": "Wan Tau Tong",
+      "slug": "wan-tau-tong-p11"
+    },
+    "code": {
+      "id": "HK-NTP-P11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.442",
+      "lon": "114.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "宏福",
+      "en": "Wang Fuk",
+      "slug": "wang-fuk-p09"
+    },
+    "code": {
+      "id": "HK-NTP-P09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.439",
+      "lon": "114.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NTP-P06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "怡富",
+      "en": "Yee Fu",
+      "slug": "yee-fu-p06"
+    },
+    "code": {
+      "id": "HK-NTP-P06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NTP",
+        "level": 1,
+        "name": {
+          "local": "大埔",
+          "en": "Tai Po",
+          "slug": "tai-po-ntp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.454",
+      "lon": "114.176"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

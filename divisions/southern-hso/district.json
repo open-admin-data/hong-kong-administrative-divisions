@@ -1,0 +1,29 @@
+{
+  "id": "HK-HSO",
+  "level": 1,
+  "level_name": {
+    "local": "區",
+    "en": "District"
+  },
+  "name": {
+    "local": "南區",
+    "en": "Southern",
+    "slug": "southern-hso"
+  },
+  "code": {
+    "id": "HK-HSO",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.241",
+    "lon": "114.208"
+  },
+  "metadata": {},
+  "source": {}
+}

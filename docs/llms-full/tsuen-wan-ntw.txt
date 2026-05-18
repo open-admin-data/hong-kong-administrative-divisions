@@ -1,0 +1,104 @@
+# Tsuen Wan — Hong Kong Administrative Divisions
+
+> 19 constituencys
+> Code: HK-NTW
+> Coordinates: 22.379, 114.106
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 荃威 (Allway)
+
+Code: HK-NTW-K15, Coordinates: 22.39, 114.115
+
+
+### 象石 (Cheung Shek)
+
+Code: HK-NTW-K16, Coordinates: 22.381, 114.123
+
+
+### 祈德尊 (Clague Garden)
+
+Code: HK-NTW-K06, Coordinates: 22.372, 114.112
+
+
+### 愉景 (Discovery Park)
+
+Code: HK-NTW-K08, Coordinates: 22.376, 114.113
+
+
+### 福來 (Fuk Loi)
+
+Code: HK-NTW-K09, Coordinates: 22.374, 114.114
+
+
+### 海濱 (Hoi Bun)
+
+Code: HK-NTW-K04, Coordinates: 22.363, 114.113
+
+
+### 麗濤 (Lai To)
+
+Code: HK-NTW-K14, Coordinates: 22.384, 114.088
+
+
+### 梨木樹東 (Lei Muk Shue East)
+
+Code: HK-NTW-K19, Coordinates: 22.376, 114.133
+
+
+### 梨木樹西 (Lei Muk Shue West)
+
+Code: HK-NTW-K18, Coordinates: 22.378, 114.135
+
+
+### 綠楊 (Luk Yeung)
+
+Code: HK-NTW-K10, Coordinates: 22.378, 114.122
+
+
+### 馬灣 (Ma Wan)
+
+Code: HK-NTW-K11, Coordinates: 22.36, 114.046
+
+
+### 石圍角 (Shek Wai Kok)
+
+Code: HK-NTW-K17, Coordinates: 22.396, 114.145
+
+
+### 德華 (Tak Wah)
+
+Code: HK-NTW-K01, Coordinates: 22.371, 114.119
+
+
+### 汀深 (Ting Sham)
+
+Code: HK-NTW-K13, Coordinates: 22.382, 114.077
+
+
+### 荃灣中心 (Tsuen Wan Centre)
+
+Code: HK-NTW-K07, Coordinates: 22.377, 114.108
+
+
+### 荃灣郊區 (Tsuen Wan Rural)
+
+Code: HK-NTW-K12, Coordinates: 22.364, 114.046
+
+
+### 荃灣南 (Tsuen Wan South)
+
+Code: HK-NTW-K03, Coordinates: 22.367, 114.116
+
+
+### 荃灣西 (Tsuen Wan West)
+
+Code: HK-NTW-K05, Coordinates: 22.37, 114.106
+
+
+### 楊屋道 (Yeung Uk Road)
+
+Code: HK-NTW-K02, Coordinates: 22.368, 114.12
+
+

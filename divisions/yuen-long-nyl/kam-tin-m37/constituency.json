@@ -1,0 +1,45 @@
+{
+  "id": "HK-NYL-M37",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "錦田",
+    "en": "Kam Tin",
+    "slug": "kam-tin-m37"
+  },
+  "code": {
+    "id": "HK-NYL-M37",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NYL",
+    "level": 1,
+    "name": {
+      "local": "元朗",
+      "en": "Yuen Long",
+      "slug": "yuen-long-nyl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NYL",
+      "level": 1,
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.447",
+    "lon": "114.064"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKC-G21",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "紅磡灣",
+    "en": "Hung Hom Bay",
+    "slug": "hung-hom-bay-g21"
+  },
+  "code": {
+    "id": "HK-KKC-G21",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKC",
+    "level": 1,
+    "name": {
+      "local": "九龍城",
+      "en": "Kowloon City",
+      "slug": "kowloon-city-kkc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKC",
+      "level": 1,
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.305",
+    "lon": "114.186"
+  },
+  "metadata": {},
+  "source": {}
+}

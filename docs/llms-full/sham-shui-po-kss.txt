@@ -1,0 +1,134 @@
+# Sham Shui Po — Hong Kong Administrative Divisions
+
+> 25 constituencys
+> Code: HK-KSS
+> Coordinates: 22.33, 114.163
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 長沙灣 (Cheung Sha Wan)
+
+Code: HK-KSS-F02, Coordinates: 22.335, 114.162
+
+
+### 幸福 (Fortune)
+
+Code: HK-KSS-F11, Coordinates: 22.336, 114.152
+
+
+### 富昌 (Fu Cheong)
+
+Code: HK-KSS-F09, Coordinates: 22.328, 114.155
+
+
+### 下白田 (Ha Pak Tin)
+
+Code: HK-KSS-F23, Coordinates: 22.337, 114.166
+
+
+### 荔枝角中 (Lai Chi Kok Central)
+
+Code: HK-KSS-F13, Coordinates: 22.335, 114.147
+
+
+### 荔枝角北 (Lai Chi Kok North)
+
+Code: HK-KSS-F18, Coordinates: 22.338, 114.148
+
+
+### 荔枝角南 (Lai Chi Kok South)
+
+Code: HK-KSS-F14, Coordinates: 22.328, 114.144
+
+
+### 麗閣 (Lai Kok)
+
+Code: HK-KSS-F10, Coordinates: 22.332, 114.158
+
+
+### 李鄭屋 (Lei Cheng Uk)
+
+Code: HK-KSS-F21, Coordinates: 22.34, 114.161
+
+
+### 龍坪及上白田 (Lung Ping &amp; Sheung Pak Tin)
+
+Code: HK-KSS-F22, Coordinates: 22.34, 114.165
+
+
+### 美孚中 (Mei Foo Central)
+
+Code: HK-KSS-F16, Coordinates: 22.336, 114.138
+
+
+### 美孚北 (Mei Foo North)
+
+Code: HK-KSS-F17, Coordinates: 22.339, 114.138
+
+
+### 美孚南 (Mei Foo South)
+
+Code: HK-KSS-F15, Coordinates: 22.335, 114.141
+
+
+### 南昌中 (Nam Cheong Central)
+
+Code: HK-KSS-F07, Coordinates: 22.329, 114.162
+
+
+### 南昌東 (Nam Cheong East)
+
+Code: HK-KSS-F05, Coordinates: 22.33, 114.167
+
+
+### 南昌北 (Nam Cheong North)
+
+Code: HK-KSS-F03, Coordinates: 22.333, 114.164
+
+
+### 南昌南 (Nam Cheong South)
+
+Code: HK-KSS-F06, Coordinates: 22.328, 114.164
+
+
+### 南昌西 (Nam Cheong West)
+
+Code: HK-KSS-F08, Coordinates: 22.326, 114.159
+
+
+### 南山、大坑東及大坑西 (Nam Shan, Tai Hang Tung &amp; Tai Hang Sai)
+
+Code: HK-KSS-F25, Coordinates: 22.333, 114.17
+
+
+### 碧匯 (Pik Wui)
+
+Code: HK-KSS-F12, Coordinates: 22.329, 114.149
+
+
+### 寶麗 (Po Lai)
+
+Code: HK-KSS-F01, Coordinates: 22.336, 114.158
+
+
+### 石硤尾 (Shek Kip Mei)
+
+Code: HK-KSS-F04, Coordinates: 22.333, 114.167
+
+
+### 蘇屋 (So Uk)
+
+Code: HK-KSS-F20, Coordinates: 22.342, 114.156
+
+
+### 元州 (Un Chau)
+
+Code: HK-KSS-F19, Coordinates: 22.339, 114.156
+
+
+### 又一村 (Yau Yat Tsuen)
+
+Code: HK-KSS-F24, Coordinates: 22.338, 114.17
+
+

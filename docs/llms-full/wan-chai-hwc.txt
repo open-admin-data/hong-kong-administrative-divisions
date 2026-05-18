@@ -1,0 +1,74 @@
+# Wan Chai — Hong Kong Administrative Divisions
+
+> 13 constituencys
+> Code: HK-HWC
+> Coordinates: 22.277, 114.172
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Constituencys
+
+### 樂活 (Broadwood)
+
+Code: HK-HWC-B09, Coordinates: 22.273, 114.188
+
+
+### 鵝頸 (Canal Road)
+
+Code: HK-HWC-B03, Coordinates: 22.28, 114.182
+
+
+### 銅鑼灣 (Causeway Bay)
+
+Code: HK-HWC-B04, Coordinates: 22.28, 114.185
+
+
+### 跑馬地 (Happy Valley)
+
+Code: HK-HWC-B10, Coordinates: 22.271, 114.183
+
+
+### 軒尼詩 (Hennessy)
+
+Code: HK-HWC-B01, Coordinates: 22.277, 114.175
+
+
+### 渣甸山 (Jardine&#39;s Lookout)
+
+Code: HK-HWC-B08, Coordinates: 22.269, 114.192
+
+
+### 愛群 (Oi Kwan)
+
+Code: HK-HWC-B02, Coordinates: 22.277, 114.178
+
+
+### 修頓 (Southorn)
+
+Code: HK-HWC-B12, Coordinates: 22.272, 114.17
+
+
+### 司徒拔道 (Stubbs Road)
+
+Code: HK-HWC-B11, Coordinates: 22.263, 114.176
+
+
+### 大佛口 (Tai Fat Hau)
+
+Code: HK-HWC-B13, Coordinates: 22.277, 114.168
+
+
+### 大坑 (Tai Hang)
+
+Code: HK-HWC-B07, Coordinates: 22.277, 114.191
+
+
+### 天后 (Tin Hau)
+
+Code: HK-HWC-B06, Coordinates: 22.281, 114.194
+
+
+### 維園 (Victoria Park)
+
+Code: HK-HWC-B05, Coordinates: 22.284, 114.187
+
+

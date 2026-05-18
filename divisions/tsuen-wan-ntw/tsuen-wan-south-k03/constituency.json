@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTW-K03",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "荃灣南",
+    "en": "Tsuen Wan South",
+    "slug": "tsuen-wan-south-k03"
+  },
+  "code": {
+    "id": "HK-NTW-K03",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTW",
+    "level": 1,
+    "name": {
+      "local": "荃灣",
+      "en": "Tsuen Wan",
+      "slug": "tsuen-wan-ntw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTW",
+      "level": 1,
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.367",
+    "lon": "114.116"
+  },
+  "metadata": {},
+  "source": {}
+}

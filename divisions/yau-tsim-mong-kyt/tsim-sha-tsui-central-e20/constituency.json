@@ -1,0 +1,45 @@
+{
+  "id": "HK-KYT-E20",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "尖沙咀中",
+    "en": "Tsim Sha Tsui Central",
+    "slug": "tsim-sha-tsui-central-e20"
+  },
+  "code": {
+    "id": "HK-KYT-E20",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KYT",
+    "level": 1,
+    "name": {
+      "local": "油尖旺",
+      "en": "Yau Tsim Mong",
+      "slug": "yau-tsim-mong-kyt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KYT",
+      "level": 1,
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.302",
+    "lon": "114.175"
+  },
+  "metadata": {},
+  "source": {}
+}

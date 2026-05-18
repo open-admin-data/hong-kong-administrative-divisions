@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J37",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "定安",
+    "en": "Ting On",
+    "slug": "ting-on-j37"
+  },
+  "code": {
+    "id": "HK-KKT-J37",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.315",
+    "lon": "114.221"
+  },
+  "metadata": {},
+  "source": {}
+}

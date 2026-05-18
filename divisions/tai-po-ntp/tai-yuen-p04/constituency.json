@@ -1,0 +1,45 @@
+{
+  "id": "HK-NTP-P04",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "大元",
+    "en": "Tai Yuen",
+    "slug": "tai-yuen-p04"
+  },
+  "code": {
+    "id": "HK-NTP-P04",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NTP",
+    "level": 1,
+    "name": {
+      "local": "大埔",
+      "en": "Tai Po",
+      "slug": "tai-po-ntp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NTP",
+      "level": 1,
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.455",
+    "lon": "114.169"
+  },
+  "metadata": {},
+  "source": {}
+}

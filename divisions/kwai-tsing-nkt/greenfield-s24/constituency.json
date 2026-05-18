@@ -1,0 +1,45 @@
+{
+  "id": "HK-NKT-S24",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "翠怡",
+    "en": "Greenfield",
+    "slug": "greenfield-s24"
+  },
+  "code": {
+    "id": "HK-NKT-S24",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NKT",
+    "level": 1,
+    "name": {
+      "local": "葵青",
+      "en": "Kwai Tsing",
+      "slug": "kwai-tsing-nkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NKT",
+      "level": 1,
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.353",
+    "lon": "114.104"
+  },
+  "metadata": {},
+  "source": {}
+}

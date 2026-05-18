@@ -1,0 +1,45 @@
+{
+  "id": "HK-NST-R23",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "火炭",
+    "en": "Fo Tan",
+    "slug": "fo-tan-r23"
+  },
+  "code": {
+    "id": "HK-NST-R23",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NST",
+    "level": 1,
+    "name": {
+      "local": "沙田區",
+      "en": "Sha Tin",
+      "slug": "sha-tin-nst"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NST",
+      "level": 1,
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.407",
+    "lon": "114.189"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "HK-NNO-N03",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "祥華",
+      "en": "Cheung Wah",
+      "slug": "cheung-wah-n03"
+    },
+    "code": {
+      "id": "HK-NNO-N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.493",
+      "lon": "114.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N09",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "清河",
+      "en": "Ching Ho",
+      "slug": "ching-ho-n09"
+    },
+    "code": {
+      "id": "HK-NNO-N09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.493",
+      "lon": "114.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N12",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "彩園",
+      "en": "Choi Yuen",
+      "slug": "choi-yuen-n12"
+    },
+    "code": {
+      "id": "HK-NNO-N12",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.501",
+      "lon": "114.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N07",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "粉嶺南",
+      "en": "Fanling South",
+      "slug": "fanling-south-n07"
+    },
+    "code": {
+      "id": "HK-NNO-N07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.49",
+      "lon": "114.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N02",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "粉嶺市",
+      "en": "Fanling Town",
+      "slug": "fanling-town-n02"
+    },
+    "code": {
+      "id": "HK-NNO-N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.497",
+      "lon": "114.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N15",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "鳳翠",
+      "en": "Fung Tsui",
+      "slug": "fung-tsui-n15"
+    },
+    "code": {
+      "id": "HK-NNO-N15",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.512",
+      "lon": "114.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N01",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "聯和墟",
+      "en": "Luen Wo Hui",
+      "slug": "luen-wo-hui-n01"
+    },
+    "code": {
+      "id": "HK-NNO-N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.5",
+      "lon": "114.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N18",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "皇后山",
+      "en": "Queen's Hill",
+      "slug": "queens-hill-n18"
+    },
+    "code": {
+      "id": "HK-NNO-N18",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.503",
+      "lon": "114.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N16",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "沙打",
+      "en": "Sha Ta",
+      "slug": "sha-ta-n16"
+    },
+    "code": {
+      "id": "HK-NNO-N16",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.526",
+      "lon": "114.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N13",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "石湖墟",
+      "en": "Shek Wu Hui",
+      "slug": "shek-wu-hui-n13"
+    },
+    "code": {
+      "id": "HK-NNO-N13",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.503",
+      "lon": "114.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N11",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "上水鄉郊",
+      "en": "Sheung Shui Rural",
+      "slug": "sheung-shui-rural-n11"
+    },
+    "code": {
+      "id": "HK-NNO-N11",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.494",
+      "lon": "114.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N08",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "盛福",
+      "en": "Shing Fuk",
+      "slug": "shing-fuk-n08"
+    },
+    "code": {
+      "id": "HK-NNO-N08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.492",
+      "lon": "114.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N17",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "天平東",
+      "en": "Tin Ping East",
+      "slug": "tin-ping-east-n17"
+    },
+    "code": {
+      "id": "HK-NNO-N17",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.504",
+      "lon": "114.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N14",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "天平西",
+      "en": "Tin Ping West",
+      "slug": "tin-ping-west-n14"
+    },
+    "code": {
+      "id": "HK-NNO-N14",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.506",
+      "lon": "114.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N04",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "華都",
+      "en": "Wah Do",
+      "slug": "wah-do-n04"
+    },
+    "code": {
+      "id": "HK-NNO-N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.486",
+      "lon": "114.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N05",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "華明",
+      "en": "Wah Ming",
+      "slug": "wah-ming-n05"
+    },
+    "code": {
+      "id": "HK-NNO-N05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.484",
+      "lon": "114.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N06",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "欣盛",
+      "en": "Yan Shing",
+      "slug": "yan-shing-n06"
+    },
+    "code": {
+      "id": "HK-NNO-N06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.48",
+      "lon": "114.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HK-NNO-N10",
+    "level": 2,
+    "level_name": {
+      "local": "選區",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "御太",
+      "en": "Yu Tai",
+      "slug": "yu-tai-n10"
+    },
+    "code": {
+      "id": "HK-NNO-N10",
+      "iso": null
+    },
+    "parent": {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HK-NNO",
+        "level": 1,
+        "name": {
+          "local": "北區",
+          "en": "North",
+          "slug": "north-nno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.487",
+      "lon": "114.117"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

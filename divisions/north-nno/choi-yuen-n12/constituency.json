@@ -1,0 +1,45 @@
+{
+  "id": "HK-NNO-N12",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "彩園",
+    "en": "Choi Yuen",
+    "slug": "choi-yuen-n12"
+  },
+  "code": {
+    "id": "HK-NNO-N12",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-NNO",
+    "level": 1,
+    "name": {
+      "local": "北區",
+      "en": "North",
+      "slug": "north-nno"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-NNO",
+      "level": 1,
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.501",
+    "lon": "114.126"
+  },
+  "metadata": {},
+  "source": {}
+}

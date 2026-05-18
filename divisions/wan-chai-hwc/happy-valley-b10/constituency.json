@@ -1,0 +1,45 @@
+{
+  "id": "HK-HWC-B10",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "跑馬地",
+    "en": "Happy Valley",
+    "slug": "happy-valley-b10"
+  },
+  "code": {
+    "id": "HK-HWC-B10",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-HWC",
+    "level": 1,
+    "name": {
+      "local": "灣仔",
+      "en": "Wan Chai",
+      "slug": "wan-chai-hwc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-HWC",
+      "level": 1,
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.271",
+    "lon": "114.183"
+  },
+  "metadata": {},
+  "source": {}
+}

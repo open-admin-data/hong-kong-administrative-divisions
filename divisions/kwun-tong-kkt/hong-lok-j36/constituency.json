@@ -1,0 +1,45 @@
+{
+  "id": "HK-KKT-J36",
+  "level": 2,
+  "level_name": {
+    "local": "選區",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "康樂",
+    "en": "Hong Lok",
+    "slug": "hong-lok-j36"
+  },
+  "code": {
+    "id": "HK-KKT-J36",
+    "iso": null
+  },
+  "parent": {
+    "id": "HK-KKT",
+    "level": 1,
+    "name": {
+      "local": "觀塘",
+      "en": "Kwun Tong",
+      "slug": "kwun-tong-kkt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HK-KKT",
+      "level": 1,
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.318",
+    "lon": "114.221"
+  },
+  "metadata": {},
+  "source": {}
+}
