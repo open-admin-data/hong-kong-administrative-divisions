@@ -25,5 +25,9 @@
     "lon": "114.163"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/sham-shui-po-kss/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }

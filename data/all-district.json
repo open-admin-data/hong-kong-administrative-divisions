@@ -26,7 +26,11 @@
       "lon": "114.145"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/central-and-western-hcw/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-HEA",
@@ -55,7 +59,11 @@
       "lon": "114.225"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/eastern-hea/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-NIS",
@@ -84,7 +92,11 @@
       "lon": "113.96"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/islands-nis/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-KKC",
@@ -113,7 +125,11 @@
       "lon": "114.191"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/kowloon-city-kkc/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-NKT",
@@ -142,7 +158,11 @@
       "lon": "114.1"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/kwai-tsing-nkt/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-KKT",
@@ -171,7 +191,11 @@
       "lon": "114.226"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/kwun-tong-kkt/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-NNO",
@@ -200,7 +224,11 @@
       "lon": "114.138"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/north-nno/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-NSK",
@@ -229,7 +257,11 @@
       "lon": "114.27"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/sai-kung-nsk/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-NST",
@@ -258,7 +290,11 @@
       "lon": "114.195"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/sha-tin-nst/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-KSS",
@@ -287,7 +323,11 @@
       "lon": "114.163"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/sham-shui-po-kss/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-HSO",
@@ -316,7 +356,11 @@
       "lon": "114.208"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/southern-hso/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-NTP",
@@ -345,7 +389,11 @@
       "lon": "114.165"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/tai-po-ntp/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-NTW",
@@ -374,7 +422,11 @@
       "lon": "114.106"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/tsuen-wan-ntw/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-NTM",
@@ -403,7 +455,11 @@
       "lon": "113.968"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/tuen-mun-ntm/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-HWC",
@@ -432,7 +488,11 @@
       "lon": "114.172"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/wan-chai-hwc/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-KWT",
@@ -461,7 +521,11 @@
       "lon": "114.193"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/wong-tai-sin-kwt/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-KYT",
@@ -490,7 +554,11 @@
       "lon": "114.169"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/yau-tsim-mong-kyt/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   },
   {
     "id": "HK-NYL",
@@ -519,6 +587,10 @@
       "lon": "114.05"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/hk/districts/yuen-long-nyl/",
+      "api": "https://openadmindata.org/api/hk/"
+    }
   }
 ]

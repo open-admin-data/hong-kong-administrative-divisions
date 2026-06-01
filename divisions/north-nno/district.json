@@ -25,5 +25,9 @@
     "lon": "114.138"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/north-nno/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }

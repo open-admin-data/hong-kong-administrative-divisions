@@ -25,5 +25,9 @@
     "lon": "114.169"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/yau-tsim-mong-kyt/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }

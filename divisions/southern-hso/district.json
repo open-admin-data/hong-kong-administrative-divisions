@@ -25,5 +25,9 @@
     "lon": "114.208"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/southern-hso/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }

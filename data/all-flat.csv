@@ -1,19 +1,20 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.district,children_count.constituency,zip_codes,geo.lat,geo.lon
-HK-HCW,1,區,District,中西區,Central and Western,central-and-western-hcw,HK-HCW,,,,,,15,,22.282,114.145
-HK-HEA,1,區,District,東區,Eastern,eastern-hea,HK-HEA,,,,,,35,,22.277,114.225
-HK-HSO,1,區,District,南區,Southern,southern-hso,HK-HSO,,,,,,17,,22.241,114.208
-HK-HWC,1,區,District,灣仔,Wan Chai,wan-chai-hwc,HK-HWC,,,,,,13,,22.277,114.172
-HK-KKC,1,區,District,九龍城,Kowloon City,kowloon-city-kkc,HK-KKC,,,,,,25,,22.329,114.191
-HK-KKT,1,區,District,觀塘,Kwun Tong,kwun-tong-kkt,HK-KKT,,,,,,40,,22.313,114.226
-HK-KSS,1,區,District,深水埗區,Sham Shui Po,sham-shui-po-kss,HK-KSS,,,,,,25,,22.33,114.163
-HK-KWT,1,區,District,黃大仙,Wong Tai Sin,wong-tai-sin-kwt,HK-KWT,,,,,,25,,22.343,114.193
-HK-KYT,1,區,District,油尖旺,Yau Tsim Mong,yau-tsim-mong-kyt,HK-KYT,,,,,,20,,22.313,114.169
-HK-NIS,1,區,District,離島,Islands,islands-nis,HK-NIS,,,,,,10,,22.264,113.96
-HK-NKT,1,區,District,葵青,Kwai Tsing,kwai-tsing-nkt,HK-NKT,,,,,,31,,22.353,114.1
-HK-NNO,1,區,District,北區,North,north-nno,HK-NNO,,,,,,18,,22.495,114.138
-HK-NSK,1,區,District,西貢區,Sai Kung,sai-kung-nsk,HK-NSK,,,,,,29,,22.382,114.27
-HK-NST,1,區,District,沙田區,Sha Tin,sha-tin-nst,HK-NST,,,,,,41,,22.387,114.195
-HK-NTM,1,區,District,屯門,Tuen Mun,tuen-mun-ntm,HK-NTM,,,,,,31,,22.392,113.968
-HK-NTP,1,區,District,大埔,Tai Po,tai-po-ntp,HK-NTP,,,,,,19,,22.44,114.165
-HK-NTW,1,區,District,荃灣,Tsuen Wan,tsuen-wan-ntw,HK-NTW,,,,,,19,,22.379,114.106
-HK-NYL,1,區,District,元朗,Yuen Long,yuen-long-nyl,HK-NYL,,,,,,39,,22.417,114.05
+# Data from Open Admin Data (https://openadmindata.org/hk/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/hong-kong-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.district,children_count.constituency,zip_codes,geo.lat,geo.lon,source_url
+HK-HCW,1,區,District,中西區,Central and Western,central-and-western-hcw,HK-HCW,,,,,,15,,22.282,114.145,https://openadmindata.org/hk/districts/central-and-western-hcw/
+HK-HEA,1,區,District,東區,Eastern,eastern-hea,HK-HEA,,,,,,35,,22.277,114.225,https://openadmindata.org/hk/districts/eastern-hea/
+HK-HSO,1,區,District,南區,Southern,southern-hso,HK-HSO,,,,,,17,,22.241,114.208,https://openadmindata.org/hk/districts/southern-hso/
+HK-HWC,1,區,District,灣仔,Wan Chai,wan-chai-hwc,HK-HWC,,,,,,13,,22.277,114.172,https://openadmindata.org/hk/districts/wan-chai-hwc/
+HK-KKC,1,區,District,九龍城,Kowloon City,kowloon-city-kkc,HK-KKC,,,,,,25,,22.329,114.191,https://openadmindata.org/hk/districts/kowloon-city-kkc/
+HK-KKT,1,區,District,觀塘,Kwun Tong,kwun-tong-kkt,HK-KKT,,,,,,40,,22.313,114.226,https://openadmindata.org/hk/districts/kwun-tong-kkt/
+HK-KSS,1,區,District,深水埗區,Sham Shui Po,sham-shui-po-kss,HK-KSS,,,,,,25,,22.33,114.163,https://openadmindata.org/hk/districts/sham-shui-po-kss/
+HK-KWT,1,區,District,黃大仙,Wong Tai Sin,wong-tai-sin-kwt,HK-KWT,,,,,,25,,22.343,114.193,https://openadmindata.org/hk/districts/wong-tai-sin-kwt/
+HK-KYT,1,區,District,油尖旺,Yau Tsim Mong,yau-tsim-mong-kyt,HK-KYT,,,,,,20,,22.313,114.169,https://openadmindata.org/hk/districts/yau-tsim-mong-kyt/
+HK-NIS,1,區,District,離島,Islands,islands-nis,HK-NIS,,,,,,10,,22.264,113.96,https://openadmindata.org/hk/districts/islands-nis/
+HK-NKT,1,區,District,葵青,Kwai Tsing,kwai-tsing-nkt,HK-NKT,,,,,,31,,22.353,114.1,https://openadmindata.org/hk/districts/kwai-tsing-nkt/
+HK-NNO,1,區,District,北區,North,north-nno,HK-NNO,,,,,,18,,22.495,114.138,https://openadmindata.org/hk/districts/north-nno/
+HK-NSK,1,區,District,西貢區,Sai Kung,sai-kung-nsk,HK-NSK,,,,,,29,,22.382,114.27,https://openadmindata.org/hk/districts/sai-kung-nsk/
+HK-NST,1,區,District,沙田區,Sha Tin,sha-tin-nst,HK-NST,,,,,,41,,22.387,114.195,https://openadmindata.org/hk/districts/sha-tin-nst/
+HK-NTM,1,區,District,屯門,Tuen Mun,tuen-mun-ntm,HK-NTM,,,,,,31,,22.392,113.968,https://openadmindata.org/hk/districts/tuen-mun-ntm/
+HK-NTP,1,區,District,大埔,Tai Po,tai-po-ntp,HK-NTP,,,,,,19,,22.44,114.165,https://openadmindata.org/hk/districts/tai-po-ntp/
+HK-NTW,1,區,District,荃灣,Tsuen Wan,tsuen-wan-ntw,HK-NTW,,,,,,19,,22.379,114.106,https://openadmindata.org/hk/districts/tsuen-wan-ntw/
+HK-NYL,1,區,District,元朗,Yuen Long,yuen-long-nyl,HK-NYL,,,,,,39,,22.417,114.05,https://openadmindata.org/hk/districts/yuen-long-nyl/

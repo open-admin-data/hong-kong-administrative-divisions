@@ -25,5 +25,9 @@
     "lon": "114.1"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/kwai-tsing-nkt/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }

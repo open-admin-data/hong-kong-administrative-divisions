@@ -25,5 +25,9 @@
     "lon": "114.191"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/kowloon-city-kkc/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }

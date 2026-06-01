@@ -1,524 +1,599 @@
-[
-  {
-    "id": "HK-HCW",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "中西區",
-      "en": "Central and Western",
-      "slug": "central-and-western-hcw"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/hk/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/hong-kong-administrative-divisions",
+  "data": [
+    {
       "id": "HK-HCW",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "中西區",
+        "en": "Central and Western",
+        "slug": "central-and-western-hcw"
+      },
+      "code": {
+        "id": "HK-HCW",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.282",
+        "lon": "114.145"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/central-and-western-hcw/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 15
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.282",
-      "lon": "114.145"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-HEA",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "東區",
-      "en": "Eastern",
-      "slug": "eastern-hea"
-    },
-    "code": {
+    {
       "id": "HK-HEA",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "東區",
+        "en": "Eastern",
+        "slug": "eastern-hea"
+      },
+      "code": {
+        "id": "HK-HEA",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 35
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.277",
+        "lon": "114.225"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/eastern-hea/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 35
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.277",
-      "lon": "114.225"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-HSO",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "南區",
-      "en": "Southern",
-      "slug": "southern-hso"
-    },
-    "code": {
+    {
       "id": "HK-HSO",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "南區",
+        "en": "Southern",
+        "slug": "southern-hso"
+      },
+      "code": {
+        "id": "HK-HSO",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 17
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.241",
+        "lon": "114.208"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/southern-hso/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 17
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.241",
-      "lon": "114.208"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-HWC",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "灣仔",
-      "en": "Wan Chai",
-      "slug": "wan-chai-hwc"
-    },
-    "code": {
+    {
       "id": "HK-HWC",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "灣仔",
+        "en": "Wan Chai",
+        "slug": "wan-chai-hwc"
+      },
+      "code": {
+        "id": "HK-HWC",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 13
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.277",
+        "lon": "114.172"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/wan-chai-hwc/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 13
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.277",
-      "lon": "114.172"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-KKC",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "九龍城",
-      "en": "Kowloon City",
-      "slug": "kowloon-city-kkc"
-    },
-    "code": {
+    {
       "id": "HK-KKC",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "九龍城",
+        "en": "Kowloon City",
+        "slug": "kowloon-city-kkc"
+      },
+      "code": {
+        "id": "HK-KKC",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 25
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.329",
+        "lon": "114.191"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/kowloon-city-kkc/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 25
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.329",
-      "lon": "114.191"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-KKT",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "觀塘",
-      "en": "Kwun Tong",
-      "slug": "kwun-tong-kkt"
-    },
-    "code": {
+    {
       "id": "HK-KKT",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "觀塘",
+        "en": "Kwun Tong",
+        "slug": "kwun-tong-kkt"
+      },
+      "code": {
+        "id": "HK-KKT",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 40
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.313",
+        "lon": "114.226"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/kwun-tong-kkt/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 40
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.313",
-      "lon": "114.226"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-KSS",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "深水埗區",
-      "en": "Sham Shui Po",
-      "slug": "sham-shui-po-kss"
-    },
-    "code": {
+    {
       "id": "HK-KSS",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "深水埗區",
+        "en": "Sham Shui Po",
+        "slug": "sham-shui-po-kss"
+      },
+      "code": {
+        "id": "HK-KSS",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 25
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.33",
+        "lon": "114.163"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/sham-shui-po-kss/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 25
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.33",
-      "lon": "114.163"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-KWT",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "黃大仙",
-      "en": "Wong Tai Sin",
-      "slug": "wong-tai-sin-kwt"
-    },
-    "code": {
+    {
       "id": "HK-KWT",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "黃大仙",
+        "en": "Wong Tai Sin",
+        "slug": "wong-tai-sin-kwt"
+      },
+      "code": {
+        "id": "HK-KWT",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 25
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.343",
+        "lon": "114.193"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/wong-tai-sin-kwt/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 25
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.343",
-      "lon": "114.193"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-KYT",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "油尖旺",
-      "en": "Yau Tsim Mong",
-      "slug": "yau-tsim-mong-kyt"
-    },
-    "code": {
+    {
       "id": "HK-KYT",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "油尖旺",
+        "en": "Yau Tsim Mong",
+        "slug": "yau-tsim-mong-kyt"
+      },
+      "code": {
+        "id": "HK-KYT",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 20
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.313",
+        "lon": "114.169"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/yau-tsim-mong-kyt/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 20
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.313",
-      "lon": "114.169"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-NIS",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "離島",
-      "en": "Islands",
-      "slug": "islands-nis"
-    },
-    "code": {
+    {
       "id": "HK-NIS",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "離島",
+        "en": "Islands",
+        "slug": "islands-nis"
+      },
+      "code": {
+        "id": "HK-NIS",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.264",
+        "lon": "113.96"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/islands-nis/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 10
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.264",
-      "lon": "113.96"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-NKT",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "葵青",
-      "en": "Kwai Tsing",
-      "slug": "kwai-tsing-nkt"
-    },
-    "code": {
+    {
       "id": "HK-NKT",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "葵青",
+        "en": "Kwai Tsing",
+        "slug": "kwai-tsing-nkt"
+      },
+      "code": {
+        "id": "HK-NKT",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 31
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.353",
+        "lon": "114.1"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/kwai-tsing-nkt/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 31
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.353",
-      "lon": "114.1"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-NNO",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "北區",
-      "en": "North",
-      "slug": "north-nno"
-    },
-    "code": {
+    {
       "id": "HK-NNO",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "北區",
+        "en": "North",
+        "slug": "north-nno"
+      },
+      "code": {
+        "id": "HK-NNO",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 18
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.495",
+        "lon": "114.138"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/north-nno/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 18
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.495",
-      "lon": "114.138"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-NSK",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "西貢區",
-      "en": "Sai Kung",
-      "slug": "sai-kung-nsk"
-    },
-    "code": {
+    {
       "id": "HK-NSK",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "西貢區",
+        "en": "Sai Kung",
+        "slug": "sai-kung-nsk"
+      },
+      "code": {
+        "id": "HK-NSK",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 29
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.382",
+        "lon": "114.27"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/sai-kung-nsk/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 29
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.382",
-      "lon": "114.27"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-NST",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "沙田區",
-      "en": "Sha Tin",
-      "slug": "sha-tin-nst"
-    },
-    "code": {
+    {
       "id": "HK-NST",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "沙田區",
+        "en": "Sha Tin",
+        "slug": "sha-tin-nst"
+      },
+      "code": {
+        "id": "HK-NST",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 41
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.387",
+        "lon": "114.195"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/sha-tin-nst/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 41
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.387",
-      "lon": "114.195"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-NTM",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "屯門",
-      "en": "Tuen Mun",
-      "slug": "tuen-mun-ntm"
-    },
-    "code": {
+    {
       "id": "HK-NTM",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "屯門",
+        "en": "Tuen Mun",
+        "slug": "tuen-mun-ntm"
+      },
+      "code": {
+        "id": "HK-NTM",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 31
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.392",
+        "lon": "113.968"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/tuen-mun-ntm/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 31
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.392",
-      "lon": "113.968"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-NTP",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "大埔",
-      "en": "Tai Po",
-      "slug": "tai-po-ntp"
-    },
-    "code": {
+    {
       "id": "HK-NTP",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "大埔",
+        "en": "Tai Po",
+        "slug": "tai-po-ntp"
+      },
+      "code": {
+        "id": "HK-NTP",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 19
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.44",
+        "lon": "114.165"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/tai-po-ntp/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 19
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.44",
-      "lon": "114.165"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-NTW",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "荃灣",
-      "en": "Tsuen Wan",
-      "slug": "tsuen-wan-ntw"
-    },
-    "code": {
+    {
       "id": "HK-NTW",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "荃灣",
+        "en": "Tsuen Wan",
+        "slug": "tsuen-wan-ntw"
+      },
+      "code": {
+        "id": "HK-NTW",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 19
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.379",
+        "lon": "114.106"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/tsuen-wan-ntw/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 19
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.379",
-      "lon": "114.106"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "HK-NYL",
-    "level": 1,
-    "level_name": {
-      "local": "區",
-      "en": "District"
-    },
-    "name": {
-      "local": "元朗",
-      "en": "Yuen Long",
-      "slug": "yuen-long-nyl"
-    },
-    "code": {
+    {
       "id": "HK-NYL",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "constituency": 39
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "22.417",
-      "lon": "114.05"
-    },
-    "metadata": {},
-    "source": {}
-  }
-]
+      "level": 1,
+      "level_name": {
+        "local": "區",
+        "en": "District"
+      },
+      "name": {
+        "local": "元朗",
+        "en": "Yuen Long",
+        "slug": "yuen-long-nyl"
+      },
+      "code": {
+        "id": "HK-NYL",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "constituency": 39
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.417",
+        "lon": "114.05"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/hk/districts/yuen-long-nyl/",
+        "api": "https://openadmindata.org/api/hk/"
+      }
+    }
+  ]
+}

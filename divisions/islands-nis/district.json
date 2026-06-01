@@ -25,5 +25,9 @@
     "lon": "113.96"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/islands-nis/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }

@@ -25,5 +25,9 @@
     "lon": "114.145"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/central-and-western-hcw/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }

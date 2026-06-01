@@ -25,5 +25,9 @@
     "lon": "114.27"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/sai-kung-nsk/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }

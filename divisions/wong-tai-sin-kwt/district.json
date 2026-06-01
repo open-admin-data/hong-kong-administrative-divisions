@@ -25,5 +25,9 @@
     "lon": "114.193"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/hk/districts/wong-tai-sin-kwt/",
+    "api": "https://openadmindata.org/api/hk/"
+  }
 }
