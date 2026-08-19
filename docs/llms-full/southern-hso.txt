@@ -3,7 +3,7 @@
 > 17 constituencys
 > Code: HK-HSO
 > Coordinates: 22.241, 114.208
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Constituencys
 
