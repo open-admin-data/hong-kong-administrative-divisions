@@ -15,9 +15,10 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/hk](https://openadmindata.org/hk/) |
 | API | [openadmindata.org/api/hk](https://openadmindata.org/api/hk/) |
+| Flag | [PNG](https://onlygames.me/flags-png/hk/) · [SVG](https://onlygames.me/flags-svg/hk/) · [PDF](https://onlygames.me/flags-pdf/hk/) |
 | National Anthem | [🎵 Listen & Download Hong Kong National Anthem MP3](https://onlygames.me/national-anthems/hk/) |
 
 ## Browse by District

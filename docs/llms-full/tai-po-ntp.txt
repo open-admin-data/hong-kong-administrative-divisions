@@ -3,7 +3,7 @@
 > 19 constituencys
 > Code: HK-NTP
 > Coordinates: 22.44, 114.165
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Constituencys
 
